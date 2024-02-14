@@ -1,0 +1,768 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-25 13:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:2
+msgid "Interne Förderrichtlinie"
+msgstr "Internal Funding Guideline"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here <https://ordnungen.stura.eu/en/ordnung/foerderrichtlinie-"
+"intern.html>`_."
+msgstr ""
+"This is a translation of the "
+"original text. Only the `German version"
+" of this regulation "
+"<https://ordnungen.stura.eu/ordnung/foerderrichtlinie-"
+"extern.html>`_ is legally binding."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:9
+msgid "1. Teil: Ablauf eines internen Finanzantrags"
+msgstr "Part 1: Procedure of an internal financial request"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:11
+msgid "Grundsätzlich ist ein Projektantrag vor dem Projektbeginn zu stellen."
+msgstr ""
+"In principle, a project application must be submitted before the project "
+"begins."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:12
+msgid ""
+"Das Organ der Studierendenschaft bzw. der entsprechende Fachschaftsrat "
+"muss einen Beschluss mit der absoluten Mehrheit seiner direkt gewählten "
+"Mitglieder fassen."
+msgstr ""
+"The body of the student body or the corresponding student council must "
+"pass a resolution with the absolute majority of its directly elected "
+"members."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:13
+msgid ""
+"Für Organe, welche nicht direkt gewählt werden, gilt die Mehrheit der "
+"Anwesenden."
+msgstr ""
+"For bodies which are not directly elected, the majority of those present "
+"shall apply."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:14
+msgid ""
+"Dieser Projektantrag muss unter Angabe des Projektnamens, -zeitraums, - "
+"verantwortlichen, der Postenaufschlüsselung (Finanzplan), einer für "
+"Dritte allgemeinverständliche Beschreibung des Projektesund dem "
+"entsprechenden Protokolllink zur Abstimmung und Diskussion beim Referat "
+"Finanzen unter |finanztool| eingereicht werden. Das Protokoll und die "
+"Projektbeschreibung sind dabei so ausführlich zu gestalten, dass u. a. "
+"die Innenrevision oder der Landesrechnungshof in der Lage wären, zu "
+"verstehen um was für ein Projekt es sich handelt und inwieweit das "
+"Projekt im Sinne der Studierendenschaft/Fachschaft sowie den Aufgaben der"
+" Studierendenschaft gemäß dem Thüringer Hochschulgesetz sind. Es sollen, "
+"wenn möglich Kalkulationen dokumentiert werden."
+msgstr ""
+"This project application must be submitted to the Finance Department at "
+"finanzen.stura.eu, stating the project name, period, person responsible, "
+"the item breakdown (budget), a description of the project that is "
+"generally comprehensible to third parties, and the corresponding protocol"
+" link for voting and discussion. The protocol and the project description"
+" are to be so detailed that, among other things, the internal audit or "
+"the State Audit Office would be able to understand what kind of project "
+"it is and to what extent the project is in the interest of the student "
+"body / faculty and the tasks of the student body according to the "
+"Thuringian University Act. If possible, calculations should be "
+"documented."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:15
+msgid ""
+"Der Projektantrag muss spätestens 72 Stunden vor der nächsten regulären "
+"Stura-Sitzung eingereicht werden. Der Projektantrag soll spätestens eine "
+"Woche vor der nächsten regulären Stura-Sitzung eingereicht sein. In "
+"dringenden Ausnahmefällen, kann unter Begründung und nur in Absprache mit"
+" dem Referat Finanzen die Fristen verkürzt werden."
+msgstr ""
+"The project application must be submitted at least 72 hours before the "
+"next regular Stura meeting. The project application should be submitted "
+"at least one week before the next regular Stura meeting. In urgent "
+"exceptional cases, the deadlines can be shortened with justification and "
+"only in consultation with the Finance Department."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:16
+msgid ""
+"Die in Nr. 5 genannte Regelungen verpflichtet das Referat Finanzen nicht "
+"zu einer abschließenden Prüfung des Projekts innerhalb der genannten "
+"Fristen."
+msgstr ""
+"The regulations referred to in No. 5 do not oblige the Finance Unit to "
+"carry out a final audit of the project within the specified deadlines."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:17
+msgid ""
+"Die in Nr. 5 genannten Fristen gelten ausschließlich für die "
+"Vorlesungszeit."
+msgstr "The deadlines specified in No. 5 apply exclusively to the lecture period."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:18
+msgid ""
+"In der vorlesungsfreien Zeit werden die Fristen individuell durch das "
+"Referat Finanzen festgelegt."
+msgstr ""
+"In the lecture-free period, the deadlines are set individually by the "
+"Finance Department."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:19
+msgid ""
+"Das Referat Finanzen in Vertretung durch die/den (stellvertretende/n) "
+"Haushaltsverantwortliche/n ist gemäß §4 ThürStudFVO damit beauftragt die "
+"Prüfung vorzunehmen."
+msgstr ""
+"The Finance Department, represented by the (deputy) budget officer, is "
+"commissioned to carry out the audit in accordance with §4 ThürStudFVO."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:20
+msgid ""
+"Sollte es bei der Prüfung zu Rückfragen an die/den Antragssteller/in "
+"kommen, sind diese dazu angehalten, während der Vorlesungszeit innerhalb "
+"von einer Woche eine adäquate Rückmeldung an das Referat Finanzen zu "
+"geben."
+msgstr ""
+"If there are any queries to the applicant during the audit, they are "
+"required to provide adequate feedback to the Finance Unit within one week"
+" during the lecture period."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:21
+msgid ""
+"Wird die Prüfung mit einem negativen Ergebnis abgeschlossen, gilt der "
+"Antrag als abgelehnt und muss ggf. nachgebessert werden."
+msgstr ""
+"If the test is concluded with a negative result, the application is "
+"considered rejected and may have to be improved."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:22
+msgid ""
+"Ist die Prüfung mit einem positiven Ergebnis abgeschlossen, bringt "
+"der/die (stellvertretende) Haushaltsverantwortliche den Projektantrag mit"
+" Beschlussvorschlag gemäß dieser Richtlinie in angemessener Art und Weise"
+" auf die Stura-Sitzung. Anmerkungen, Besonderheiten sowie Bedenken "
+"der/des (stellvertretende/n) Haushaltsverantwortliche/n sind dem "
+"Beschlussvorschlag beizufügen."
+msgstr ""
+"If the review is completed with a positive result, the (deputy) budget "
+"officer shall bring the project application with a proposed resolution in"
+" accordance with these guidelines to the Stura meeting in an appropriate "
+"manner. Comments, specifics as well as concerns of the (deputy) budget "
+"officer shall be attached to the proposed resolution."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:23
+msgid ""
+"Kommt der Stura bei Anträgen die unter § 7 fallen zu einem negativen "
+"Ergebnis, greift an dieser Stelle die Regelung aus Nr. 11."
+msgstr ""
+"If the Stura comes to a negative result with applications which fall "
+"under § 7, the regulation from No. 11 takes effect at this point."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:24
+msgid ""
+"Kommt der Stura bei Anträgen die unter § 7 fallen zu einem positiven "
+"Ergebnis, gilt der Antrag als angenommen. Nach Veröffentlichung des "
+"Protokolls fügt der/die (stellvertretende) Haushaltsverantwortliche die "
+"Beschlussnummer bei. Mit der Eintragung der Beschlussnummer können "
+"Projektausgaben getätigt werden."
+msgstr ""
+"If the StuRa reaches a positive result for motions that fall under § 7, "
+"the motion is considered accepted. After publication of the minutes, the "
+"(deputy) budget officer shall attach the resolution number. With the "
+"entry of the resolution number, project expenditures can be made."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:27
+msgid "2. Teil: Förderungswürdige Projekte und Projektbestandteile"
+msgstr "Part 2: Eligible projects and Projektbestandteile"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:30
+msgid "§ 1 Generell"
+msgstr "§ 1 General"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:32
+msgid ""
+"Gemäß dem Thüringer Hochschulgesetzt und der ThürStudFVO sind die "
+"Prinzipien der Wirtschaftlichkeit und Sparsamkeit anzuwenden. "
+"Dementsprechend sind Kalkulationen und Vergleichsangebote zu "
+"berücksichtigen. Von der günstigsten Alternative kann abgewichen werden, "
+"wenn der Studierendenden- oder Fachschaft dadurch ein höherer Vorteil wie"
+" z.B. eine längere Haltbarkeit oder Nutzbarkeit entsteht. Zusätzlich "
+"sollen ökologisch vertretbare Alternativen gefunden werden."
+msgstr ""
+"In accordance with the Thuringian Higher Education Act and the "
+"ThürStudFVO, the principles of economic efficiency and economy must be "
+"applied. Accordingly, calculations and comparative offers are to be taken"
+" into account. It is possible to deviate from the most favorable "
+"alternative if this results in a greater advantage for the student body "
+"or faculty, such as longer durability or usability. In addition, "
+"ecologically justifiable alternatives should be found."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:36
+msgid "§ 2 Verbrauchsmaterial"
+msgstr "§ 2 Consumables"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:38
+msgid ""
+"Verbrauchsmaterial darf zu internen Zwecken mit einer entsprechenden "
+"Abstimmung und einem entsprechenden Beschluss des Organs der "
+"Studierendenschaft oder der Fachschaften bis zu einem Betrag von 150 EUR "
+"ohne Verkündung oder zusätzlichem Antrag im Stura genehmigt werden (vgl. "
+"§ 11 Finanzordnung). Der StuRa muss auf der nächsten ordentlichen Sitzung"
+" darüber informiert werden."
+msgstr ""
+"Consumables may be approved for internal purposes with a corresponding "
+"vote and resolution of the body of the student body or the student "
+"representative bodies up to an amount of 150 EUR without proclamation or "
+"additional application in the Stura (cf. § 11 Financial Regulations). The"
+" StuRa must be informed about this at the next regular meeting."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:41
+msgid "§ 3 Bürobedarf"
+msgstr "§ 3 Office supplies"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:43
+msgid ""
+"Das Referat Finanzen darf Bürobedarf für die Erfüllung des Tagesgeschäfts"
+" eines Organs der Studierendenschaft oder der Fachschaft bis zu einem "
+"Wert von 50 EUR ohne weitere Stura Beschluss oder einer Verkündung durch "
+"den HV genehmigen. Der Bürobedarf kann dem Referat Finanzen einmal im "
+"Semester angezeigt werden. Dafür soll ein Beschluss des jeweiligen "
+"Gremiums vorliegen."
+msgstr ""
+"The Finance Department may approve office supplies for the fulfillment of"
+" the daily business of a body of the student body or the student council "
+"up to a value of 50 EUR without further Stura resolution or a "
+"proclamation by the AGM. Office needs can be reported to the Finance "
+"Department once a semester. A resolution of the respective body should be"
+" available for this."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:46
+msgid "§ 4 Fahrt-/Reisekosten"
+msgstr "§ 4 Travel expenses"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:49
+msgid "A. Fahrtkosten"
+msgstr "A. Travel expenses"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:51
+msgid ""
+"Fahrtkosten können erstattet werden, sofern der Fahrzeughalter oder der "
+"Projektverantwortliche drei Tage vor Beginn des Projektes einen Antrag "
+"beim Referat Finanzen stellt. Die/der Fahrzeughalter/in bzw. die/der "
+"Fahrer/in ist namentlich in der Projektbeschreibung zu nennen. Durch die "
+"Nutzung von Privatkraftfahrzeugen entstandene Fahrtkosten können in der "
+"Regel nur mit einer Kilometerpauschale von bis zu 17 Ct/km + 0,2 Ct/km "
+"für jeden Mitfahrer angesetzt werden, welche Tankkosten und alle "
+"sonstigen Abnutzungen des Fahrzeuges abdeckt. In begründeten "
+"Ausnahmefällen kann der/die Haushaltsverantwortliche Abweichungen "
+"zustimmen, muss dies jedoch auf der nächsten ordentlichen StuRa Sitzung "
+"verkünden."
+msgstr ""
+"Travel expenses may be reimbursed provided that the vehicle owner or the "
+"person responsible for the project submits an application to the Finance "
+"Unit three days before the start of the project. The vehicle owner or "
+"driver must be named in the project description. Travel costs incurred "
+"through the use of private vehicles can generally only be reimbursed with"
+" a mileage allowance of up to 17 Ct/km + 0.2 Ct/km for each passenger, "
+"which covers fuel costs and all other wear and tear on the vehicle. In "
+"justified exceptional cases, the person responsible for the budget may "
+"agree to deviations, but must announce this at the next regular StuRa "
+"meeting."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:54
+msgid "B. Verpflegungspauschale"
+msgstr "B. Meal allowance"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:56
+msgid ""
+"Bei internen Projekten, deren Ausführung weiter als 25 km Fahrtweg auf "
+"der kurzmöglichsten Strecke von Ilmenau oder dem Heimatort (z.B. 1. und "
+"2. Wohnsitz) der Teilnehmer/innen ist, kann eine Verpflegungspauschale "
+"für Mittag- und Abendessen in Höhe von insgesamt 10 EUR pro Tag beantragt"
+" werden. Um seinen Anspruch geltend zu machen, muss der/die "
+"Antragssteller/in glaubhaft erklären, dass die Verpflegung nicht "
+"vollständig durch die Veranstaltung oder andere Umstände abgedeckt werden"
+" kann. Anteilige Verpflegung durch den Veranstalter sind von der "
+"Pauschale abzuziehen. Falls die Anreise nach 12 Uhr beginnt, wird der "
+"Anspruch um 5 Euro an diesem Tag verringert. Falls die Abreise vor 18 Uhr"
+" endet, wird der Anspruch um 5 Euro an diesem Tag verringert."
+msgstr ""
+"For internal projects whose execution is further than 25 km travel "
+"distance on the shortest possible route from Ilmenau or the home town "
+"(e.g. 1st and 2nd residence) of the participants, a lump sum for lunch "
+"and dinner can be applied for in the total amount of 10 EUR per day. In "
+"order to make his/her claim, the applicant must credibly declare that the"
+" catering cannot be fully covered by the event or other circumstances. "
+"Proportionate catering by the organizer must be deducted from the lump "
+"sum. If the arrival starts after 12 o'clock, the claim will be reduced by"
+" 5 Euro on this day. If the departure ends before 6 pm, the claim will be"
+" reduced by 5 euros on that day."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:59
+msgid "C. BahnCard"
+msgstr "C. BahnCard"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:61
+msgid ""
+"Privat gekaufte Bahncards können rückwirkend gefördert werden, wenn "
+"der/die Antragssteller/in nachweisen kann, dass eine rückwirkende "
+"Finanzierung der Bahncard des Mitgliedes für den Studierendenrat "
+"kostenneutral oder finanziell von Vorteil ist. Der Nachweis der "
+"eingesparten Gelder sowie der Kaufbeleg der Bahncard sind textlich beim "
+"Referat Finanzen binnen spätestens einem Semester nach Verlust des "
+"Studierendenstatus an der TU Ilmenau einzureichen. Als Nachweise sind "
+"Rechnungen/Kaufbelege und Vergleichsangebote einzureichen. Der/die "
+"Antragssteller/in muss ein Mitglied eines der Organe der "
+"Studierendenschaft oder der Fachschaft gewesen sein."
+msgstr ""
+"Privately purchased Bahncards can be funded retroactively if the "
+"applicant can prove that retroactive funding of the member's Bahncard is "
+"cost-neutral or financially beneficial to the Student Council. Proof of "
+"the money saved as well as proof of purchase of the Bahncard must be "
+"submitted in text form to the Finance Department within one semester of "
+"losing student status at the TU Ilmenau at the latest. Invoices/purchase "
+"receipts and comparative offers are to be submitted as proof. The "
+"applicant must have been a member of one of the bodies of the student "
+"body or the student council."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:64
+msgid "D. Deutschlandticket"
+msgstr "D. Deutschlandticket"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:66
+msgid ""
+"Privat gekaufte Deutschlandtickets können rückwirkend gefördert werden, "
+"wenn der/die Antragssteller/in nachweisen kann, dass eine rückwirkende "
+"Finanzierung des Deutschlandtickets des Mitgliedes für den "
+"Studierendenrat kostenneutral oder finanziell von Vorteil ist. Eine Teil-"
+"Förderung in Höhe der Kosten, die bei ausschließlicher Nutzung der mit "
+"dem Deutschlandticket nutzbaren Verkehrsmittel durch Kauf eines regulären"
+" Tickets förderfähig gewesen wären, ist möglich. Hierbei werden nur die "
+"Kosten für den nicht mit der thoska nutzbaren Teil der Strecke gefördert."
+" Der Nachweis der eingesparten Gelder sowie der Kaufbeleg des "
+"Deutschlandtickets sind textlich beim Referat Finanzen binnen spätestens "
+"einem Semester nach Verlust des Studierendenstatus an der TU Ilmenau "
+"einzureichen. Als Nachweise sind Rechnungen/Kaufbelege und "
+"Vergleichsangebote einzureichen. Der/die Antragssteller/in muss ein "
+"Mitglied eines der Organe der Studierendenschaft oder der Fachschaft "
+"gewesen sein."
+msgstr ""
+"Privately purchased Deutschlandtickets can be funded retroactively if the"
+" applicant can prove that retroactive funding of the member's "
+"Deutschlandticket is cost-neutral or financially beneficial to the "
+"Student Council. Partial funding in the amount of the costs that would "
+"have been eligible for funding if the member had only used the means of "
+"transportation that can be used with the Deutschlandticket by purchasing "
+"a regular ticket is possible. In this case, only the costs for the part "
+"of the route that cannot be used with the thoska are subsidized. Proof of"
+" the money saved as well as proof of purchase of the Deutschlandticket "
+"must be submitted in text form to the Finance Department within one "
+"semester at the latest after the loss of student status at the TU "
+"Ilmenau. Invoices/purchase receipts and comparative offers are to be "
+"submitted as evidence. The applicant must have been a member of one of "
+"the bodies of the student body or the student council."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:69
+msgid "§ 5 Gremienkleidung"
+msgstr "§ 5 Committee clothing"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:72
+msgid "A. Allgemein"
+msgstr "A. General"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:74
+msgid ""
+"Gewählte Mitglieder des Studierendenrates, des Studierendenbeirates und "
+"der Fachschaftsräte dürfen ein Kleidungsstück mit dem Aufdruck ihres "
+"Gremiums mit einem maximalen Wert von 30 € fördern lassen. Liegt der "
+"Preis unterhalb dieses Budgets, verfällt der Differenzbetrag. Wird ein "
+"teureres Kleidungsstück gewählt, ist eine eigene Zuzahlung des jeweiligen"
+" Gremienmitglieds nötig. Sollten mehrere Kleidungsstücke bestellt werden,"
+" gilt die Förderung immer für das teuerste Kleidungsstück. Das jeweilige "
+"Gremium bestimmt den Aufdruck und die Kleidungsmarke. Für aktive "
+"Mitglieder der Organe der Studierendenschaft und der Fachschaft sind "
+"diese Regelungen dann analog anzuwenden, wenn das jeweilige Gremium einen"
+" Beschluss für die jeweils zu begünstigenden Mitglieder namentlich fasst."
+" Jede Person kann pro Gremium und Legislatur diese Regelung nur einmalig "
+"anwenden. Die Förderung muss beim Referat Finanzen entsprechend der "
+"Regeln aus Teil 1 beantragt werden."
+msgstr ""
+"Elected members of the Student Council, the Student Advisory Council and "
+"the Student Representative Councils may have an item of clothing with the"
+" imprint of their body sponsored with a maximum value of €30. If the "
+"price is below this budget, the difference is forfeited. If a more "
+"expensive piece of clothing is chosen, the respective committee member "
+"must make his or her own additional payment. If several items of clothing"
+" are ordered, the sponsorship always applies to the most expensive item "
+"of clothing. The respective committee determines the imprint and the "
+"clothing brand. For active members of the bodies of the student body and "
+"the student council, these regulations are to be applied analogously if "
+"the respective body passes a resolution for the respective members to be "
+"benefited by name. Each person can only apply this regulation once per "
+"committee and legislature. The funding must be applied for at the Finance"
+" Department according to the rules from Part 1."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:79
+msgid "B. Eigenanteile"
+msgstr "B. Own contributions"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:81
+msgid ""
+"Dem Referat Finanzen ist zu jeder Bestellung von Gremienkleidung eine "
+"Auflistung der Bestellugen pro Person zur Verfügung zu stellen. Die "
+"Auflistung (in Form einer digitalen Tabelle) muss folgende Informationen "
+"pro Person enthalten: Kleidungsstücke, Vor- und Nachname, Preis pro "
+"Kleidungsstück und Druck inkl. Mehrwertsteuer und Höhe des Eigenanteils."
+msgstr ""
+"For each order of committee clothing, a list of the orders per person is "
+"to be provided to the Finance Department. The listing (in the form of a "
+"digital table) must contain the following information per person: "
+"Garments, first and last name, price per garment and print incl. VAT and "
+"amount of personal contribution."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:84
+msgid "C. Sonderreglung Tutorenkleidung"
+msgstr "C. Special regulation tutor clothing"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:86
+msgid ""
+"Für die Kleidungsstücke der Tutor/innen der ErstiWoche wird in Abweichung"
+" von Satz 1 ein maximaler Wert von 20 EUR gefördert."
+msgstr ""
+"For the clothing of the tutors of the ErstiWoche, a maximum value of 20 "
+"EUR is supported in deviation from sentence 1."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:89
+msgid "§ 6 Beschlüsse bis einschließlich 250 €"
+msgstr "§ 6 Resolutions up to and including 250 €"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:91
+msgid ""
+"Die (stellvertretenden) Haushaltsverantwortlichen sind dazu ermächtigt "
+"Anträge von bis einschließlich 250 EUR von Organen der Studierendenschaft"
+" oder der Fachschaften zu genehmigen. Der Antrag muss gemäß Teil 1 beim "
+"Referat Finanzen gestellt werden. Die (stellvertretenden) "
+"Haushaltsverantwortlichen sollen diesen Beschluss zum nächstmöglichen "
+"Zeitpunkt auf der Sutra-Sitzung zu verkünden."
+msgstr ""
+"The (deputy) budget officers are authorized to approve requests of up to "
+"and including 250 EUR from student body organs or student representative "
+"bodies. The application must be submitted to the Finance Department in "
+"accordance with Part 1. The (deputy) budget officers shall announce this "
+"decision at the next possible Sutra meeting."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:94
+msgid "§ 7 Beschlüsse über 250 €"
+msgstr "§ 7 Resolutions over 250 €"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:96
+msgid ""
+"Für interne Projekte deren Budget 250 EUR übersteigt, ist zusätzlich zur "
+"Abstimmung und dem Beschluss des jeweiligen Gremiums, eine Abstimmung und"
+" ein Beschluss des Stura notwendig. Die benötigten Mehrheiten ergeben "
+"sich aus §§11 Ab. 2 i.V.m. 5 Abs. 4 der Finanzordnung der "
+"Studierendenschaft."
+msgstr ""
+"For internal projects whose budget exceeds 250 EUR, a vote and a "
+"resolution of the Stura is necessary in addition to the vote and "
+"resolution of the respective committee. The required majorities result "
+"from §§11 Ab. 2 i.V.m. 5 Abs. 4 of the financial regulations of the "
+"student body."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:99
+msgid "§ 8 Laufende Kosten"
+msgstr "§ 8 Current costs"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:101
+msgid ""
+"Für Projekte, welche laufende Kosten erzeugen, sind vor Beginn, falls "
+"möglich, drei Vergleichsangebote einzuholen und gemäß §7 zu behandeln. "
+"Die Kosten sind im Haushaltsplan des folgenden Haushaltsjahres zu "
+"berücksichtigen."
+msgstr ""
+"For projects which generate ongoing costs, three comparative offers are "
+"to be obtained before commencement, if possible, and dealt with in "
+"accordance with §7. The costs are to be included in the budget of the "
+"following financial year."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:104
+msgid "§ 9 Weitere Anträge"
+msgstr "§ 9 Weitere Anträge"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:105
+msgid ""
+"Der StuRa kann unter Vorbehalt Finanzanträge ohne vorhergehende Prüfung "
+"durch das Referat Finanzen beschließen. Erst mit der Prüfung und einem "
+"positiven Ergebnis durch das Referat Finanzen vertreten durch den "
+"(stellv.) Haushaltsverantwortlichen ist der Antrag angenommen. Bei einer "
+"Ablehnung ist der StuRa auf der nächsten regulären Sitzung zu "
+"informieren."
+msgstr ""
+"The StuRa may conditionally approve financial applications without prior "
+"review by the Finance Department. Only with the examination and a "
+"positive result by the Finance Department represented by the (deputy) "
+"budget officer is the application accepted. In case of rejection, the "
+"StuRa has to be informed at the next regular meeting."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:108
+msgid "3. Teil: Nicht förderfähige Projekte und Projektbestandteile"
+msgstr "Part 3: Ineligible projects and project components"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:111
+msgid "§ 10 Nicht förderfähig"
+msgstr "§ 10 Not eligible"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:113
+msgid ""
+"Folgende Objekte sind gemaäß der Vorgaben des ThürHG sowie des "
+"Landesrechnungshofs und der Innenrevision der TU Ilmenau nicht "
+"förderfähig:"
+msgstr ""
+"The following objects are not eligible for funding according to the "
+"requirements of the ThürHG as well as the state audit office and the "
+"internal audit of the TU Ilmenau:"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:115
+msgid "Alkohol in großen Mengen"
+msgstr "Alcohol in large quantities"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:116
+msgid ""
+"harten Alkohol (alles was nicht unter § 9 (1) JuSchG fällt; z. B. "
+"Spirituosen etc.) generell"
+msgstr ""
+"hard alcohol (everything that does not fall under § 9 (1) JuSchG; e.g. "
+"spirits etc.) generally"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:117
+msgid "Drogen, Tabak, usw."
+msgstr "Drugs, tobacco, etc."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:118
+msgid "Pfand"
+msgstr "Deposit"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:119
+msgid "Essen in großen Mengen"
+msgstr "Food in large quantities"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:120
+msgid "Waffen"
+msgstr "Weapons"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:121
+msgid "Gutscheine"
+msgstr "Vouchers"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:122
+msgid "Aufwandsentschädigungen"
+msgstr "Expense allowances"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:125
+msgid "§ 11 begrenzt förderfähig"
+msgstr "§ 11 limited eligible"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:127
+msgid ""
+"Folgende Punkte sind zu Vermeiden, durch Einnahmen oder Eigenanteile "
+"(teilweise) zu Refinanzieren oder durch vorhandene Ressourcen im StuRa "
+"oder bei den Fachschaftsräten zu substituieren:"
+msgstr ""
+"The following items are to be avoided, to be (partially) refinanced by "
+"income or own contributions, or to be substituted by existing resources "
+"in the StuRa or in the student councils:"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:129
+msgid "Alkohol in kleinen Mengen"
+msgstr "Alcohol in small quantities"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:130
+msgid "Essen in kleinen Mengen"
+msgstr "Food in small quantities"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:131
+msgid "Einweg Besteck, Becher, Teller, usw."
+msgstr "Disposable cutlery, cups, plates, etc."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:132
+msgid "Umweltschädigungen durch Projekte, Anschaffungen und Folgeeffekte dieser"
+msgstr ""
+"Environmental damage caused by projects, acquisitions and follow-up "
+"effects of these"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:133
+msgid ""
+"Gegenstände, welche in ähnlicher Form bereits beim StuRa oder den "
+"Fachschaftsräten existieren"
+msgstr ""
+"Items that already exist in a similar form at the StuRa or the faculty "
+"student councils"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:134
+msgid "Geschenke bis 5 EUR"
+msgstr "Gifts up to 5 EUR"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:138
+msgid "4. Teil: Abrechnungen"
+msgstr "Part 4: Settlements"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:140
+msgid ""
+"Die Abrechnung/en zu einem Projekt kann/können mit Genehmigung des "
+"Projekte bis spätestens sechs Monate nach Ende des Projektzeitraumes "
+"eingereicht werden."
+msgstr ""
+"The statement(s) of account for a project may be submitted with project "
+"approval no later than six months after the end of the project period."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:141
+msgid ""
+"Nach der vollständigen Abrechnung ist das Projekt durch den "
+"Projektverantwortlichen zu schließen."
+msgstr "After full settlement, the project is to be closed by the project manager."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:142
+msgid ""
+"Die Abrechnung ist durch die/den Projektverantwortlichen oder eine "
+"Vertretung einzureichen."
+msgstr ""
+"The statement of account must be submitted by the project officer or a "
+"representative."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:143
+msgid ""
+"Belege sind unter |finanztool| im entsprechenden Projekt durch den "
+"Projektverantwortlichen anzulegen, einzureichen (Statuswechsel), "
+"auszudrucken, zu unterschreiben und auf Papier mit den entsprechenden "
+"Originalbelegen beim Referat Finanzen im StuRa Büro einzureichen."
+msgstr ""
+"Receipts are to be created under finanzen.stura.eu in the corresponding "
+"project by the person responsible for the project, submitted (status "
+"change), printed out, signed and submitted on paper with the "
+"corresponding original receipts to the Finance Department in the StuRa "
+"office."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:144
+msgid ""
+"Rechnungen, die direkt durch den Stura übernommen werden sollen, sind "
+"spätestens 4 Tage nach Erhalt im System zu hinterlegen und einzureichen."
+msgstr ""
+"Invoices that are to be taken over directly by the Stura must be "
+"deposited and submitted in the system no later than 4 days after receipt."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:145
+msgid ""
+"Belege können Rechnungen, gemäß gesetzlicher Vorgaben, und Kassenzettel "
+"sein. Eigenbelege sind in der Regel nur für Kalkulationen zulässig."
+msgstr ""
+"Receipts can be invoices, in accordance with legal requirements, and cash"
+" receipts. Own receipts are generally only permissible for calculations."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:146
+msgid ""
+"Das Referat Finanzen prüft die Abrechnung auf sachliche und rechnerische "
+"Richtigkeit. Sollte es bei der Prüfung zu Rückfragen an die/den "
+"Antragssteller/in kommen, sind diese dazu angehalten, während der "
+"Vorlesungszeit innerhalb von einer Woche eine adäquate Rückmeldung an das"
+" Referat Finanzen zu geben."
+msgstr ""
+"The Finance Department checks the accounting for factual and mathematical"
+" correctness. Should there be any queries to the applicant during the "
+"check, he/she is required to provide adequate feedback to the Finance "
+"Department within one week during the lecture period."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:147
+msgid ""
+"Wird die Prüfung mit einem negativen Ergebnis abgeschlossen, gilt der "
+"Antrag als abgelehnt und muss ggf. nachgebessert werden. Eine Auszahlung "
+"kann in diesem Fall nicht erfolgen."
+msgstr ""
+"If the review is concluded with a negative result, the application is "
+"considered rejected and may have to be improved. In this case, no payment"
+" can be made."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:148
+msgid ""
+"Wird die Prüfung mit einem positiven Ergebnis abgeschlossen, wird der "
+"Betrag nach Einreichung und Prüfung der schriftlichen Papierbelege auf "
+"das angegebene Koto überwiesen."
+msgstr ""
+"If the test is completed with a positive result, the amount will be "
+"transferred to the specified Koto after submission and verification of "
+"the written paper documents."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:149
+#, python-format
+msgid ""
+"Das Referat Finanzen wird ermächtigt, eine Bewilligung der Erhöhung des "
+"Projektbudgets um nicht mehr als 10 % der Gesamtsumme oder nicht mehr als"
+" 10,- EUR im Namen des Studierendenrates zu erteilen, wenn dadurch das "
+"Projekt im Kern unverändert bleibt."
+msgstr ""
+"The Finance Department is authorized to grant an approval of the increase"
+" of the project budget by not more than 10% of the total amount or not "
+"more than 10,- EUR in the name of the Student Council, if this means that"
+" the core of the project remains unchanged."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:150
+msgid "Ein- und Auszahlungen in bar sind zu vermeiden."
+msgstr "Cash deposits and withdrawals are to be avoided."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:154
+msgid "5. Teil: Inkrafttreten"
+msgstr "Part 5: Entry into force"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:156
+msgid ""
+"Die interne Förderrichtlinie tritt ab dem 10.11.2021 durch den Beschluss "
+"Nr. 31/15-O01 des Studierendenrates der TU Ilmenau vom |beschluss| in "
+"Kraft. Alle bisher gültigen StuRa-Beschlüsse die oben aufgeführten Themen"
+" betreffend, werden beim Inkrafttreten der internen Förderrichtlinie "
+"außer Kraft gesetzt."
+msgstr ""
+"The internal funding guideline will come into force as of 10.11.2021 by "
+"resolution no. 31/15-O01 of the Student Council of the TU Ilmenau of "
+"|beschluss|. All previously valid StuRa resolutions concerning the topics"
+" listed above will be invalidated when the internal funding guideline "
+"comes into force."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:158
+msgid ""
+"**Übergangsbestimmung:** Alle Projekte, die vor dem Inkrafttreten "
+"genehmigt wurden, unterliegen bis zu ihrem Abschluss den vorher geltenden"
+" Bestimmungen. Für daraus resultierende Abrechnungen ist jedoch bereits "
+"die interne Förderrichtlinie anzuwenden."
+msgstr ""
+"**Transitional provision:** All projects approved before the effective "
+"date are subject to the previously applicable provisions until their "
+"completion. However, the internal funding guideline must already be "
+"applied to any resulting settlements."
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:160
+msgid ""
+"Die erste Änderungsfassung dieser Richtlinie tritt mit Beschluss "
+"32/35-O01 des StuRa vom 22.02.2023 in Kraft."
+msgstr ""
+"The first amendment version of this guideline comes into force with "
+"resolution 32/35-O01 of the StuRa of 22.02.2023."
+

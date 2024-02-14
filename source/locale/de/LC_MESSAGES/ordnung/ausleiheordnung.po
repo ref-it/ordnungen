@@ -1,0 +1,320 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-31 15:06+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: ../../source/ordnung/ausleiheordnung.rst:2
+msgid "Ausleiheordnung"
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here <https://ordnungen.stura.eu/en/ordnung/ausleiheordnung.html>`_ ."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:8
+msgid ""
+"Der Studierendenrat der TU Ilmenau besitzt Gegenstände, die der "
+"Studierendenschaft zur Verfügung gestellt werden. Mit dieser Ordnung soll"
+" ein Prozess definiert werden, der es ermöglicht Gegenstände auszuleihen."
+" Die Ausleihe soll so simpel wie möglich gestaltet werden. Die Ordnung "
+"stellt außerdem sicher, dass Entscheidungen, Kosten und das allgemeine "
+"Vorgehen transparent für alle Beteiligten dokumentiert sind."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:13
+msgid "§ 1 -- Gegenstände"
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:15
+msgid ""
+"Ausleihbar sind die im Inventar-Verzeichnis des StuRa als solche "
+"gekennzeichneten Gegenstände."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:16
+msgid ""
+"Das Inventarverzeichnis wird durch Referat Finanzen angelegt und durch "
+"den/die Ausleihbeauftragte:n verwaltet. Es kann bei dem/der "
+"Ausleihebeauftragten angefragt werden."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:21
+msgid "§ 2 -- Ausleihberechtigte"
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:23
+msgid "Zur Ausleihe von Gegenständen berechtigt sind"
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:25
+msgid "alle Teile und Unter-Organisationen des Studierendenrates der TU Ilmenau"
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:26
+msgid "vom Studierendenrat der TU Ilmenau anerkannte studentische Initiativen"
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:27
+msgid "Studierende der Technischen Universität Ilmenau"
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:29
+msgid ""
+"Weitere Organisationen und Personen können durch Beschluss des "
+"Studierendenrates der TU Ilmenau  zur Ausleihe berechtigt werden."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:30
+msgid ""
+"Bei wiederholtem Verstoß gegen die Ausleihordnung oder zugehörige "
+"Abmachungen, kann der/die Ausleihbeauftragte selbstständig entscheiden "
+"diejenigen von weiteren Ausleihen auszuschließen. Widerspruch gegen den "
+"Ausschluss kann beim Studierendenrat der TU Ilmenau eingereicht werden."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:31
+msgid ""
+"Der Status der Berechtigung begründet keinen Anspruch auf Genehmigung "
+"einer Ausleihe."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:36
+msgid "§ 3 -- Zweck der Ausleihe"
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:38
+msgid ""
+"Veranstaltungen, für die Eigentum des Studierendenrates der TU Ilmenau "
+"ausgeliehen werden soll, sollen einem Zweck gemäß |thuerhg-80| (Aufgaben "
+"der Studierendenschaft) dienen."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:39
+msgid ""
+"Der Zweck ist bei Beantragung der Ausleihe dem Referat Finanzen glaubhaft"
+" zu machen, beispielsweise mittels einer Projektbeschreibung. Dieser soll"
+" durch das Referat Finanzen geprüft werden."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:40
+msgid ""
+"Das Referat Finanzen hat die Möglichkeit, zu entscheiden, ob es auf eine "
+"genauere Prüfung einer einzelnen Veranstaltung verzichtet, falls"
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:42
+msgid ""
+"es sich um eine Veranstaltung des Studierendenrates der TU Ilmenau oder "
+"einer seiner Unter-Organisationen handelt,"
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:43
+msgid ""
+"die Veranstaltung schon in der Vergangenheit geprüft wurde und sich "
+"seither keine wesentlichen Änderungen an Zweck und Ablauf ergeben haben."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:48
+msgid "§ 4 -- Genehmigung und Dauer der Ausleihe"
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:50
+msgid ""
+"Für die Genehmigung soll der Antrag mindestens 2 Wochen vor Beginn der "
+"Ausleihe bei dem/der Ausleihebeauftragten eingehen. In Ausnahmefällen "
+"kann der/die Haushaltsverantwortliche in Absprache mit dem/der "
+"Ausleihverantwortliche:n auch Anträge bis 3 Tage vor Beginn genehmigen."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:51
+msgid ""
+"Die Ausleihe wird durch vollständiges Ausfüllen und Versenden des "
+"Ausleihformulars (siehe Anhang) beantragt. Durch das Ausleihformular "
+"werden alle Details der Ausleihe dokumentiert. Das Ausleihformular kann "
+"unabhängig von der Ausleihordnung aktualisiert werden."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:52
+msgid ""
+"Nach Genehmigung des Antrags wird die Ausleihe in Absprache mit dem/der "
+"Ausleihebeauftragten durchgeführt. Für die Abholung und Rückgabe der "
+"Gegenstände ist der/die Antragsteller:in selbst verantwortlich."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:53
+msgid ""
+"Es kann eine Rückgabefrist festgesetzt werden. Diese soll spätestens 2 "
+"Wochen nach dem Ende des Projektzeitraumes liegen."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:54
+msgid "Das Referat Finanzen behält sich vor, die Ausleihe sofort zu beenden, wenn"
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:56
+msgid ""
+"festgestellt wird, dass der angegebene Zweck nach :ref:`§ 3 "
+"<ausleiheordnung-p3>`, Abs. 1 nicht in der Umsetzung der Veranstaltung "
+"zum Tragen kommt."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:57
+msgid "mit den ausgeliehen Gegenständen nicht sorgsam umgegangen wird."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:59
+msgid "Es können ergänzende vertragliche Vereinbarungen getroffen werden."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:64
+msgid "§ 5 -- Kaution"
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:66
+msgid ""
+"Für die auszuleihenden Gegenstände ist eine Kaution an den "
+"Studierendenrat der TU Ilmenau zu entrichten. Die Höhe der Kaution wird "
+"durch das Referat Finanzen beschlossen und bekanntgegeben."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:68
+#, python-format
+msgid ""
+"Gegenstände ab einem Wert von 250,00 € sind mit einer Kaution von 10 % "
+"der Anschaffungskosten angesetzt."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:69
+msgid "Für sonstiges Inventar wird eine Kaution von 25,00 €  verlangt."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:70
+msgid "Es kann auch eine abweichende Kaution beschlossen werden."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:71
+msgid ""
+"Unter-Organisationen des Studierendenrates der TU Ilmenau müssen keine "
+"Kaution entrichten."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:73
+msgid ""
+"Die Kaution ist vor der Durchführung der Ausleihe beim Referat Finanzen "
+"zu hinterlegen. Geschieht dies nicht, wird die getroffene Vereinbarung "
+"aufgelöst."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:78
+msgid "§ 6 -- Rückgabe, Beschädigung und Verlust"
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:80
+msgid ""
+"Die ausgeliehenen Gegenstände sind innerhalb der festgesetzten Fristen "
+"nach :ref:`§ 4 <ausleiheordnung-p4>`, Abs. 4 vollständig zurückzugeben."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:81
+msgid ""
+"Bei der Rückgabe der ausgeliehenen Gegenstände ist die Funktionsfähigkeit"
+" vorzuführen."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:83
+msgid ""
+"Ist die Funktionsfähigkeit nicht gegeben oder werden sonstige Schäden "
+"festgestellt, wird die Höhe der Schäden in Rechnung gestellt. Dabei kann "
+"ein Teil oder die gesamte Kaution einbehalten werden."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:84
+msgid ""
+"Sind die Schäden durch normale Abnutzung zu begründen, kann auf die "
+"Rechnungsstellung verzichtet werden."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:85
+msgid "Werden keine Schäden festgestellt, wird die gesamte Kaution zurückgezahlt."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:86
+msgid ""
+"Kann die Funktionsfähigkeit bei der Rückgabe nicht überprüft werden und "
+"wird zu einem späteren Zeitpunkt ein Schaden festgestellt, wird dieser "
+"nachträglich in Rechnung gestellt."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:88
+msgid ""
+"Werden Gegenstände nicht rechtzeitig zurückgegeben, kann für jede "
+"angefangene Woche eine Säumnisgebühr in Höhe von 10 EUR erhoben werden. "
+"Wenn möglich, wird diese von der Kaution abgezogen. Ist die Kaution "
+"hierfür nicht ausreichend, können die Kosten in Rechnung gestellt werden."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:89
+msgid ""
+"Bei Verlust von Gegenständen können über die Höhe der Kaution "
+"hinausgehende Wiederanschaffungskosten in Rechnung gestellt werden. Durch"
+" den Verlust von Gegenständen ab einem Wert von 250,00 € kann eine "
+"Ausleihsperre für die Dauer von 3 Monaten gegen den Antragsteller "
+"verhängt werden."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:92
+msgid "§ 7 -- Inkrafttreten"
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:94
+msgid ""
+"Diese Ordnung tritt mit Beschluss 32/25-S03 des StuRa vom 14.12.2022 in "
+"Kraft."
+msgstr ""
+
+#: ../../source/ordnung/ausleiheordnung.rst:98
+msgid ""
+":download:`Antrag auf Ausleihe von StuRa-Inventar "
+"<../_static/files/antrag_ausleihe.pdf>`"
+msgstr ""
+
+#~ msgid "|warning-en|"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Dies ist die rechtlich bindende deutsche"
+#~ " Version dieser Ordnung. Eine "
+#~ "unverbindliche englischsprachige Übersetzung ist "
+#~ "unter `hier "
+#~ "<https://ordnungen.stura.eu/en/ordnung/ausleiheordnung.html>`_ "
+#~ "zu finden."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Dies ist die rechtlich bindende deutsche"
+#~ " Version dieser Ordnung. Eine "
+#~ "unverbindliche englischsprachige Übersetzung ist "
+#~ "`hier "
+#~ "<https://ordnungen.stura.eu/en/ordnung/ausleiheordnung.html>`_ "
+#~ "zu finden."
+#~ msgstr ""
+

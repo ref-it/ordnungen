@@ -1,0 +1,126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-25 13:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/satzung/beitragsordnung.rst:2
+msgid "Beitragsordnung der Studierendenschaft"
+msgstr ""
+
+#: ../../source/satzung/beitragsordnung.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here <https://ordnungen.stura.eu/en/satzung/beitragsordnung.html>`_."
+msgstr ""
+
+#: ../../source/satzung/beitragsordnung.rst:8
+msgid ""
+"Aufgrund des |thuerhg-81| Abs. 1, 79 Abs. 2 in Verbindung mit |thuerhg-3|"
+" Abs. 2 Thüringer Hochschulgesetz (ThürHG) in der Fassung vom 10.05.2018 "
+"(GVBl. S. 149), erlässt die Studierendenschaft der Technischen "
+"Universität Ilmenau durch Urabstimmung vom 29.05. bis 02.06.2017 die "
+"nachstehende Beitragsordnung. Der Rektor hat die Beitragsordnung mit "
+"Schreiben vom 06.06.2018 genehmigt."
+msgstr ""
+
+#: ../../source/satzung/beitragsordnung.rst:13
+msgid "§ 1 -- Beitragspflicht"
+msgstr ""
+
+#: ../../source/satzung/beitragsordnung.rst:15
+msgid ""
+"Alle immatrikulierten Studierenden der Technischen Universität Ilmenau "
+"unterliegen der Beitragspflicht."
+msgstr ""
+
+#: ../../source/satzung/beitragsordnung.rst:16
+msgid ""
+"Der Beitrag ist jeweils für ein Semester zu entrichten und wird bei der "
+"Immatrikulation oder Rückmeldung von der Universität gebührenfrei "
+"eingezogen."
+msgstr ""
+
+#: ../../source/satzung/beitragsordnung.rst:21
+msgid "§ 2 -- Beitragshöhe"
+msgstr ""
+
+#: ../../source/satzung/beitragsordnung.rst:23
+msgid "Die Höhe des Semesterbeitrages beträgt 10,00 EUR."
+msgstr ""
+
+#: ../../source/satzung/beitragsordnung.rst:28
+msgid "§ 3 -- Verwendung der Beiträge"
+msgstr ""
+
+#: ../../source/satzung/beitragsordnung.rst:30
+msgid ""
+"Die Beiträge nach § 2 stehen dem Studierendenrat zur Erfüllung seiner "
+"satzungsgemäßen Aufgaben zur Verfügung. Die genaue Verwendung der Mittel "
+"und deren Verwaltung regelt die Finanzordnung des Studentenrates."
+msgstr ""
+
+#: ../../source/satzung/beitragsordnung.rst:35
+msgid "§ 4 -- Befreiung vom Beitrag"
+msgstr ""
+
+#: ../../source/satzung/beitragsordnung.rst:37
+msgid ""
+"Der Beitrag kann nicht erlassen, ermäßigt oder gestundet werden. Die "
+"Beendigung der Mitgliedschaft an der Universität während des laufenden "
+"Semesters begründet keinen Anspruch auf vollständige oder anteilige "
+"Rückzahlung des für das Semester geleisteten Beitrages."
+msgstr ""
+
+#: ../../source/satzung/beitragsordnung.rst:38
+msgid ""
+"Von der Beitragspflicht können nur beurlaubte Studierende befreit werden."
+" Die Befreiung von der Beitragspflicht wird nur für die Zukunft gewährt. "
+"Anträge auf Befreiung sind spätestens bis zum Vortag des Semesterbeginns "
+"einzureichen."
+msgstr ""
+
+#: ../../source/satzung/beitragsordnung.rst:39
+msgid ""
+"Exmatrikulation vor Beginn des Semesters, für das der Beitrag bereits "
+"entrichtet wurde, berechtigt zur Rückforderung des Beitrags. Der Antrag "
+"auf Rückerstattung ist spätestens einen Monat nach Semesterbeginn "
+"einzureichen."
+msgstr ""
+
+#: ../../source/satzung/beitragsordnung.rst:44
+msgid "§ 5 -- In-Kraft-Treten"
+msgstr ""
+
+#: ../../source/satzung/beitragsordnung.rst:46
+msgid ""
+"Die Erste Änderung der Beitragsordnung der Studierendenschaft der "
+"Technischen Universität Ilmenau tritt am Tag nach ihrer Veröffentlichung "
+"im Verkündungsblatt der Universität in Kraft."
+msgstr ""
+
+#~ msgid ""
+#~ "Dies ist die rechtlich bindende deutsche"
+#~ " Version dieser Ordnung. Eine "
+#~ "unverbindliche englischsprachige Übersetzung ist "
+#~ "`hier "
+#~ "<https://ordnungen.stura.eu/en/satzung/beitragsordnung.html>`_ "
+#~ "zu finden."
+#~ msgstr ""
+

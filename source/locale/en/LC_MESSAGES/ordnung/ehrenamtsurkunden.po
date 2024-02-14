@@ -1,0 +1,178 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-25 13:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:2
+msgid "Richtlinien zur Vergabe der Ehrenamtsurkunden"
+msgstr "Guidelines for the Awarding of Honorary Certificates"
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here <https://ordnungen.stura.eu/en/ordnung/ehrenamtsurkunden.html>`_."
+msgstr ""
+"This is a translation of the "
+"original text. Only the `German version"
+" of this regulation "
+"<https://ordnungen.stura.eu/ordnung/ehrenamtsurkunden.html>`_ is"
+" legally binding."
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:8
+msgid ""
+"Diese Richtlinie gibt vor, wie und in welcher Form die Ehrenamtsurkunden "
+"durch den Studierendenrat vergeben werden."
+msgstr ""
+"This policy specifies how and in what form honorary certificates will be "
+"awarded by the Student Council."
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:12
+msgid "Motivation der Richtlinie"
+msgstr "Motivation of the directive"
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:14
+msgid ""
+"Die Verleihung von Ehrenamtsurkunden auf den Absolventenfeiern würdigt "
+"ehrenamtliches Engagement unserer Studierenden. Da wir in der glücklichen"
+" Position sind, dass es eine große Vielfalt an ehrenamtlichem Engagement "
+"auf unserem Campus gibt, sind häufig sehr viele der Absolventinnen und "
+"Absolventen in irgendeiner Weise während ihres Studiums ehrenamtlich "
+"aktiv gewesen. Die Ehrung all dieser ehrenamtlich Aktiven würde den "
+"Rahmen der Absolventenfeier überdehnen und den Wert des Auszeichnung "
+"deutlich mindern. Um die Anzahl der zu verleihenden Ehrenamtsurkunden auf"
+" ein angemessenes Maß zu reduzieren, wurde, nach vorheriger Abstimmung "
+"mit den Ilmenauer Vereinen, die vorliegende Richtlinie beschlossen."
+msgstr ""
+"The presentation of honorary certificates at graduation ceremonies "
+"recognizes volunteerism on the part of our students. Since we are in the "
+"fortunate position of having a wide variety of volunteerism on our "
+"campus, often a great many of the graduates have been active volunteers "
+"in some way during their studies. Honoring all of these volunteers would "
+"overstretch the scope of the graduation ceremony and significantly "
+"diminish the value of the award. In order to reduce the number of "
+"honorary certificates to be awarded to a reasonable level, the present "
+"guideline was adopted after prior consultation with the Ilmenau "
+"associations."
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:17
+msgid "Ausstellung der Urkunden"
+msgstr "Issuance of the certificates"
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:19
+msgid ""
+"Für alle Studierenden der TU Ilmenau, die sich ehrenamtlich engagiert "
+"haben, besteht grundsätzlich die Möglichkeit eine Ehrenamtsurkunde zu "
+"erhalten. Der Prozess der Erstellung einer Ehrenamtsurkunde wird durch "
+"den jeweiligen Vorstand der beteiligten Organisation (Verein/Gremium) "
+"angestoßen. Die Erstellung übernimmt das Referat Ehrenamt in "
+"Zusammenarbeit mit dem/der studentischen Konsul/in und den betroffenen "
+"Organisationen (Vereinen/Gremien)."
+msgstr ""
+"For all students of the TU Ilmenau, who have engaged in voluntary work, "
+"there is basically the possibility to receive a certificate of honorary "
+"work. The process of creating a certificate of honorary service is "
+"initiated by the respective board of the organization involved "
+"(association/body). The Ehrenamt (honorary office) department is "
+"responsible for creating the certificate in cooperation with the student "
+"consul and the organizations (associations/committees) concerned."
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:22
+msgid "Übergabe der Urkunden"
+msgstr "Handing over of the certificates"
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:24
+msgid "Die Urkunde wird durch das Referat Ehrenamt ausgestellt."
+msgstr "The certificate is issued by the Department of Volunteerism."
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:26
+msgid ""
+"Studierende, die sich \"in besonders herausragendem Maße\" ehrenamtlich "
+"engagiert haben, können ihre Urkunde auf ihrer Absolventenfeier durch das"
+" Referat Ehrenamt erhalten. Diese Personen werden auf ihrer "
+"Absolventenfeier namentlich aufgerufen und bekommen ihre Urkunde vom "
+"Referat Ehrenamt überreicht. Studierende, die kein \"Engagement in "
+"besonders herausragendem Maße\" vorweisen können, können ihre Urkunde "
+"zugeschickt bekommen oder im StuRa-Büro abholen."
+msgstr ""
+"Students who have demonstrated a \"particularly outstanding degree\" of "
+"volunteerism may receive their certificate at their graduation ceremony "
+"through the Office of Volunteerism. These individuals will be called by "
+"name at their graduation ceremony and will be presented with their "
+"certificate by the Office of Volunteerism. Students who do not have a "
+"\"commitment to a particularly outstanding degree\" can have their "
+"certificate sent to them or pick it up at the StuRa office."
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:28
+msgid "\"Engagement in besonders herausragendem Maße\" wird wie folgt definiert:"
+msgstr "\"Engagement of a particularly outstanding degree\" is defined as follows:"
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:30
+msgid ""
+"Die Person muss namentlich für ein festes Leitungsamt/eine feste "
+"Verantwortungsposition gewählt bzw. vom Vorstand ernannt gewesen sein. "
+"\"Einfaches\" aktives Engagement reicht folglich nicht."
+msgstr ""
+"The person must have been elected by name or appointed by the board of "
+"directors to a permanent position of leadership/responsibility. "
+"Consequently, \"simple\" active engagement is not sufficient."
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:31
+msgid ""
+"Im Falle einer sehr zeitaufwendingen Führungs- bzw. Vorstandsposition auf"
+" höchster Ebene der jeweiligen Organisation muss die Person mindestens "
+"eine Legislatur in diesem Amt tätig gewesen sein. Im Falle von "
+"Gremienengagement gehören hierzu gewählte StuRäte, gewählte "
+"Fachschaftsräte oder die EWO-Leitung."
+msgstr ""
+"In the case of a very time-consuming leadership or board position at the "
+"highest level of the respective organization, the person must have served"
+" in this office for at least one term. In the case of committee "
+"involvement, this includes elected StuRäte, elected Fachschaftsräte, or "
+"EWO leadership."
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:32
+msgid ""
+"Im Falle eines Leitungsamtes mit etwas geringerer Verantwortung und "
+"weniger Zeitaufwand muss diese Person mindestens zwei Legislaturen tätig "
+"gewesen sein. Über die zwei Legislaturen hinweg können sich die Ämter "
+"unterscheiden. In diese Kategorie fallen z.B. Referatsleiter kleinerer "
+"Referate oder Projektverantwortliche in Vereinen. Nicht in diese "
+"Kategorie fallen z.B. Mitglieder in Studiengangkommissionen, "
+"Prüfungsausschüssen oder Berufungskommissionen."
+msgstr ""
+"In the case of a leadership office with somewhat less responsibility and "
+"time commitment, this person must have served at least two legislatures. "
+"Over the two terms, the offices may differ. This category includes, for "
+"example, heads of smaller units or project managers in associations. This"
+" category does not include, for example, members of study program "
+"commissions, examination committees or appointment committees."
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:35
+msgid "In-Kraft-Treten"
+msgstr "Entry into force"
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:37
+msgid ""
+"Diese Richtlinie tritt mit Beschluss des Studierendenrates der TU Ilmenau"
+" vom |beschluss| in Kraft."
+msgstr ""
+"This guideline comes into force with the decision of the student council "
+"of the TU Ilmenau on |beschluss|."
+

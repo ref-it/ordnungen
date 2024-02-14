@@ -1,0 +1,549 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-25 13:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:2
+msgid "Kreditrichtlinie"
+msgstr "Loan Guideline"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here <https://ordnungen.stura.eu/en/ordnung/kreditrichtlinie.html>`_."
+msgstr ""
+"This is a translation of the "
+"original text. Only the `German version"
+" of this regulation "
+"<https://ordnungen.stura.eu/ordnung/kreditrichtlinie.html>`_ is"
+" legally binding."
+
+
+#: ../../source/ordnung/kreditrichtlinie.rst:9
+msgid "Artikel I - Anwendungsbereich"
+msgstr "Article I - Scope"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:11
+msgid ""
+"Diese Kreditrichtlinie regelt den Verfahrensweg zur Ausreichung von "
+"Krediten an Studierende und Vereine aus Finanzmitteln der "
+"Studierendenschaft entsprechend der :ref:`§§ 8, 9 Finanzordnung der "
+"Studierendenschaft <finanzordnung-p8>`."
+msgstr ""
+"This credit guideline regulates the procedure for granting loans to "
+"students and associations from the financial resources of the student "
+"body in accordance with the :ref:`Financial Regulation of the student "
+"body §§ 8, 9 <finanzordnung-p8>`."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:13
+msgid ""
+"Es steht zum Studierendenrat frei, sofern erforderlich, im Einzelfall "
+"abweichend von Bestimmungen dieser Ordnung zu beschließen oder "
+"Abweichungen von dieser Ordnung anzuordnen oder zu genehmigen."
+msgstr ""
+"The Student Council is free, if necessary, to decide on individual cases "
+"to deviate from the provisions of these regulations or to order or "
+"approve deviations from these regulations."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:16
+msgid "Artikel II - Gegenstand des Darlehens"
+msgstr "Article II - Object of the Loan"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:18
+msgid ""
+"Der Zweck des Darlehens wird in :ref:`§§ 8, 9 der Finanzordnung der "
+"Studierendenschaft <finanzordnung-p8>` geregelt."
+msgstr ""
+"The purpose of the loan is regulated in :ref:`§§ 8, 9 of Financial "
+"Regulation of the student body <finanzordnung-p8>`."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:21
+msgid "Artikel III - Antragstellung"
+msgstr "Article III - Application"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:24
+#: ../../source/ordnung/kreditrichtlinie.rst:50
+#: ../../source/ordnung/kreditrichtlinie.rst:72
+#: ../../source/ordnung/kreditrichtlinie.rst:95
+#: ../../source/ordnung/kreditrichtlinie.rst:113
+#: ../../source/ordnung/kreditrichtlinie.rst:132
+msgid "Abschnitt 1 - Darlehen an Studierende"
+msgstr "Section 1 - Loans to students"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:26
+msgid ""
+"Der Antragsteller nimmt verpflichtend an einer Sozialberatung durch das "
+"Referat Soziales teil"
+msgstr ""
+"The applicant shall attend compulsory social counselling by the "
+"Department of Social Affair"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:27
+msgid ""
+"Die Sozialberatung unterstützt den Antragsteller dabei, sich einen "
+"Überblick über seine im Darlehenszeitraum zu erwartenden Einnahmen und "
+"Ausgaben zu verschaffen und gibt Anregungen, wie er diese zu seinen "
+"Gunsten verbessern kann."
+msgstr ""
+"Social counselling helps the applicant to get an overview of his/her "
+"expected income and expenses during the loan period and gives suggestions"
+" on how to improve them in his/her favour."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:28
+msgid ""
+"Der Antragsteller legt in der Sozialberatung dar, dass er zur "
+"fristgerechten Rückzahlung des Darlehens in der Lage ist. Dies ist "
+"schriftlich zu dokumentieren. Vorgelegte Belege - beispw. ein "
+"Bafögbescheid - sind in Kopie zu den Unterlagen zu nehmen."
+msgstr ""
+"The applicant shall demonstrate in the social counselling that he/she is "
+"able to repay the loan in due time. This must be documented in writing. A"
+" copy of any supporting documents submitted - e.g. a Bafög notice - must "
+"be included in the documents"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:29
+msgid "Der Antragsteller legt in der Sozialberatung seine Bedürftigkeit dar."
+msgstr "The applicant shall state his/her neediness in the social counselling."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:32
+#: ../../source/ordnung/kreditrichtlinie.rst:55
+#: ../../source/ordnung/kreditrichtlinie.rst:77
+#: ../../source/ordnung/kreditrichtlinie.rst:103
+#: ../../source/ordnung/kreditrichtlinie.rst:118
+#: ../../source/ordnung/kreditrichtlinie.rst:137
+msgid "Abschnitt 2 - Darlehen an Vereine"
+msgstr "Section 2 - Loans to associations"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:34
+msgid "Der beantragende Verein legt im Kreditantrag dar,"
+msgstr "The applying association shall state in the loan application,"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:36
+msgid "wofür die Mittel verwendet werden sollen,"
+msgstr "what the funds are to be used for,"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:37
+msgid "warum dafür ein Kredit erforderlich ist und"
+msgstr "why a loan is necessary for this and"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:38
+msgid "welche Risiken damit verbunden sind sowie"
+msgstr "what risks are involved and"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:39
+msgid ""
+"seine Finanzsituation (Eigenkapital, offene Forderungen, offene "
+"Verbindlichkeiten)."
+msgstr ""
+"its financial situation (equity, outstanding receivables, outstanding "
+"liabilities)."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:41
+msgid ""
+"Es können nur Kredite für Zwecke entsprechend den Aufgaben der "
+"Studierendenschaft nach ThürHG gewährt werden."
+msgstr ""
+"Loans can only be granted for purposes corresponding to the tasks of the "
+"student body according to the ThürHG."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:42
+msgid ""
+"Die geplante Mittelverwendung ist entsprechend den Bestimmungen der "
+":doc:`Förderrichtlinie des Studierendenrates <foerderrichtlinie-extern>` "
+"darzulegen."
+msgstr ""
+"The planned use of funds must be presented in accordance with the "
+"provisions of :doc:`Funding Guideline of the Student Council "
+"<foerderrichtlinie-extern>`."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:45
+msgid "Artikel IV - Risikobewertung und Sicherheiten"
+msgstr "Article IV - Risk Assessment and Collateral"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:47
+msgid ""
+"Der Studierendenrat genehmigt nur Darlehen, welche mit hoher "
+"Wahrscheinlichkeit eine fristgerechte Rückzahlung erwarten lassen und bei"
+" welchen der Darlehenszweck das Kreditrisiko rechtfertigt."
+msgstr ""
+"The Student Council shall only approve loans that are highly likely to be"
+" repaid on time and for which the purpose of the loan justifies the "
+"credit risk"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:52
+msgid ""
+"Das Referat Soziales legt gegenüber dem Studierendenrat dar, dass der "
+"Antragsteller zur Rückzahlung in der Lage ist und durch welche Risiken "
+"die fristgerechte Rückzahlung verhindert werden könnte."
+msgstr ""
+"The Department of Social Affairs (Referat Soziales) shall explain to the "
+"Student Council that the applicant is able to repay the loan and which "
+"risks could prevent the timely repayment."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:57
+msgid ""
+"Das Referat Finanzen bewertet zusammen mit den zuständigen Fachreferaten "
+"das Kreditrisiko anhand der vorgelegten Unterlagen."
+msgstr ""
+"The Department for Finances (Referat Finanzen), together with the "
+"responsible departments, assesses the credit risk on the basis of the "
+"documents submitted."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:62
+msgid ""
+"Sicherheiten sind finanzielle Forderungen, welche mit hinreichender "
+"Sicherheit zur Tilgung des Kredites verwendet werden können. Dazu zählen "
+"beispielsweise"
+msgstr ""
+"Collateral is financial claims which can be used with sufficient "
+"certainty to repay the loan. This includes, for example"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:60
+msgid "Förderungen von Stiftungen oder staatlichen Organisationen,"
+msgstr "Grants from foundations or state organisations,"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:61
+msgid "Bankbürgschaften und"
+msgstr "bank guarantees and"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:62
+msgid "Eigenmittel."
+msgstr "own funds."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:65
+msgid "Artikel V - Beschlussfassung"
+msgstr "Article V - Decision-making"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:67
+msgid "Ein Rechtsanspruch auf Zuwendung besteht nicht."
+msgstr "There shall be no legal claim to a grant."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:68
+msgid ""
+"Der Studierendenrat beschließt auch die Modalitäten der Rückzahlung "
+"(Fristen, Raten, Zahlungsart) des Darlehens."
+msgstr ""
+"The student council shall also decide on the modalities of repayment "
+"(deadlines, instalments, method of payment) of the loan."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:69
+msgid ""
+"Die Zusage des Kredites erfolgt erst mit der Ausfertigung und dem "
+"Unterschreiben des Kreditvertrages durch alle beteiligten Parteien."
+msgstr ""
+"The commitment of the loan only takes place with the execution and "
+"signing of the loan agreement by all parties involved."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:74
+msgid "Der Studierendenrat beschließt in geheimer Abstimmung."
+msgstr "The student council decides by secret ballot."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:79
+msgid "Die Laufzeit beträgt maximal 12 Monate."
+msgstr "The term shall be a maximum of 12 months."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:82
+msgid "Artikel VI - Auszahlung"
+msgstr "Article VI - Disbursement"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:84
+msgid ""
+"Das Referat Finanzen fertigt mit dem Antragsteller einen Darlehensvertrag"
+" aus."
+msgstr ""
+"The Department for Finances (Referat Finanzen) shall draw up a loan "
+"agreement with the applicant."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:86
+msgid "Die vorgelegten Nachweise werden in Kopie zu den Akten genommen."
+msgstr "Copies of the supporting documents submitted shall be kept on file."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:88
+msgid "Die Auszahlung erfolgt bargeldlos."
+msgstr "The disbursement shall be made without cash."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:90
+msgid ""
+"Es kann eine Auszahlung in Raten vereinbart werden und die Auszahlung von"
+" Raten an das Vorliegen weiterer Voraussetzungen wie beispw. die Vorlage "
+"eines Verwendungsnachweises geknüpft werden."
+msgstr ""
+"Payment in instalments may be agreed and the payment of instalments may "
+"be linked to the existence of further preconditions such as the "
+"submission of proof of use."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:92
+msgid "Für die Vergabe des Darlehens werden keine Gebühren erhoben."
+msgstr "No fees shall be charged for the granting of the loan."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:97
+msgid ""
+"Der Antragsteller (oder sein gesetzlicher Vertreter) hat sich bei der "
+"Unterzeichnung des Darlehensvertrages auszuweisen (und ggf. seine "
+"Vertretungsvollmacht nachzuweisen)."
+msgstr ""
+"The applicant (or his/her legal representative) must identify him/herself"
+" when signing the loan agreement (and prove his/her power of "
+"representation, if applicable)."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:100
+msgid ""
+"In der Regel soll der Personalausweis kopiert werden und mit der "
+"Ausfertigung des Darlehensvertrages für den StuRa zu den Akten genommen "
+"werden."
+msgstr ""
+"As a rule, the identity card should be copied and kept on file with the "
+"copy of the loan agreement for the StuRa."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:105
+msgid ""
+"Der Darlehensvertrag ist vom gesetzlichen Vertreter zu unterschreiben, "
+"welcher seine Identität und seine Vertretungsvollmacht nachzuweisen hat."
+msgstr ""
+"The loan agreement is to be signed by the legal representative, who has "
+"to prove his/her identity and his/her power of representation."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:107
+msgid ""
+"Bei Vereinen muss der Vorstand unterschreiben. Jeder Vorstand hat sich "
+"einmalig gegenüber dem Referat Finanzen auszuweisen und bei "
+"Vorstandswechseln den neuen Vereinsregisterauszug (Kopie genügt) "
+"mitzubringen."
+msgstr ""
+"In the case of associations, the executive board must sign. Each board "
+"member has to identify himself/herself once to the Referat Finance and in"
+" case of a change of board members to bring the new extract from the "
+"register of associations (a copy is sufficient)."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:110
+msgid "Artikel VII - Verwendung und Belege"
+msgstr "Article VII - Use and receipts"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:115
+msgid "Keine besonderen Bestimmungen."
+msgstr "No special provisions."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:120
+msgid ""
+"Für alle aus den Kreditmitteln getätigten Ausgaben ist ein "
+"Verwendungsnachweis entsprechend den Bestimmungen der "
+":doc:`Förderrichtlinie des Studierendenrates <foerderrichtlinie-extern>` "
+"zu führen sowie der Finanzplan bei Bedarf entsprechend den Vorschriften "
+"aus der :doc:`Förderrichtlinie des Studierendenrates <foerderrichtlinie-"
+"extern>` zu aktualisieren."
+msgstr ""
+"For all expenditures made from the loan funds, proof of use shall be kept"
+" in accordance with the provisions of the :doc:`Funding Guideline of the "
+"Student Council <foerderrichtlinie-extern>` as well as the financial plan"
+" shall be updated as required in accordance with the provisions from the "
+":doc:`Funding Guideline of the Student Council <foerderrichtlinie-"
+"extern>`."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:123
+msgid "Artikel VIII - Rückzahlung"
+msgstr "Article VIII - Repayment"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:125
+msgid ""
+"Die Rückzahlung in den vereinbarten Raten erfolgt zinslos und bargeldlos "
+"auf das Girokonto des Studierendenrates."
+msgstr ""
+"Repayment in the agreed instalments shall be made without interest and "
+"without cash to the current account of the Student Council."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:127
+msgid ""
+"Erfolgt die Rückzahlung nicht fristgerecht, wird die Rückzahlung mit vier"
+" Wochen Frist angemahnt. Danach werden Verzugszinsen entsprechend BGB "
+"§§288 fällig und der Studierendenrat wird zur sofortigen, "
+"außerordentlichen Kündigung berechtigt."
+msgstr ""
+"If the repayment is not made on time, a reminder will be sent with four "
+"weeks' notice. Thereafter, interest on arrears will be due in accordance "
+"with BGB §§288 and the Student Council will be entitled to immediate, "
+"extraordinary termination."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:129
+msgid ""
+"Ist der Schuldner im Verzug, wird ein Mahnverfahren eröffnet. Der "
+"Studierendenrat behält sich vor, die Forderung an ein Inkassounternehmen "
+"abzutreten oder ein solches zu beauftragen."
+msgstr ""
+"If the debtor is in arrears, dunning proceedings will be initiated. The "
+"Student Council reserves the right to assign the claim to a collection "
+"agency or to commission such an agency."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:134
+msgid ""
+"Eine Verrechnung der Darlehensrückzahlung mit offenen Forderungen gegen "
+"den Studierendenrat ist unzulässig."
+msgstr ""
+"A set-off of the loan repayment with open claims against the student "
+"council is inadmissible."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:139
+msgid ""
+"Ist der Kredit mit einer Fehlbedarfsfinanzierung entsprechend der "
+":doc:`Förderrichtlinie des Studierendenrates <foerderrichtlinie-extern>` "
+"als Sicherheit verbunden, darf die Kreditrückzahlung mit der offenen "
+"Forderung gegen den Studierendenrat aus der abgerechneten "
+"Fehlbedarfsfinanzierung verrechnet werden."
+msgstr ""
+"If the loan is linked to shortfall financing according to the Funding "
+"Guideline of the Student Council as collateral, the loan repayment may be"
+" offset against the outstanding claim against the student council from "
+"the settled shortfall financing."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:140
+msgid ""
+"Wird die offene Forderung aus Absatz 1 vom Studierendenrat bestritten "
+"oder gekürzt, ist die Kreditrückzahlung unverzüglich fortzusetzen und "
+"dabei bei einer der Verrechnung nach Absatz 1 der gekürzte Betrag "
+"anzusetzen."
+msgstr ""
+"If the outstanding claim from paragraph 1 is disputed or reduced by the "
+"student council, the loan repayment shall be continued without delay and "
+"the reduced amount shall be applied in the case of a set-off according to"
+" paragraph 1."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:141
+msgid ""
+"Sonstige Verrechnungen bei der Kreditrückzahlung sind nur nach vorheriger"
+" schriftlicher Genehmigung des Studierendenrates zulässig."
+msgstr ""
+"Other offsets in the repayment of the loan are only permissible with the "
+"prior written approval of the Student Council."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:143
+msgid ""
+"Hinweis: Wird die abgerechnete Förderung gekürzt, muss der entsprechende "
+"Betrag aus dem Kredit zurück gezahlt werden."
+msgstr ""
+"Note: If the settled funding is reduced, the corresponding amount must be"
+" paid back from the loan."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:146
+msgid "Artikel IX - Aufenthaltsort und Aktualisierung der Finanzsituation"
+msgstr "Article IX - Whereabouts and Financial Update"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:148
+msgid ""
+"Der Schuldner teilt dem Studierendenrat unverzüglich schriftlich mit, "
+"wenn er beabsichtigt, seinen ständigen Wohnsitz zu verlegen oder verlegt "
+"hat. Wird durch die Verlegung ein inländischer Wohnsitz des Studierenden "
+"ins Ausland verlegt oder der letzte inländische Wohnsitz aufgegeben, ist "
+"der Studierendenrat berechtigt, die Forderung sofort zurück zu fordern."
+msgstr ""
+"The debtor shall notify the Student Council in writing without delay if "
+"he/she intends to transfer or has transferred his/her permanent "
+"residence. If, as a result of the transfer, a domestic residence of the "
+"student is moved abroad or the last domestic residence is abandoned, the "
+"Student Council shall be entitled to reclaim the debt immediately."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:149
+msgid ""
+"Der Schuldner teilt dem Studierendenrat unverzüglich schriftlich mit, "
+"wenn sich seine Finanzsituation derart ändert, dass die Rückzahlung "
+"wahrscheinlich nicht oder nicht vollständig fristgerecht geleistet werden"
+" kann oder die bei der Antragstellung vorgetragenen Sicherheiten "
+"substantielle Änderungen erfahren. Der Studierendenrat ist in diesem Fall"
+" dazu berechtigt, die Forderung sofort zurück zu fordern."
+msgstr ""
+"The debtor shall inform the Student Council in writing without delay if "
+"his/her financial situation changes in such a way that it is likely that "
+"the repayment cannot be made or cannot be made in full on time or if the "
+"securities presented at the time of application undergo substantial "
+"changes. In this case, the Student Council is entitled to demand "
+"immediate repayment of the debt."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:150
+msgid ""
+"Der Schuldner aktualisiert die beim Studierendenrat hinterlegten "
+"Anschriften und Kontaktdaten seines gesetzlichen Vertreters unverzüglich."
+msgstr ""
+"The debtor shall immediately update the addresses and contact details of "
+"his/her legal representative deposited with the Student Council."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:153
+msgid "Artikel X - Außerordentliche Kündigung"
+msgstr "Article X - Extraordinary Termination"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:155
+msgid ""
+"Der Studierendenrat ist zur sofortigen, außerordentlichen Kündigung "
+"berechtigt, wenn der Darlehensnehmer seinen vertraglichen Pflichten nicht"
+" nach kommt und dadurch die Eintreibung des Darlehens gefährdet."
+msgstr ""
+"The Student Council is entitled to immediate, extraordinary termination "
+"if the borrower fails to fulfil his contractual obligations and thereby "
+"jeopardises the collection of the loan."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:158
+msgid "Artikel XI - Datenschutz"
+msgstr "Article XI - Data Protection"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:160
+msgid ""
+"Die Personalausweiskopien, Vertretungsvollmachten und Unterlagen der "
+"Sozialberatung werden für den Zeitraum von einem Jahr nach Tilgung des "
+"Darlehens oder einem Monat nach der Ablehnung des Darlehensantrages "
+"aufbewahrt. Handelt es sich dabei um Dokumente aus öffentlich "
+"zugänglichen Registern (beispw. Vereinsregisterauszug), verfünffacht sich"
+" die Frist aus Satz 1."
+msgstr ""
+"Copies of identity cards, powers of representation and documents from the"
+" social counselling service shall be kept for a period of one year after "
+"repayment of the loan or one month after the rejection of the loan "
+"application. If these are documents from publicly accessible registers "
+"(e.g. excerpt from the register of associations), the period from "
+"sentence 1 is quintupled."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:161
+msgid ""
+"Die Aufbewahrung nach Absatz 1 erfolgt zum Zwecke der Nachprüfung bei "
+"Anfechtung, im Rahmen der Rechtsaufsicht oder der Rechnungsprüfung durch "
+"den Finanzausschuss."
+msgstr ""
+"The storage according to paragraph 1 shall be carried out for the purpose"
+" of verification in the event of a challenge, within the framework of "
+"legal supervision or auditing by the finance committee."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:162
+msgid ""
+"Die Aufbewahrung nach Absatz 1 für Dokumenten aus Sozialberatungen, die "
+"nicht aus öffentlich zugänglichen Registern stammen, erfolgt in einem "
+"verschließbarem Schrank."
+msgstr ""
+"The storage according to paragraph 1 for documents from social "
+"consultations which do not originate from publicly accessible registers "
+"shall take place in a lockable cabinet."
+
+#: ../../source/ordnung/kreditrichtlinie.rst:165
+msgid "Artikel XII - Inkrafttreten"
+msgstr "Article XII - Entry into Application"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:167
+msgid ""
+"Diese Richtlinie tritt mit Beschluss 25/22-05 des StuRa vom |beschluss| "
+"in Kraft."
+msgstr ""
+"This guideline comes into force with the StuRa resolution 25/22-05 of "
+"|beschluss|."
+

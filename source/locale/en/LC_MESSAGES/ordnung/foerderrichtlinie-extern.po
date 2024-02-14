@@ -1,0 +1,1590 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-25 13:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:2
+msgid "Externe Förderrichtlinie"
+msgstr "External Funding Guideline"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here <https://ordnungen.stura.eu/en/ordnung/foerderrichtlinie-"
+"extern.html>`_."
+msgstr ""
+"This is a translation of the "
+"original text. Only the `German version"
+" of this regulation "
+"<https://ordnungen.stura.eu/ordnung/foerderrichtlinie-"
+"extern.html>`_ is legally binding."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:9
+msgid "Teil 1: Anwendungsbereich"
+msgstr "Part 1: Scope of application"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:12
+msgid "§ 1 -- Anwendungsbereich"
+msgstr "§ 1 -- Scope of application"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:14
+msgid ""
+"Diese Förderrichtlinie regelt den Verfahrensweg zur Förderung von "
+"Projekten aus Finanzmitteln der Studierendenschaft, welche nicht durch "
+"Organe der Studierendenschaft durchgeführt werden. Es steht dem "
+"Studierendenrat frei, sofern erforderlich, im Einzelfall abweichend von "
+"Bestimmungen dieser Ordnung zu beschließen oder Abweichungen von dieser "
+"Ordnung anzuordnen oder zu genehmigen."
+msgstr ""
+"This funding guideline regulates the procedure for funding projects from "
+"student body funds that are not carried out by student body organs. The "
+"Student Council shall be free to decide, if necessary, to deviate from "
+"provisions of these regulations in individual cases or to order or "
+"approve deviations from these regulations."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:18
+msgid "Teil 2: Gegenstand der Förderung"
+msgstr "Part 2: Object of the funding"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:21
+msgid "§ 2 -- Gegenstand der Förderung"
+msgstr "§ 2 -- Object of the funding"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:23
+msgid ""
+"Gegenstand der Förderung können alle Vorhaben und Aufwendungen (Projekte)"
+" sein, die zur Erfüllung der Aufgaben der Studierendenschaft dienen. Die "
+"Aufgaben gemäß § 80 Thüringer Hochschulgesetz sind:"
+msgstr ""
+"The object of funding can be all plans and expenses (projects) that serve"
+" to fulfil the tasks of the student body. The tasks according to §80 "
+"Thuringian Higher Education Act are:"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:25
+msgid ""
+"Vertretung der Gesamtheit der Studierenden der Hochschule im Rahmen ihrer"
+" gesetzlichen Befugnisse,"
+msgstr ""
+"Representing the entirety of the students of the university within the "
+"scope of its legal powers,"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:26
+msgid "Wahrnehmung hochschulpolitischer Belange der Studierenden,"
+msgstr "Representation of students' interests in higher education policy,"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:27
+msgid ""
+"Wahrnehmung der fachlichen, sozialen und kulturellen Belange der "
+"Studierenden,"
+msgstr ""
+"To represent the professional, social and cultural interests of the "
+"students,"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:28
+msgid ""
+"Förderung der politischen Bildung und des staatsbürgerlichen "
+"Verantwortungsbewusstseins der Studierenden,"
+msgstr ""
+"To promote political education and a sense of civic responsibility among "
+"students,"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:29
+msgid ""
+"Förderung des freiwilligen Studierendensports, soweit nicht die "
+"Hochschule dafür zuständig ist,"
+msgstr ""
+"Promotion of voluntary student sports, insofar as the university is not "
+"responsible for this,"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:30
+msgid "Förderung der Integration ausländischer Studierender,"
+msgstr "Promoting the integration of foreign students,"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:31
+msgid "Pflege der überregionalen und internationalen Studierendenbeziehungen."
+msgstr "Cultivating supra-regional and international student relations."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:33
+msgid ""
+"Projekte, die ganz oder zum Teil als Studienleistungen eingebracht "
+"werden, sind nur dann förderungswürdig, wenn der zusätzliche Nutzen für "
+"die Studierendenschaft überwiegt und glaubhaft gemacht wird."
+msgstr ""
+"Projects that are brought in wholly or in part as coursework are only "
+"eligible for funding if the additional benefit for the student body "
+"outweighs this and is credibly demonstrated."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:34
+msgid ""
+"Vorträge mit religiöser oder politischer Thematik sind förderungswürdig, "
+"wenn"
+msgstr "Lectures with a religious or political theme are eligible for funding if"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:36
+msgid ""
+"sie einen aufklärenden Charakter haben und überwiegend auf "
+"wissenschaftlichen Fakten basieren und"
+msgstr ""
+"they have an informative character and are predominantly based on "
+"scientific facts, and"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:37
+msgid ""
+"der Vortragende dem Studierendenrat vorher mit zusätzlichen "
+"Informationen, wie Vita, Pressestimmen etc. vorgestellt wird und"
+msgstr ""
+"the speaker is introduced to the student council beforehand with "
+"additional information, such as curriculum vitae, press reviews, etc., "
+"and"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:38
+msgid ""
+"den Zuhörern im Anschluss an den Vortrag die Möglichkeit zur Diskussion "
+"geboten wird."
+msgstr ""
+"the audience is offered the opportunity for discussion following the "
+"lecture."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:41
+msgid "§ 3 -- Förderarten"
+msgstr "§ 3 -- Types of funding"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:43
+msgid "Mögliche Förderarten sind:"
+msgstr "Possible funding types are:"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:45
+msgid ""
+"Fehlbedarfsfinanzierung (Risikofinanzierung), bei der nur die tatsächlich"
+" im Rahmen des Projektes angefallenen Auslagen nach Abzug der "
+"Projekteinnahmen ersetzt werden."
+msgstr ""
+"Shortfall financing (risk financing), in which only the expenses actually"
+" incurred within the framework of the project are reimbursed after "
+"deduction of the project income."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:46
+msgid ""
+"Förderungen (Projektpostenförderung), bei der nur die tatsächlich im "
+"Rahmen des Projektes angefallenen Auslagen spezifischer Posten ersetzt "
+"werden."
+msgstr ""
+"Funding (project item funding), in which only the expenses of specific "
+"items actually incurred within the framework of the project are "
+"reimbursed."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:47
+msgid ""
+"Förderungen von Gegenständen (Gegenstandsförderung), bei der die "
+"tatsächlichen angefallenen Auslagen von Gegenständen (Mobilien) ersetzt "
+"werden."
+msgstr ""
+"Grants for objects (object grants), in which the actual expenses incurred"
+" for objects (movables) are reimbursed."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:48
+msgid ""
+"Organisationsförderung (Pauschalförderung), bei der eine Organisation/ "
+"juristische Person innerhalb eines Haushaltsjahres des Studierendenrates "
+"(01.04.-31.03.) für mehrere Projekte gefördert wird."
+msgstr ""
+"Organizational funding (lump sum funding), in which an organization/legal"
+" entity is funded for several projects within a financial year of the "
+"Student Council (01.04.-31.03.)."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:51
+msgid "Teil 3: Antragsteller und Förderempfänger:innen"
+msgstr "Part 3: Applicants and beneficiaries"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:54
+msgid "§ 4 -- Förderempfänger:innen"
+msgstr "§ 4 -- Recipients"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:56
+msgid ""
+"Der Förderungsempfänger:in muss für die Durchführung des Projektes "
+"geeignet sein."
+msgstr "The grant recipient must be suitable for carrying out the project."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:57
+msgid ""
+"Der Förderungsempfänger:in haftet gegenüber der Studierendenschaft für "
+"die ordnungsgemäße Durchführung, Mittelverwendung und Abrechnung des "
+"Projektes."
+msgstr ""
+"The funding recipient shall be liable to the student body for the proper "
+"implementation, use of funds and accounting of the project."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:58
+msgid ""
+"Der Förderungsempfänger:in muss im Sinne des §106 ff BGB rechts- und "
+"geschäftsfähig sein, d.h. dass nur eine volljährige natürliche Person "
+"oder eine juristische Person förderungsfähig ist. Eine Gruppe von "
+"Studierenden kann daher - im Gegensatz zu einem eingetragenen Verein oder"
+" einem einzelnen Studierenden - nicht Förderungsempfänger sein."
+msgstr ""
+"The funding recipient must have legal capacity within the meaning of §106"
+" ff BGB (German Civil Code), i.e. only a natural person of full age or a "
+"legal entity is eligible for funding. Therefore, a group of students - in"
+" contrast to a registered association or an individual student - cannot "
+"be a funding recipient."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:59
+msgid ""
+"Der Förderungsempfänger ist für die steuerliche Behandlung der "
+"Fördermittel selbst verantwortlich."
+msgstr ""
+"The funding recipient is responsible for the tax treatment of the funding"
+" itself."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:60
+msgid "Die Technische Universität Ilmenau kann nicht Förderungsempfänger:in sein."
+msgstr "The Ilmenau University of Technology cannot be a funding recipient."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:61
+msgid ""
+"Der Förderungsempfänger:in soll eine studentische Organisation im Umfeld "
+"der TU Ilmenau sein."
+msgstr ""
+"The funding recipient should be a student organization in the vicinity of"
+" the TU Ilmenau."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:62
+msgid ""
+"Der Förderungsempfänger:in soll eine gemeinnützige juristische Person "
+"sein."
+msgstr "The grant recipient shall be a non-profit legal entity."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:63
+msgid ""
+"Das Referat Finanzen berät interessierte Angehörige der Universität "
+"hinsichtlich der Fördermöglichkeiten durch den Studierendenrat."
+msgstr ""
+"The Finance Department advises interested members of the University on "
+"funding opportunities through the Student Council."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:65
+msgid ""
+"BAföG-Empfänger sollten grundsätzlich nicht als Förderungsempfänger "
+"agieren, da nicht auszuschließen ist, dass die Fördermittel bei der "
+"Ermittlung des Einkommens angerechnet werden müssen."
+msgstr ""
+"BAföG recipients should generally not act as grant recipients, as it "
+"cannot be ruled out that the grants will have to be offset when "
+"determining income."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:68
+msgid "§ 5 -- Projektverantwortliche:r"
+msgstr "§ 5 -- Project Responsible"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:70
+msgid ""
+"Der Förderungsempfänger:in benennt eine:n Projektverantwortliche:n, "
+"welcher Ansprechpartner:in für den Studierendenrat zu allen Belangen des "
+"Projektes ist."
+msgstr ""
+"The funding recipient shall appoint a project officer who shall be the "
+"contact person for the Student Council for all matters relating to the "
+"project."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:71
+msgid ""
+"Soweit der Förderungsempfänger:in nicht schriftlich gegenüber dem "
+"Studierendenrat widerspricht, geht der Studierendenrat davon aus, dass "
+"der/die Projektverantwortliche im Rahmen des Projektes gegenüber dem "
+"Studierendenrat Willenserklärungen im Namen des/der "
+"Förderungsempfängers:in abgeben und annehmen darf."
+msgstr ""
+"Unless the Recipient objects in writing to the Student Council, the "
+"Student Council assumes that the Project Officer may make and accept "
+"declarations of intent on behalf of the Recipient within the framework of"
+" the project vis-à-vis the Student Council."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:72
+msgid ""
+"Der Förderungsempfänger:in bzw. seine Vertreter:innen haben ihre "
+"Vertretungsvollmacht nachzuweisen. Eine Kopie der vorgelegten Dokumente "
+"ist zu den Akten zu nehmen."
+msgstr ""
+"The Recipient or its representatives must provide proof of their power of"
+" representation. A copy of the documents submitted shall be kept on file."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:73
+msgid ""
+"Einmal jährlich ist von den Vereinen eine Kopie ihres "
+"Vereinsregisterauszuges beim Studierendenrat mit einer Auflistung aller "
+"zur Vertretung bevollmächtigten Vorstandsmitglieder zu hinterlegen."
+msgstr ""
+"Once a year, the associations shall deposit a copy of their extract from "
+"the register of associations with the Student Council, listing all "
+"members of the Executive Board authorized to represent them."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:76
+msgid "Teil 4: Antrag"
+msgstr "Part 4: Application"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:79
+msgid "§ 6 -- Projektbeschreibung"
+msgstr "§ 6 -- Project description"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:81
+msgid ""
+"Im Antrag ist das Projekt in einer allgemeinverständlichen "
+"Kurzbeschreibung (Projektbeschreibung) darzustellen. Die Beschreibung "
+"soll die/den Förderungsempfänger:in, das Projekt sowie das Ziel des "
+"Projektes so darlegen, dass Außenstehende ohne weitere Erklärung in der "
+"Lage sind, diese Inhalte zu verstehen. Es ist aufzuführen, welche Aufgabe"
+" der Studierendenschaft gemäß §2 Absatz 1 mit dem Projekt erfüllt werden "
+"soll."
+msgstr ""
+"The project must be described in the application in a generally "
+"understandable short description (project description). The description "
+"should describe the recipient(s) of the funding, the project and the goal"
+" of the project in such a way that outsiders are able to understand this "
+"content without further explanation. It must be stated which task of the "
+"student body according to §2 paragraph 1 is to be fulfilled with the "
+"project."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:84
+msgid "§ 7 -- Finanzplan"
+msgstr "§ 7 -- Financial plan"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:86
+msgid ""
+"Im Antrag ist die/der Förderempfänger:in, die/der Projektverantwortliche,"
+" der Projektzeitraum (Zeitraum, in dem das Projekt stattfindet), die "
+"Fördersumme und die beantragte Vorkasse aufzuführen sowie, ob eine "
+"Vorsteuerabzugsberechtigung vorliegt. Im Falle einer Pauschalförderung "
+"muss der Projektzeitraum innerhalb eines Haushaltsjahres (01.04. – "
+"31.03.) liegen und darf spätestens zwei Monate vor Ende des "
+"Haushaltsjahres (31.01.) enden."
+msgstr ""
+"The application must list the funding recipient, the person responsible "
+"for the project, the project period (period in which the project takes "
+"place), the funding amount and the requested advance payment as well as "
+"whether there is an entitlement to deduct input tax. In the case of lump "
+"sum funding, the project period must be within a financial year (01.04. -"
+" 31.03.) and must end no later than two months before the end of the "
+"financial year (31.01.)."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:87
+msgid ""
+"Dem Antrag ist ein nach voraussichtlichen Einnahmen und Ausgaben "
+"gegliederter, begründeter und ausgeglichener Finanzierungsplan gemäß der "
+"Vorlage des Referat Finanzen beizufügen. Diese ist auf der Webseite des "
+"Studierendenrates verfügbar."
+msgstr ""
+"The application shall be accompanied by a justified and balanced "
+"financing plan, broken down according to anticipated income and "
+"expenditure, in accordance with the template provided by the Finance "
+"Department. This is available on the website of the Student Council."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:88
+msgid ""
+"Unerwartete Ausgabenarten, welche abgerechnet werden können sollen, "
+"sollten im Finanzplan mit 0 EUR angesetzt werden, um bei Bedarf einen "
+"entsprechenden, vereinfacht zu genehmigen Aktualisierungsantrag stellen "
+"zu können."
+msgstr ""
+"Unexpected types of expenditure, which should be able to be settled, "
+"should be set at EUR 0 in the financial plan in order to be able to "
+"submit a corresponding, simplified update request if necessary."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:91
+msgid "§ 8 -- Nicht förderfähig"
+msgstr "§ 8 -- Not eligible"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:93
+msgid "Explizit ausgewiesen sein müssen und nicht förderfähig sind:"
+msgstr "Must be explicitly identified and are not eligible:"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:95
+msgid ""
+"Rausch- oder Suchtmittel (beispw. Alkohol, Tabak, Arzneimittel u.ä.); "
+"Ausnahmen können auf begründeten Antrag (z. B. zur Gegenfinanzierung) "
+"genehmigt werden"
+msgstr ""
+"Intoxicants or addictive substances (e.g. alcohol, tobacco, medicines, "
+"etc.); exceptions can be approved upon justified application (e.g. for "
+"counter-financing)"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:96
+msgid "Pfand"
+msgstr "Deposit"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:97
+msgid "Mitgliedsbeiträge"
+msgstr "Membership fees"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:99
+msgid "Explizit ausgewiesen sein müssen und begrenzt förderfähig sind"
+msgstr "Must be explicitly identified and are eligible to a limited extent"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:101
+msgid ""
+"Alkohol; Ausnahmen können auf begründeten Antrag (z. B. zur "
+"Gegenfinanzierung) genehmigt werden"
+msgstr ""
+"Alcohol; exceptions can be approved upon justified application (e.g. for "
+"counter-financing)"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:102
+msgid ""
+"Lebensmittel; Ausnahmen können auf begründeten Antrag (z. B. zur "
+"Gegenfinanzierung) genehmigt werden"
+msgstr ""
+"Foodstuffs; exceptions may be approved upon justified application (e.g. "
+"for counter-financing)"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:103
+msgid "Telefonkosten"
+msgstr "Telephone costs"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:104
+msgid "Fahrtkosten"
+msgstr "Travel costs"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:105
+msgid ""
+"Aufwandsentschädigungen (nicht darunter fallen Honorare und Gagen für "
+"Künstler:innen)"
+msgstr "Expense allowances (this does not include fees and salaries for artists)"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:108
+msgid "§ 9 -- Ausgabenposten ab 500 EUR"
+msgstr "§ 9 -- Expenditure items from EUR 500"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:110
+msgid ""
+"Dem Finanzierungsplan sind nach Möglichkeit Kostenvoranschläge oder "
+"Angebote beizufügen. Für Ausgabeposten über 500 EUR sollen mindestens "
+"drei Angebote geholt werden. Die Kosten für den Studierendenrat sind so "
+"gering wie möglich zu halten. Bei einer Gegenstandsförderung gemäß § 3 "
+"Nr. 3 ist dies verpflichtend."
+msgstr ""
+"If possible, cost estimates or offers shall be attached to the financing "
+"plan. For expenditure items over 500 EUR, at least three offers should be"
+" obtained. The costs for the student council are to be kept as low as "
+"possible. This is obligatory in the case of item funding according to § 3"
+" No. 3."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:111
+msgid ""
+"Absatz 1 wird hinfällig, wenn es keinen alternativen Anbieter gibt. "
+"Beispiele hierfür sind die GEMA und die KSK."
+msgstr ""
+"Paragraph 1 shall become void if there is no alternative provider. "
+"Examples of this are GEMA and KSK."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:114
+msgid "§ 10 -- Ausfallrisiko und weitere Förderer"
+msgstr "§ 10 -- Default risk and other sponsors"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:116
+msgid ""
+"Besteht bei den Einnahmen ein Ausfallrisiko, so muss auf dieses textlich "
+"gesondert hingewiesen werden."
+msgstr ""
+"If there is a risk of default on the revenue, this must be indicated "
+"separately in the text."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:117
+msgid ""
+"Wurden für ein Projekt mehrere Fehlbedarfsfinanzierungen verschiedener "
+"Förderer eingeworben, so ist die jeweilige Anrechnung und Zweckbindung im"
+" Finanzierungsplan darzustellen. Dabei soll erläutert werden, unter "
+"welchen Voraussetzungen an welchen Förderer zurückgezahlt wird und welche"
+" Kosten bei welchen Förderern geltend gemacht werden sollen. Im Regelfall"
+" betrifft das alle Kosten bei allen Förderern."
+msgstr ""
+"If several shortfall funds from different funders have been obtained for "
+"a project, the respective crediting and earmarking shall be presented in "
+"the financing plan. It should be explained under which conditions "
+"repayment is to be made to which funder and which costs are to be claimed"
+" from which funders. As a rule, this applies to all costs for all "
+"funders."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:118
+msgid ""
+"Förderanträge, bei denen eine Bewilligung noch aussteht, sind im "
+"Finanzplan entsprechend zu kennzeichnen."
+msgstr ""
+"Funding applications for which approval is still pending shall be marked "
+"accordingly in the budget."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:121
+msgid "§ 11 -- Einreichung Antrag"
+msgstr "§ 11 -- Submission of application"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:123
+msgid ""
+"Der Antrag muss schriftlich gestellt werden und vom Förderungsempfänger "
+"(i.d.R. Vorstand des Vereins) unterschrieben sein. Er kann vorab per "
+"E-Mail an das Referat Finanzen eingereicht werden. Der "
+"Förderungsempfänger kann sich durch eine bevollmächtigte Person vertreten"
+" lassen. Es sind die Kontaktdaten des Projektverantwortlichen (E-Mail-"
+"Adresse und Telefonnummer) anzugeben."
+msgstr ""
+"The application must be submitted in writing and signed by the funding "
+"recipient (usually the association's executive committee). It can be "
+"submitted in advance by e-mail to the Finance Department. The funding "
+"recipient may be represented by an authorized person. The contact details"
+" of the person responsible for the project (e-mail address and telephone "
+"number) must be provided."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:126
+msgid "§ 12 -- Vorkasse"
+msgstr "§ 12 -- Prepayment"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:128
+msgid ""
+"Vorauszahlung (Vorkassen) sind nur im Rahmen der Vergabe eines Kredites "
+"entsprechend der Kreditrichtlinie des Studierendenrates und "
+"ausschließlich für juristische Personen möglich. Eine Vorkasse kann nur "
+"ausgezahlt werden, wenn die Organisation einen aktuellen Vereins- oder "
+"Unternehmensregisterauszug vorliegt und alle vorhergehenden Projekte des "
+"Förderempfängers ordnungsgemäß abgerechnet wurden. Die maximale Summe "
+"kann nicht höher sein als die Fördersumme."
+msgstr ""
+"Advance payments (prepayments) are only possible in the context of "
+"awarding a loan in accordance with the Student Council's loan guidelines "
+"and exclusively for legal entities. An advance payment can only be "
+"disbursed if the organization has a current extract from the register of "
+"associations or companies and all previous projects of the funding "
+"recipient have been properly accounted for. The maximum amount cannot be "
+"higher than the funding amount."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:129
+msgid ""
+"Die Höhe Vorkasse ist vom StuRa zu beschließen, auf dem "
+"Bewilligungsbescheid auszuweisen und wird innerhalb von zwei Wochen nach "
+"Erstellung dessen bargeldlos ausgezahlt."
+msgstr ""
+"The amount of the advance payment shall be decided by the StuRa, shown on"
+" the notification of approval and paid out cashless within two weeks of "
+"the notification being issued."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:132
+msgid "Teil 5: Prüfung und Genehmigung des Antrages"
+msgstr "Part 5: Examination and approval of the application"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:135
+msgid "§ 13 -- Anspruch auf Förderung"
+msgstr "§ 13 -- Entitlement to funding"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:137
+msgid "Es besteht kein Rechtsanspruch auf Förderung."
+msgstr "There is no legal entitlement to funding."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:140
+msgid "§ 14 -- Anträge bis zu 250 EUR"
+msgstr "§ 14 -- Applications up to EUR 250"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:142
+msgid ""
+"Für die Bewilligung einer Förderung ist ein Beschluss des "
+"Studierendenrates notwendig. Bei Anträgen von Organisationen bis "
+"einschließlich 250 EUR kann das Referat Finanzen die Bewilligung "
+"erteilen, muss dies jedoch auf der nächsten regulären Sitzung des "
+"Studierendenrates verkünden. Satz 2 gilt nur für Organisationen, die "
+"vorher durch den Studierendenrat genehmigt wurden."
+msgstr ""
+"A resolution of the Student Council is necessary for the approval of a "
+"grant. In the case of applications from organizations up to and including"
+" 250 EUR, the Finance Department can grant approval, but must announce "
+"this at the next regular meeting of the Student Council. Sentence 2 only "
+"applies to organizations that have been previously approved by the "
+"Student Council."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:145
+msgid "§ 15 -- Voraussetzung für Bewilligung"
+msgstr "§ 15 -- Prerequisite for authorization"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:147
+msgid ""
+"Eine Entscheidung über die Bewilligung erfolgt erst, wenn alle "
+"vorhergehenden Projekte des Förderungsempfängers ordnungsgemäß "
+"abgerechnet wurden. Davon kann abgewichen werden, sofern die Abrechnung "
+"der ausstehenden Projekte aus wichtigen Gründen dem Förderungsempfänger "
+"noch nicht möglich war."
+msgstr ""
+"A decision on the approval will only be made once all previous projects "
+"of the funding recipient have been properly settled. This may be deviated"
+" from if the settlement of the outstanding projects was not yet possible "
+"for the funding recipient for important reasons."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:150
+msgid "§ 16 -- Fristen"
+msgstr "§ 16 -- Time limits"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:152
+msgid ""
+"Der Antrag soll mindestens eine Woche, aber spätestens drei Tage, vor der"
+" beschlussfassenden Sitzung dem Studierendenrat vorliegen. Der Antrag ist"
+" dem Referat Finanzen wenigstens eine Woche zuvor zur Stellungnahme "
+"vorzulegen. Für Vorträge mit religiöser oder politischer Thematik beträgt"
+" die Frist vier Wochen.  Im Normalfall muss der Antrag dementsprechend "
+"min. 2 Wochen vor der benötigten Beschlussfassung und min. 3 Wochen vor "
+"Beginn des Projektes dem Referat Finanzen vorgelegt werden."
+msgstr ""
+"The application shall be submitted to the Student Council at least one "
+"week, but no later than three days, before the meeting at which the "
+"decision is to be taken. The application shall be submitted to the "
+"Finance Department for comment at least one week beforehand. For "
+"presentations with a religious or political theme, the deadline is four "
+"weeks. Normally, the application must be submitted to the Finance "
+"Department at least two weeks before the required resolution and at least"
+" three weeks before the start of the project."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:153
+msgid ""
+"Es sollen ausschließlich Projekte gefördert werden, die frühestens 7 Tage"
+" nach der beschlussfassenden Sitzung stattfinden."
+msgstr ""
+"Only projects that take place at the earliest 7 days after the decision-"
+"making meeting shall b"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:156
+msgid "§ 17 -- Erteilung der Bewilligung"
+msgstr "§ 17 -- Granting of the authorization"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:158
+msgid ""
+"Sollten die formalen Voraussetzungen nicht erfüllt sein, kann das Referat"
+" Finanzen den Antrag ablehnen. In diesem Fall ist ein Ablehnungsbescheid "
+"gemäß Absatz 7 auszustellen."
+msgstr ""
+"If the formal requirements are not met, the Finance Department may reject"
+" the application. In this case, a rejection notice shall be issued in "
+"accordance with paragraph 7."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:159
+msgid ""
+"Der Antrag ist auf der beschlussfassenden Sitzung des Studierendenrates "
+"durch die/den Förderungsempfänger:in vorzustellen. Die/der "
+"Projektverantwortliche kann sich vertreten lassen, sofern es sich nicht "
+"um Vorträge mit religiöser oder politischer Thematik handelt."
+msgstr ""
+"The application must be presented by the recipient of the funding at the "
+"meeting of the Student Council that adopts the resolution. The person "
+"responsible for the project may be represented, provided that the "
+"presentations do not have a religious or political theme."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:160
+msgid ""
+"Die/der Förderungsempfänger:in erhält einen schriftlichen "
+"Bewilligungsbescheid, der die Unterschrift der/des (stellv.) "
+"Haushaltsverantwortlichen und den Stempel des Referat Finanzen trägt."
+msgstr ""
+"The grant recipient shall receive a written notice of approval bearing "
+"the signature of the (deputy) budget officer and the stamp of the Finance"
+" Department."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:161
+msgid ""
+"Die/der Förderempfänger:in ist im Falle einer Förderung verpflichtet auf "
+"allen projektbezogenen werberelevanten Materialien wie Flyer, Plakate, "
+"Webseiten und Social Media die Förderung durch den Studierendenrat "
+"mittels des StuRa Logo anzuzeigen."
+msgstr ""
+"In the case of funding, the funding recipient is obliged to indicate the "
+"funding by the Students' Council by means of the StuRa logo on all "
+"project-related advertising materials such as flyers, posters, websites "
+"and social media."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:163
+msgid ""
+"Im Falle einer Pauschalförderung ist das Logo während des gesamten "
+"Projektzeitraumes auf allen Webseiten sowie im Social Media der "
+"Organisation aufzuführen. Besteht eine Organisation aus mehreren "
+"unabhängigen Arbeitsgemeinschaften oder Untergruppen, so ist auch bei "
+"diesen das Logo aufzuführen."
+msgstr ""
+"In the case of a lump sum grant, the logo must be displayed on all "
+"websites and social media of the organization during the entire project "
+"period. If an organization consists of several independent working groups"
+" or sub-groups, the logo must also be displayed on these."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:164
+msgid ""
+"Im Falle einer Gegenstandsförderung ist das Logo während des gesamten "
+"Projektzeitraumes sowie der steuerlichen Abschreibungsdauer des "
+"geförderten Gegenstandes auf allen Webseiten sowie im Social Media der "
+"Organisation aufzuführen."
+msgstr ""
+"In the case of an item grant, the logo must be displayed on all websites "
+"and in the organization’s social media for the entire duration of the "
+"project and the tax depreciation period of the funded item."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:166
+msgid ""
+"Um den sachgemäßen Gebrauch der Fördermittel zu überprüfen, ist zwei "
+"Mitgliedern des Studierendenrates kostenfrei Zutritt zu den unterstützten"
+" Veranstaltungen zu gewähren. Absprachen bezüglich der Einlassregelungen "
+"sind erst nach Bewilligung zulässig und sind nicht Gegenstand des "
+"Antrages."
+msgstr ""
+"In order to check the proper use of the funding, two members of the "
+"student council shall be granted free admission to the supported events. "
+"Agreements regarding admission regulations are only permissible after "
+"approval and are not the subject of the application."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:167
+msgid ""
+"Die Förderung gilt nicht vor Zustellung des Bewilligungsbescheides als "
+"bewilligt oder zugesagt."
+msgstr ""
+"Funding shall not be deemed to have been approved or committed before the"
+" notification of approval has been served."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:168
+msgid ""
+"Im Falle der Ablehnung erhält der Förderungsempfänger einen schriftlichen"
+" Ablehnungsbescheid, der die Unterschrift der/des (stellv.) "
+"Haushaltsverantwortlichen und den Stempel des Referat Finanzen trägt."
+msgstr ""
+"In the event of rejection, the grant recipient shall receive a written "
+"rejection notice bearing the signature of the (deputy) budget officer and"
+" the stamp of the Finance Unit."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:171
+msgid ""
+"Teil 6: Aktualisierung des Finanzplans und Überschreitung der "
+"Projektposten"
+msgstr "Part 6: Update of the financial plan and overrun of project items"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:174
+msgid "§ 18 -- Aktualisierung des Finanzplans"
+msgstr "§ 18 -- Updating of the financial plan"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:176
+msgid "Die Aktualisierung bedarf der Einwilligung des Studierendenrates."
+msgstr "Updating requires the consent of the student council."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:177
+msgid "Die Förderhöhe wird durch die Aktualisierung nicht berührt."
+msgstr "The funding level shall not be affected by the update."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:178
+msgid ""
+"Durch eine Aktualisierung kann nur die Höhe von vorhandenen Ausgabe- und "
+"Einnahmeposten angepasst werden. Es können keine neuen Ausgabenposten "
+"eingerichtet werden. Aus diesem Grund sollten unsichere Posten im "
+"Finanzplan vorab mit 0 EUR angesetzt werden."
+msgstr ""
+"An update can only adjust the amount of existing expenditure and revenue "
+"items. No new expenditure items can be created. For this reason, "
+"uncertain items in the budget should be set in advance at EUR 0."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:179
+msgid "Die Aktualisierung ist zu begründen."
+msgstr "The update shall be justified."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:182
+msgid "§ 19 -- Mitteilung der Aktualisierungen"
+msgstr "§ 19 -- Notification of updates"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:184
+msgid ""
+"Ist während der Projektdurchführung abzusehen, dass die im Finanzplan "
+"angesetzten Posten bei Ausgaben überschritten werden, soll dem "
+"Studierendenrat ein aktualisierter Finanzplan in Textform vorgelegt "
+"werden. Er ist schriftlich vorzulegen, sobald der Posten überzogen wurde."
+msgstr ""
+"If it is foreseeable during the implementation of the project that the "
+"items in the budget will be exceeded, an updated budget shall be "
+"submitted to the student council in text form. It shall be submitted in "
+"writing as soon as the item has been exceeded."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:185
+msgid ""
+"Ist während der Projektdurchführung abzusehen, dass die im Finanzplan "
+"angesetzten Posten bei Einnahmen unterschritten werden, ist der "
+"Studierendenrat unverzüglich in Textform zu informieren."
+msgstr ""
+"If, during the implementation of the project, it is foreseeable that the "
+"income will fall short of the items set out in the budget, the Student "
+"Council shall be informed immediately in text form."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:188
+msgid "§ 20 -- Überschreitung von Projektposten"
+msgstr "§ 20 -- Overrun of project items"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:190
+msgid ""
+"Werden die Posten aus dem Finanzplan im Verwendungsnachweis überschritten"
+" bzw. unterschritten, so wird der Verwendungsnachweis auch als "
+"Aktualisierungsantrag gedeutet. Wird der Aktualisierungsantrag nicht "
+"bewilligt, wird die Fördersumme in Höhe der Überschreitung der auf die "
+"Förderung des Studierendenrates anzurechnenden Posten gekürzt."
+msgstr ""
+"If the items from the budget are exceeded or fallen short of in the proof"
+" of use, the proof of use shall also be interpreted as an application for"
+" an update. If the application for an update is not approved, the funding"
+" amount shall be reduced by the amount of the exceeding of the items to "
+"be credited to the funding of the student council."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:191
+msgid ""
+"Das Referat Finanzen wird ermächtigt, die Bewilligung nach § 18 (1) im "
+"Namen des Studierendenrates anhand des vom Studierendenrates "
+"beschlossenen Finanzplanes zu erteilen, wenn"
+msgstr ""
+"The Finance Department shall be authorized to grant the authorization "
+"pursuant to § 18 (1) on behalf of the Student Council on the basis of the"
+" financial plan adopted by the Student Council if"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:193
+#, python-format
+msgid ""
+"alle Ausgabenposten jeweils um nicht mehr als 50% des Postens oder nicht "
+"mehr als 10% der Gesamtsumme oder nicht mehr als 10,- EUR erhöht werden "
+"und"
+msgstr ""
+"all items of expenditure are increased by no more than 50% of the item or"
+" no more than 10% of the total amount or no more than EUR 10, and"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:194
+#, python-format
+msgid ""
+"alle Einnahmenposten jeweils um nicht mehr als 50% des Postens oder nicht"
+" mehr als 10% der Gesamtsumme oder nicht mehr als 10,- EUR gesenkt werden"
+" oder ihr Ausfallrisiko im Antrag vermerkt war und"
+msgstr ""
+"all revenue items are reduced by no more than 50% of the item or no more "
+"than 10% of the total amount or no more than EUR 10.00 each or their risk"
+" of default was noted in the application and"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:195
+msgid "dadurch das Projekt im Kern unverändert bleibt."
+msgstr "this means that the core of the project remains unchanged."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:197
+msgid ""
+"Die Einwilligung nach § 18 (1) gilt abweichend von § 20 (2) anhand des "
+"beschlossenen vom Studierendenrates beschlossenen Finanzplanes als "
+"erteilt, wenn"
+msgstr ""
+"In derogation of § 20 (2), the consent pursuant to § 18 (1) shall be "
+"deemed to have been granted based on the financial plan adopted by the "
+"student council if"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:199
+#, python-format
+msgid ""
+"alle Ausgabenposten jeweils um nicht mehr als 10% des Postens oder nicht "
+"mehr als 1% der Gesamtsumme oder nicht mehr als 10,- EUR erhöht werden "
+"und"
+msgstr ""
+"all items of expenditure are increased by no more than 10% of the item or"
+" no more than 1% of the total or no more than EUR 10, and"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:200
+#, python-format
+msgid ""
+"alle Einnahmenposten jeweils um nicht mehr als 10% des Postens oder nicht"
+" mehr als 1% der Gesamtsumme oder nicht mehr als 10,- EUR gesenkt werden "
+"oder ihr Ausfallrisiko im Antrag vermerkt war."
+msgstr ""
+"all income items are reduced by no more than 10% of the item or no more "
+"than 1% of the total amount or no more than EUR 10.00 each, or their risk"
+" of default was noted in the application."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:203
+msgid "Teil 7: Verwendung und Abrechnung"
+msgstr "Part 7: Use and settlement"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:206
+msgid ""
+"§ 21 -- Vorsteuerabzugsberechtigung, Prinzip der Sparsamkeit und "
+"Wirtschaftlichkeit"
+msgstr ""
+"§ 21 -- Entitlement to deduct input tax, principle of economy and "
+"efficiency"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:208
+msgid "Die Verwendung soll wirtschaftlich und sparsam erfolgen."
+msgstr "The funds shall be used economically and sparingly."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:209
+msgid "Außerdem ist das günstigste Angebot zu wählen."
+msgstr "In addition, the most favorable offer shall be selected."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:210
+msgid ""
+"Eine teurere Alternative darf gewählt werden, wenn diese einen "
+"ökologischen und/oder sozialen Mehrwert enthält. Auf die "
+"Verhältnismäßigkeit zwischen Mehrwert und Mehrkosten ist zu achten."
+msgstr ""
+"A more expensive alternative may be chosen if it contains an "
+"environmental and/or social added value. Attention shall be paid to the "
+"proportionality between added value and additional costs."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:211
+msgid ""
+"Wenn die Umsatzsteuer als Vorsteuer geltend gemacht werden kann, ist dies"
+" auch zu tun."
+msgstr "If the turnover tax can be claimed as input tax, this must also be done"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:212
+msgid ""
+"Ist der Förderungsempfänger nicht vorsteuerabzugsberechtigt, brauchen die"
+" Belege keine Umsatzsteuer auszuweisen."
+msgstr ""
+"If the funding recipient is not entitled to deduct input tax, the "
+"receipts do not need to show VAT."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:215
+msgid "§ 22 -- Belege"
+msgstr "§ 22 -- Vouchers"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:217
+msgid ""
+"Über alle Einnahmen und Ausgaben sowie Vertragszusagen sind schriftliche "
+"Belege zu führen. Hierzu soll es von allem eine Notiz auf Papier geben. "
+"Am einfachsten werden dazu die Originaldokumente ausgedruckt oder "
+"kopiert."
+msgstr ""
+"Written records shall be kept of all receipts and expenditures as well as"
+" contract commitments. For this purpose, there shall be a note of "
+"everything on paper. The easiest way to do this is to print out or copy "
+"the original documents."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:218
+msgid ""
+"Belege für Ausgaben sollen Rechnungen entsprechend UStG §14 oder "
+"Rechnungen über Kleinbeträge nach UStDV §33 sein. Sie müssen wenigstens "
+"folgende Angaben enthalten."
+msgstr ""
+"Receipts for expenses shall be invoices according to UStG §14 or invoices"
+" for small amounts according to UStDV §33. They must contain at least the"
+" following information."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:220
+msgid ""
+"den vollständigen Namen und die vollständige Anschrift des leistenden "
+"Unternehmers,"
+msgstr "the full name and address of the supplier,"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:221
+msgid "das Ausstellungsdatum,"
+msgstr "the date of issue,"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:222
+msgid ""
+"die Menge und die Art der gelieferten Gegenstände oder den Umfang und die"
+" Art der sonstigen Leistung und"
+msgstr ""
+"the quantity and nature of the goods supplied or the scope and nature of "
+"other performance"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:223
+msgid ""
+"das Entgelt und den darauf entfallenden Steuerbetrag für die Lieferung "
+"oder sonstige Leistung in einer Summe oder im Falle einer Steuerbefreiung"
+" einen Hinweis darauf, dass für die Lieferung oder sonstige Leistung eine"
+" Steuerbefreiung gilt."
+msgstr ""
+"the consideration and the amount of tax payable thereon for the supply or"
+" other service in one sum or, in the case of a tax exemption, an "
+"indication that the supply or other service is subject to a tax "
+"exemption."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:225
+msgid ""
+"Belege, welche nur anteilig dem geförderten Projekt zuzurechnen sind, "
+"sind zu vermeiden. Der anteilig angerechnete Betrag ist zusammen mit dem "
+"Beleg anzugeben und zu begründen."
+msgstr ""
+"Receipts which are only proportionally attributable to the funded project"
+" shall be avoided. The proportionate amount must be stated and justified "
+"together with the voucher."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:226
+msgid ""
+"Im Finanzplan gesondert auszuweisende Verwendungen können nur mit "
+"vorheriger ausdrücklicher Einwilligung des Studierendenrates als Ausgabe "
+"geltend gemacht werden."
+msgstr ""
+"Uses to be shown separately in the budget may only be claimed as "
+"expenditure with the prior express consent of the student council."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:227
+msgid "Nicht Förderfähiges wird in der Abrechnung nicht berücksichtigt."
+msgstr "Non-eligible items shall not be taken into account in the settlement."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:230
+msgid "§ 23 -- Fahrtkosten"
+msgstr "§ 23 -- Travel expenses"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:232
+msgid ""
+"Durch die Nutzung von Privatkraftfahrzeugen entstandene Fahrtkosten "
+"können in der Regel nur mit einer Kilometerpauschale in der Regel mit "
+"0,17 EUR pro Kilometer und 0,002 EUR pro Kilometer und Mitfahrer "
+"angesetzt werden, welche Tankkosten und alle sonstigen Abnutzungen des "
+"Fahrzeuges abdeckt. Es ist ein Fahrtenbuch mit Fahrzeugkennzeichen, "
+"Kilometerstand bei Abfahrt und Ankunft, Abfahrtszeit, Ankunftszeit, Name "
+"des Fahrers und der Mitfahrer sowie Zweck der Fahrt zu führen. Die "
+"Aufwendungen können nur von der/dem Fahrer:in geltend gemacht werden."
+msgstr ""
+"As a rule, travel costs incurred using private motor vehicles can only be"
+" assessed at a flat rate per kilometer of EUR 0.17 per kilometer and EUR "
+"0.002 per kilometer and passenger, which covers fuel costs and all other "
+"wear and tear on the vehicle. A logbook must be kept with vehicle "
+"registration number, mileage at departure and arrival, time of departure,"
+" time of arrival, name of driver and passengers and purpose of the "
+"journey. The expenses can only be claimed by the driver."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:235
+msgid "§ 24 -- Bargeld"
+msgstr "§ 24 -- Cash"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:237
+msgid "Zahlungen sollen bargeldlos erfolgen."
+msgstr "Payments shall be made without cash."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:238
+msgid ""
+"Bei der Verwendung von Bargeldkassen ist als Beleg ein Kassenbuch zu "
+"führen. Behelfsweise sind für Einnahmen Quittungen oder Eigenbelege "
+"anzufertigen."
+msgstr ""
+"When using cash tills, a cash book shall be kept as a record. As a "
+"makeshift solution, receipts or personal vouchers shall be prepared for "
+"receipts."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:241
+msgid "§ 25 -- Aufforderung zur Zwischenabrechnung"
+msgstr "§ 25 -- Request for interim settlement"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:243
+msgid ""
+"Dem Referat Finanzen ist nach Aufforderung der aktuelle Einnahmen- und "
+"Ausgabenstand nach Posten gruppiert in Textform mitzuteilen und Einsicht "
+"in die Belege zu gewähren."
+msgstr ""
+"Upon request, the Finance Department shall be informed in text form of "
+"the current income and expenditure status grouped according to items and "
+"shall be allowed to inspect the receipts."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:246
+msgid "Teil 8: Verwendungsnachweis und Aufbewahrungspflicht"
+msgstr "Part 8: Proof of Use and Retention Obligation"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:249
+msgid "§ 26 -- Verwendungsnachweis"
+msgstr "§ 26 -- Proof of use"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:251
+msgid ""
+"Der Förderungsempfänger hat über die Verwendung der Mittel den "
+"Verwendungsnachweis zu führen. Er ist gemäß der Vorlage des Referat "
+"Finanzen umgehend nach Abschluss des Projekts dem Studierendenrat "
+"schriftlich vorzulegen."
+msgstr ""
+"The recipient of the funding must keep a record of the use of the funds. "
+"It shall be submitted in writing to the Student Council immediately after"
+" completion of the project in accordance with the submission of the "
+"Finance Department."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:252
+msgid "Der Verwendungsnachweis besteht aus:"
+msgstr "The proof of use shall consist of:"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:254
+msgid "Einer abschließenden Bewertung des Projektes,"
+msgstr "A final evaluation of the project,"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:255
+msgid ""
+"dem durch den Studierendenrat beschlossenen Finanzplan ergänzt um die "
+"tatsächlichen Ausgaben und Einnahmen,"
+msgstr ""
+"the financial plan adopted by the Student Council supplemented by the "
+"actual expenditure and income,"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:256
+msgid ""
+"der Liste der Belege sowie ihre Zugehörigkeit zu den einzelnen "
+"Projektposten gemäß § 27 (3),"
+msgstr ""
+"the list of supporting documents as well as their affiliation to the "
+"individual project items according to § 27 (3),"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:257
+msgid "die Belege gemäß § 27 (1) sowie"
+msgstr "the supporting documents pursuant to § 27 (1) and"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:258
+msgid "eine Versicherung der/des Förderempfängers:in gemäß § 30."
+msgstr "an assurance by the Recipient pursuant to § 30."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:260
+msgid ""
+"Wird der Verwendungsnachweis nicht ordnungsgemäß binnen 6 Monate nach der"
+" Beendigung des Projekts geführt, so wird der Bewilligungsbescheid "
+"widerrufen."
+msgstr ""
+"If the proof of use is not properly kept within 6 months after the "
+"completion of the project, the notice of approval shall be revoked."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:261
+msgid ""
+"Ist eine Abrechnung in der Frist aus wichtigem Grund nicht möglich, kann "
+"der Studierendenrat auf Antrag des Förderungsempfängers die Frist "
+"verlängern. Davon abweichend kann das Referat Finanzen die Frist um "
+"maximal drei Monate verlängern, sofern noch nicht alle Rechnungen "
+"beigebracht werden konnten."
+msgstr ""
+"If it is not possible to settle the accounts within the deadline for an "
+"important reason, the Student Council can extend the deadline at the "
+"request of the funding recipient. Notwithstanding this, the Finance "
+"Department may extend the deadline by a maximum of three months if not "
+"all invoices have been submitted."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:264
+msgid "§ 27 -- (Original-)Belege in der Abrechnung"
+msgstr "§ 27 -- (Original) receipts in the statement of account"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:266
+msgid ""
+"Für alle Einnahmen und Ausgaben sind Belege in Original oder Kopie der "
+"Abrechnung dauerhaft lesbar beizulegen. Eigenbelege für Ausgaben werden "
+"nicht akzeptiert. Sollten die Belege nicht im Original beigefügt sein, "
+"ist der Verbleib der Originalbelege zu nennen."
+msgstr ""
+"For all income and expenses, receipts in original or copy must be "
+"attached to the statement in a permanently legible manner. Own receipts "
+"for expenses shall not be accepted. If the original vouchers are not "
+"attached, the whereabouts of the original vouchers must be stated."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:267
+msgid ""
+"Die Belege sind fortlaufend zu nummerieren und entsprechend der "
+"Nummerierung geordnet einzureichen. Die Belege können nach Posten "
+"gruppiert werden."
+msgstr ""
+"The supporting documents shall be numbered consecutively and submitted in"
+" order according to the numbering. The supporting documents may be "
+"grouped by item."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:268
+msgid ""
+"Die Zuordnung der Belege zu den einzelnen Posten ist tabellarisch nach "
+"Belegnummer sortiert darzustellen. Die Zuordnung ist außerdem in einer "
+"weiteren Aufstellung nach Posten gruppiert darzustellen. Auf die Vorlage "
+"der Tabellen kann bei Projekten mit geringem Umfang verzichtet werden, "
+"sofern diese zur Prüfung der Abrechnung nicht erforderlich sind und das "
+"Referat Finanzen einwilligt."
+msgstr ""
+"The allocation of the vouchers to the individual items shall be presented"
+" in tabular form sorted by voucher number. The allocation shall also be "
+"presented in a further list grouped by item. The presentation of the "
+"tables may be waived for projects of small scope, if they are not "
+"necessary for the examination of the statement of accounts and the "
+"Finance Department agrees."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:272
+msgid ""
+"**Tabelle 1:** Zuordnung der Belege zu den Posten sortiert nach "
+"Belegnummer"
+msgstr ""
+"**Table 1:** Assignment of the documents to the items sorted by document "
+"number"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:285
+msgid "**Tabelle 2:** Liste der Belege nach Posten sortiert nach Belegnummer"
+msgstr "**Table 2:** List of vouchers by item sorted by document number"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:300
+msgid "§ 28 -- Elektronische Übersicht der Belege"
+msgstr "§ 28 Electronic overview of receipts"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:302
+msgid ""
+"Das Referat Finanzen kann zur Prüfung umfangreicher Unterlagen (i.d.R. ab"
+" 20 Belegen) die elektronisch verarbeitbare Vorlage der Belege und "
+"Übersichtstabellen vorschreiben. Das Referat Finanzen kann dabei die "
+"Verwendung einer Dokumentenvorlage und eines unentgeltlich nutzbaren "
+"Dateiformates vorschreiben."
+msgstr ""
+"The Finance Department may prescribe the electronically processable "
+"submission of vouchers and summary tables for the audit of extensive "
+"documents (usually 20 or more vouchers). The Finance Department may "
+"prescribe the use of a document template and a file format that can be "
+"used free of charge."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:305
+msgid "§ 29 -- Externe Förderungen"
+msgstr "§ 29 -- External funding"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:307
+msgid ""
+"Es sind alle durch das Projekt entstandenen Einnahmen, im Besonderen auch"
+" sich erst nach Antragstellung ergebene weitere Förderungen Dritter, in "
+"der Abrechnung mit anzugeben und bei Fehlbedarfsfinanzierungen mit "
+"anzurechnen."
+msgstr ""
+"All income generated by the project, in particular further funding from "
+"third parties that only arises after the application has been submitted, "
+"must be stated in the statement of account and credited in the case of "
+"shortfall financing"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:308
+msgid ""
+"Ausgefallene Förderungen Dritter, welche auf die Förderung des "
+"Studierendenrates anzurechnen sind, sind durch Eigenmittel auszugleichen,"
+" sofern sich nicht aus dem Projektantrag das Ausfallrisiko ergibt."
+msgstr ""
+"Defaulted third-party funding which is to be credited to the funding of "
+"the Student Council shall be compensated by own funds unless the risk of "
+"default results from the project application."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:309
+msgid ""
+"Auf die Förderung des Studierendenrates sind in der Regel alle weiteren "
+"Förderungen Dritter des Projektes anzurechnen. Mitunter sind die "
+"Förderungen Dritter jedoch zweckgebunden oder stehen Ausgaben unter dem "
+"Vorbehalt einer speziellen Förderung. Beispiele dafür sind die "
+"unentgeltliche/ermäßigte Bereitstellung von Technik oder die Übernahme "
+"bestimmter Auslagen wie beispielsweise Fahrtkosten durch Dritte. Eine "
+"entsprechende Zweckbindung kann im Finanzantrag angegeben werden und "
+"führt nicht zu einer Reduktion, der vom Studierendenrat bewilligten "
+"Mittel."
+msgstr ""
+"As a rule, all other third-party funding for the project shall be "
+"credited against the funding from the student council. Sometimes, "
+"however, third-party funding is earmarked or expenses are subject to "
+"special funding. Examples of this are the free/reduced provision of "
+"technology or the assumption of certain expenses such as travel costs by "
+"third parties. A corresponding earmarking can be specified in the "
+"financial application and does not lead to a reduction in the funds "
+"approved by the student council."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:310
+msgid ""
+"Soweit im Antrag hinsichtlich einer anrechenbaren Förderung durch das "
+"Studierendenwerk Thüringen nicht anderes bestimmt ist, wird angenommen, "
+"dass es sich dabei um eine Fehlbedarfsfinanzierung handelt. Wird der "
+"durch den StuRa garantierte Förderbetrag unterschritten, kann in diesem "
+"Fall der durch das Studierendenwerk garantierte Betrag proportional in "
+"gleichem Maße gekürzt werden."
+msgstr ""
+"Unless otherwise specified in the application with regard to eligible "
+"funding by the Studierendenwerk Thüringen, it is assumed that this is "
+"shortfall funding. If the amount of funding guaranteed by the StuRa is "
+"undercut, the amount guaranteed by the Studierendenwerk can be reduced "
+"proportionally to the same extent in this case."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:314
+msgid ""
+"Der StuRa reicht eine Fehlbedarfsfinanzierung von bis zu 500 EUR, das "
+"Studentenwerk von bis zu 250 EUR für das gleiche Projekt aus. Das Projekt"
+" erzielt ohne Berücksichtigung der Fehlbedarfsfinanzierungen einen "
+"auszugleichenden Verlust in Höhe von 600 EUR. Zur Ermittlung des StuRa "
+"Auszahlungsbetrages werden nun nicht die vollen 250 EUR des "
+"Studentenwerkes abgezogen, sondern nur ein geringerer Betrag, sodass die "
+"600 EUR im Verhältnis 500 EUR : 250 EUR auf StuRa und Studentenwerk "
+"verteilt werden. D.h. der StuRa zahlt in diesem Fall 400 EUR und das "
+"Studentenwerk nur 200 EUR - d.h. StuRa und Studentenwerk reduzieren den "
+"Förderbetrag jeweils um 20%, um den Verlust auszugleichen."
+msgstr ""
+"The StuRa provides shortfall funding of up to 500 EUR, the Studentenwerk "
+"up to 250 EUR for the same project. The project achieves a loss to be "
+"compensated for in the amount of 600 EUR without taking the shortfall "
+"financing into account. To determine the StuRa payment amount, the full "
+"250 EUR of the Studentenwerk is not deducted, but only a smaller amount, "
+"so that the 600 EUR is divided between the StuRa and the Studentenwerk in"
+" the ratio 500 EUR : 250 EUR. This means that in this case the StuRa pays"
+" 400 EUR and the Studentenwerk only 200 EUR - i.e. StuRa and "
+"Studentenwerk each reduce the funding amount by 20% to compensate for the"
+" loss."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:318
+msgid ""
+"§ 30 -- Versicherung über die vollständige und wahrheitsgemäße "
+"Darstellung der Einnahmen und Ausgaben"
+msgstr ""
+"§ 30 -- Assurance of the complete and truthful presentation of income and"
+" expenditure"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:320
+msgid ""
+"Der Abrechnung ist eine schriftliche und von der/dem "
+"Förderungsempfänger:in unterschriebene Versicherung über die vollständige"
+" und wahrheitsgemäße Darstellung der Einnahmen und Ausgaben, die "
+"ausschließliche Verwendung der Mittel für das geförderte Projekt und dass"
+" dieselben Aufwendungen nicht mehrfach abgerechnet wurden beizufügen. Die"
+" Versicherung erfolgt formlos schriftlich, soweit sie nicht bereits in "
+"der bei der Abrechnung zu verwendeter Vorlage enthalten ist."
+msgstr ""
+"The statement of account must be accompanied by a written assurance, "
+"signed by the grant recipient, that the income and expenses have been "
+"presented completely and truthfully, that the funds have been used "
+"exclusively for the funded project and that the same expenses have not "
+"been invoiced more than once. The assurance shall be made informally in "
+"writing, unless it is already included in the template to be used for the"
+" settlement of accounts."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:323
+msgid "§ 31 -- Einsicht in Originalbelege"
+msgstr "§ 31 -- Inspection of original supporting documents"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:325
+msgid ""
+"Dem Studierendenrat ist auf Aufforderung auch nach der Prüfung der "
+"Unterlagen Einsicht in die Originalbelege zu gewähren. Dies erfolgt "
+"beispielsweise um eine Prüfung durch die Sturäte, die Innenrevision, den "
+"Finanzausschuss oder dem Landesrechnungshof zu ermöglichen."
+msgstr ""
+"The student council shall be granted access to the original documents "
+"upon request, even after the documents have been examined. This shall be "
+"done, for example, in order to enable an audit by the councilors, the "
+"internal audit, the finance committee or the State Audit Office."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:326
+msgid ""
+"Sofern nicht in der Abrechnung mit eingereicht, sind die Originalbelege "
+"zehn Jahre lang aufzubewahren."
+msgstr ""
+"Unless submitted with the statement of account, the original receipts "
+"shall be kept for ten years."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:329
+msgid "Teil 9: Prüfung und Einwände zum Verwendungsnachweis"
+msgstr "Part 9: Examination and objections to the proof of use"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:332
+msgid "§ 32 -- Prüfung und Einwände zum Verwendungsnachweis"
+msgstr "§ 32 -- Examination of and objections to the proof of use"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:334
+msgid ""
+"Das Referat Finanzen prüft den Verwendungsnachweis auf Vollständigkeit, "
+"Korrektheit und Einhaltung der Förderungsbedingungen und teilt dem "
+"Förderungsempfänger das Ergebnis der Prüfung mit (Prüfbescheid)."
+msgstr ""
+"The Finance Department shall check the proof of use for completeness, "
+"correctness and compliance with the funding conditions and shall inform "
+"the funding recipient of the result of the check (check notice)."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:335
+msgid ""
+"Dabei ist das Referat Finanzen auch ermächtigt, die Verwendung "
+"hinsichtlich der Wirtschaftlichkeit und Sparsamkeit zu bewerten."
+msgstr ""
+"In doing so, the Finance Unit shall also be authorized to evaluate the "
+"use with regard to economic efficiency and economy."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:336
+msgid ""
+"Lässt die Abrechnung darauf schließen, dass die Förderung abweichend vom "
+"bewilligten Antrag verwendet oder in böswilliger Absicht falsch "
+"ausgestellt wurde kann das Referat Finanzen nach eigenem Ermessen den "
+"Bewilligungsbescheid widerrufen."
+msgstr ""
+"If the statement of account indicates that the grant was used in "
+"deviation from the approved application or was issued incorrectly with "
+"malicious intent, the Finance Department may, at its discretion, revoke "
+"the notice of grant."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:339
+msgid "Teil 10: Auszahlung der Fördermittel"
+msgstr "Part 10: Disbursement of the subsidies"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:342
+msgid "§ 33 -- Auszahlung der Fördermittel"
+msgstr "§ 33 -- Disbursement of the subsidies"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:344
+msgid ""
+"Förderungen werden nach Abschluss des Projekts und Vorlage des "
+"Verwendungsnachweises ausgezahlt."
+msgstr ""
+"Funding shall be paid out after completion of the project and submission "
+"of the proof of use."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:345
+msgid ""
+"Wurde eine Vorkasse ausgezahlt ist die Differenz mit dem tatsächlich "
+"korrekt abgerechneten Betrag zu bilden. Ist der Förderbedarf höher als "
+"die bereits ausgezahlte Vorkasse, wird der verbleibende Betrag innerhalb "
+"von zwei Wochen bargeldlos an den Förderempfänger ausgezahlt."
+msgstr ""
+"If an advance payment has been disbursed, the difference shall be made up"
+" with the amount actually correctly settled. If the funding requirement "
+"is higher than the advance payment already disbursed, the remaining "
+"amount shall be disbursed to the funding recipient without cash within "
+"two weeks."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:346
+msgid ""
+"Die Auszahlung sowie - soweit durchzuführen - die Rückzahlung erfolgt "
+"bargeldlos. Weiteres regelt der Bewilligungsbescheid."
+msgstr ""
+"Payment and - if carried out - repayment shall be made without cash. "
+"Further details shall be set out in the notice of approval."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:347
+msgid ""
+"Zu viel gezahlte oder zurück geforderte Fördermittel sind innerhalb von "
+"zwei Wochen in einer einmaligen Zahlung nach Erhalt des Prüfbescheides "
+"auf das Konto des Studierendenrates einzuzahlen."
+msgstr ""
+"Funding that has been overpaid or reclaimed must be paid into the account"
+" of the Student Council in a single payment within two weeks of receipt "
+"of the audit notification."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:350
+msgid "Teil 11: Schlussbestimmungen"
+msgstr "Part 11: Final Provisions"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:353
+msgid "§ 34 -- Schlussabstimmungen"
+msgstr "§ 34 -- Final votes"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:355
+msgid ""
+"Bei allen Projekten und Veranstaltungen, die vom Studierendenrat "
+"gefördert werden, ist dieser als Unterstützer öffentlichkeitswirksam zu "
+"nennen."
+msgstr ""
+"In all projects and events sponsored by the Student Council, the latter "
+"shall be named as a supporter in a publicity-effective manner."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:356
+msgid ""
+"Das Referat Finanzen wird ermächtigt, die genannten Bescheide im Namen "
+"des Studierendenrates zu erstellen und bekannt zu geben."
+msgstr ""
+"The Finance Department shall be authorized to issue and announce the "
+"aforementioned notices on behalf of the Student Council."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:357
+msgid ""
+"Über Ermessensentscheidungen bei der Mittelverwendung, soweit nicht "
+"ausdrücklich anders geregelt, entscheidet der Studierendenrat."
+msgstr ""
+"The Student Council shall decide on discretionary decisions regarding the"
+" use of funds, unless expressly regulated otherwise."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:358
+msgid ""
+"Über Widersprüche gegen Entscheidungen und Bescheide des Referat Finanzen"
+" entscheidet der Studierendenrat."
+msgstr ""
+"The Student Council shall decide on appeals against decisions and notices"
+" of the Finance Department."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:361
+msgid "Teil 12: Datenschutz"
+msgstr "Part 12: Data protection"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:364
+msgid "§ 35 -- Datenschutz"
+msgstr "§ 35 -- Data protection"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:366
+msgid ""
+"Die Personalausweiskopien und Vertretungsvollmachten werden für den "
+"Zeitraum von einem Jahr nach der Genehmigung der Projektabrechnung oder "
+"einem Monat nach der Ablehnung des Projektantrages aufbewahrt. Handelt es"
+" sich dabei um Dokumente aus öffentlich zugänglichen Registern (beispw. "
+"Vereinsregisterauszug), verfünffacht sich die Frist aus Satz 1."
+msgstr ""
+"Copies of identity cards and powers of attorney shall be kept for a "
+"period of one year after the approval of the project account or one month"
+" after the rejection of the project application. If these are documents "
+"from publicly accessible registers (e.g. excerpt from the register of "
+"associations), the period from sentence 1 shall be increased fivefold."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:367
+msgid ""
+"Die Aufbewahrung nach Absatz 1 erfolgt zum Zwecke der Nachprüfung bei "
+"Anfechtung, im Rahmen der Rechtsaufsicht oder der Rechnungsprüfung durch "
+"den Finanzausschuss."
+msgstr ""
+"Retention pursuant to paragraph 1 shall be for the purpose of review in "
+"the event of a challenge, within the framework of legal supervision or "
+"audit by the Finance Committee."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:368
+msgid ""
+"Die Aufbewahrung nach Absatz 1 für Dokumente, die nicht aus öffentlich "
+"zugänglichen Registern stammen, erfolgt in einem verschlossenen Schrank."
+msgstr ""
+"The storage under subsection (1) for documents that do not originate from"
+" publicly accessible registers shall be in a locked cabinet."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:371
+msgid "Teil 13: Inkrafttreten"
+msgstr "Part 13: Entry into force"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:374
+msgid "§ 36 -- Inkrafttreten"
+msgstr "§ 36 -- Entry into force"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:376
+msgid ""
+"Diese Richtlinie tritt nach Beschlussfassung durch den Studierendenrat in"
+" Kraft und löst die Förderrichtlinie des Studierendenrates vom 15.06.2016"
+" ab. Beschlossen vom Studierendenrat der TU Ilmenau in der Sitzung vom "
+"26.01.2022 (31/26-O01)."
+msgstr ""
+"This guideline comes into force after the student council has passed a "
+"resolution and replaces the funding guideline of the student council from"
+" 15.06.2016. Decided by the Student Council of the TU Ilmenau in the "
+"meeting of 26.01.2022 (31/26-O01)."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:380
+msgid "§ 37 -- Übergangsbestimmungen"
+msgstr "§ 37 -- Transitional Provisions"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:382
+msgid ""
+"Für bereits vor dem 27.01.2022 beschlossene externe Förderungen gelten "
+"bis zu ihrem Abschluss, sofern nicht anders vereinbart, die Regelungen "
+"der alten Förderrichtlinie vom 15.06.2016."
+msgstr ""
+"For external funding already decided before 27.01.2022, the regulations "
+"of the old funding guideline of 15.06.2016 shall apply until their "
+"conclusion, unless otherwise agreed."
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:385
+msgid "Anlagen"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:387
+msgid ""
+"**Hinweis zur Schriftform:** Eine einfache/normale E-Mail entspricht "
+"nicht der elektronischen Schriftform. (vgl. |bgb-126|)"
+msgstr ""
+"**Note on written form:** A simple/normal e-mail does not correspond to "
+"the electronic written form. (cf. |bgb-126|)"
+
+#: ../../source/ordnung/foerderrichtlinie-extern.rst:389
+msgid ""
+"**Hinweis zur Textform:** Die Textform inkludiert im Gegensatz zur "
+"Schriftform auch E-Mail. (vgl. |bgb-126b|)"
+msgstr ""
+"**Note on text form:** Text form, in contrast to written form, also "
+"includes e-mail. Text form also includes e-mail. (cf. |bgb-126b|)"
+

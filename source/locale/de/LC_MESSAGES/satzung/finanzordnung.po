@@ -1,0 +1,655 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-25 13:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/satzung/finanzordnung.rst:2
+msgid "Finanzordnung der Studierendenschaft"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here <https://ordnungen.stura.eu/en/satzung/finanzordnung.html>`_."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:8
+msgid ""
+"Aufgrund §§ `79 <https:landesrecht.thueringen.de/bsth/document/jlr-"
+"HSchulGTH2018pP79>`_ Absatz 2, `80 "
+"<https:landesrecht.thueringen.de/bsth/document/jlr-HSchulGTH2018pP80>`_ "
+"Absatz 2 Satz 1 Nummer 5 in Verbindung mit `§ 3 "
+"<https:landesrecht.thueringen.de/bsth/document/jlr-HSchulGTH2018pP3>`_ "
+"Absatz 2 des `Thüringer Hochschulgesetzes "
+"<https:landesrecht.thueringen.de/bsth/document/jlr-HSchulGTH2018rahmen>`_"
+" (ThürHG) vom 10.05.2018 (GVBl. S. 149), zuletzt geändert durch Artikel 7"
+" des Gesetzes vom 23.03.2021 (GVBl. S. 115, 118), erlässt die "
+"Studierendenschaft der Technischen Universität Ilmenau (nachstehend "
+"\"Universität“ genannt) folgende Finanzordnung der Studierendenschaft der"
+" Technischen Universität Ilmenau vom 06.06.2013, veröffentlicht im "
+"Verkündungsblatt der Universität 112 / 2013, in der Fassung der dritten "
+"Änderung vom 12.11.2021, veröffentlicht im Verkündungsblatt 221 / 2021."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:10
+msgid ""
+"Die Studierendenschaft der Universität hat die Finanzordnung der "
+"Studierendenschaft der Technischen Universität Ilmenau in der "
+"Urabstimmung vom 11. bis 14.06.2012 beschlossen. Der Rektor hat die "
+"Ordnung am 06.06.2013 genehmigt. Die Studierendenschaft der Universität "
+"hat in der Urabstimmung vom 22.07.2021 die dritte Änderungssatzung zur "
+"Finanzordnung der Studierendenschaft der Technischen Universität Ilmenau "
+"beschlossen. Der Präsident der Universität hat sie am 12.11.2021 "
+"genehmigt."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:15
+msgid "§ 1 -- Grundsätze"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:17
+msgid ""
+"Die Finanzordnung der Studierendenschaft der Technischen Universität "
+"Ilmenau beruht auf den Grundlagen der Thüringer "
+"Studierendenschaftsfinanzverordnung (|studfvo|) und ergänzend der "
+"Thüringer Landeshaushaltsordnung (|thuerlho|)."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:18
+msgid ""
+"Die Finanzordnung gilt für die Haushalts- und Wirtschaftsführung der "
+"Studierendenschaft, vertreten durch den Studierendenrat."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:23
+msgid "§ 2 -- Haushaltsjahr"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:25
+msgid ""
+"Das Haushaltsjahr beginnt am 1. April und endet am 31. März des "
+"Folgejahres."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:30
+msgid "§ 3 -- Finanzierung der Studierendenschaft"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:32
+msgid ""
+"Die Finanzierung der Studierendenschaft der Universität bestimmt sich "
+"nach |studfvo-3|."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:37
+msgid "§ 4 -- Haushaltsverantwortlicher, Kassenverantwortlicher, Referat Finanzen"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:39
+msgid ""
+"Der/Die Haushaltsverantwortliche ist Beauftragte/r für den Haushalt der "
+"Studierendenschaft entsprechend |studfvo-4|. Der/Die "
+"Haushaltsverantwortliche muss dem Studierendenrat angehören. Der "
+"Studierendenrat kann bis zu zwei StellvertreterInnen wählen, welche nicht"
+" Teil des Studierendenrates, jedoch an der TU Ilmenau als Studierende "
+"immatrikuliert sein müssen. Der/Die Haushaltsverantwortliche und "
+"dessen/deren StellvertreterInnen werden mit qualifizierter Mehrheit "
+"gewählt. Tritt der oder die Haushaltsverantwortliche zurück, wird das Amt"
+" bis zur Neubesetzung kommissarisch durch die Stellvertreterinnen "
+"beziehungsweise Stellvertreter ausgeübt."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:41
+msgid ""
+"Der/Die Kassenverantwortliche muss dem Studierendenrat angehören. Der "
+"Studierendenrat kann beliebig viele StellvertreterInnen wählen, welche "
+"nicht Teil des Studierendenrates, jedoch an der TU Ilmenau als "
+"Studierende immatrikuliert sein müssen. Angestellte des Studierendenrates"
+" können als stellvertretende Kassenverantwortliche gewählt werden. "
+"Der/Die Kassenverantwortliche und dessen/deren StellvertreterInnen werden"
+" mit qualifizierter Mehrheit gewählt."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:43
+msgid ""
+"Der Studierendenrat wählt nach Maßgabe der |studfvo| auf seiner "
+"konstituierenden Sitzung den/die Haushaltsverantwortliche/n und eine/n "
+"Kassenverantwortliche/n."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:45
+msgid ""
+"Der Haushaltsverantwortliche bzw. die Haushaltsverantwortliche und der "
+"Kassenverantwortliche bzw. die Kassenverantwortliche sowie deren "
+"Stellvertreter bilden das Referat Finanzen."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:47
+msgid ""
+"Der bzw. die Haushaltsverantwortliche entwirft den Haushaltsplan und legt"
+" ihn dem Studierendenrat zur Beschlussfassung vor. Der bzw. die "
+"Haushaltsverantwortliche ist für die ordnungsgemäße Ausführung des "
+"Haushaltsplans und die Einhaltung der |studfvo| verantwortlich. Er bzw. "
+"sie ist bei allen Maßnahmen von finanzieller Bedeutung zu beteiligen."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:49
+msgid ""
+"Kassenverantwortliche sind für die Buch-, Kassen- und Kontoführung und "
+"die Abwicklung des Zahlungsverkehrs zuständig."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:51
+msgid ""
+"Der bzw. die Haushaltsverantwortliche wird bei seinen bzw. ihren Aufgaben"
+" von den übrigen Mitgliedern des Referats Finanzen unterstützt."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:53
+msgid ""
+"Die Mitglieder des Referats Finanzen sind dem Studierendenrat "
+"rechenschaftspflichtig."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:57
+msgid ""
+"Der bzw. die Haushaltsverantwortlichen sind nach :ref:`§ 13 <satzung-"
+"studi-p13>` Abs. 2 Satz 3 Satzung der Studierendenschaft mit "
+"Zweidrittelmehrheit zu wählen und müssen der Studiendenschaft angehören "
+"(|studfvo-4-short| Abs. 1 ThürStudFVO)."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:61
+msgid "Der bzw. die Haushaltsverantwortliche hat nach |studfvo-4| ein Veto-Recht."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:66
+msgid "§ 5 -- Haushaltsplan"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:68
+msgid ""
+"Die Grundlage für die Haushalts- und Wirtschaftsführung der "
+"Studierendenschaft ist der Haushaltsplan."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:70
+msgid ""
+"Vor Beginn jedes Haushaltsjahres ist ein Haushaltsplan aufzustellen. Der "
+"Studierendenrat beschließt den Haushaltsplan mit Zweidrittelmehrheit "
+"seiner Mitglieder."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:72
+msgid ""
+"Der Haushaltsplan enthält alle im Haushaltsjahr zu erwartenden Einnahmen "
+"und voraussichtlich zu leistenden Ausgaben sowie eine Übersicht über die "
+"Vermögensentwicklung. Einnahmen und Ausgaben sind in voller Höhe und "
+"getrennt voneinander zu veranschlagen; Einnahmen sind nach "
+"Entstehungsgrund, Ausgaben nach Zwecken bestimmt zu veranschlagen, der "
+"Zweck ist gegebenenfalls zu erläutern."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:74
+msgid ""
+"Überplanmäßige Ausgaben benötigen die Zustimmung einer "
+"Zweidrittelmehrheit der Mitglieder des Studierendenrats unter besonderer "
+"Berücksichtung der Regelungen der ThürStudFVO |studfvo-5-short|. Im "
+"übrigen besteht die Möglichkeit eines Nachtragshaushalts."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:76
+msgid ""
+"Der Termin der voraussichtlichen Beschlussfassung über den Haushaltsplan "
+"ist mit einer Frist von 14 Tagen hochschulöffentlich bekannt zu machen. "
+"Dabei soll auch der aktuelle Entwurf bekannt gemacht werden. Von den "
+"Bestimmungen dieses Absatzes kann bei eilbedürftigen Nachträgen zum "
+"Haushalt sowie bei vertagten Beschlussfassungen abgewichen werden."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:78
+msgid ""
+"Der Haushaltsplan und seine Nachträge treten nach der Beschlussfassung "
+"des Studierendenrates und der Genehmigung der PräsidentIn in Kraft, "
+"frühestens jedoch mit Beginn des jeweiligen Haushaltsjahres."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:80
+msgid ""
+"Der in Kraft getretene Haushaltsplan ist in der Hochschule durch Aushang "
+"zwei Wochen lang bekannt zu machen. Der Ablauf der Frist ist in der "
+"vorlesungsfreien Zeit gehemmt."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:84
+msgid "siehe hierzu auch |studfvo-5| Abs. 3 S. 4, Abs. 4 S. 1, Abs. 6 S. 3"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:89
+msgid "§ 6 -- Haushalt der Fachschaften"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:91
+msgid ""
+"Der Haushalt der Fachschaften wird im laufenden Haushaltsjahr vom "
+"Studierendenrat aus dem Haushalt der Studierendenschaft festgelegt."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:92
+msgid ""
+"Die Finanzen der Fachschaften verwaltet der bzw. die "
+"Haushaltsverantwortliche des Studierendenrates."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:97
+msgid "§ 7 -- Rücklagen"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:99
+msgid ""
+"Insbesondere zur Erfüllung unabweisbarer Ausgaben sind übertragbare "
+"Haushaltsreste (Rücklagen) zu bilden."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:103
+msgid "siehe insbesondere |studfvo-8| Abs. 1, Abs. 2, Abs. 3 S. 1 und 2, Abs. 4"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:108
+msgid "§ 8 -- Darlehen an Studierende"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:110
+msgid ""
+"Jeder an der Technischen Universität Ilmenau eingeschriebene Studierende "
+"kann, bei Nachweis der Bedürftigkeit, Darlehen erhalten, die eine "
+"Gesamthöhe von 1.800,- Euro pro Bedürftigem nicht überschreiten sollen. "
+"Das Darlehen ist während der Laufzeit zinsfrei. In Fällen von "
+"kurzfristiger Bedürftigkeit kann im Einzelfall und gegen Bürgschaft vom "
+"Betrag abgewichen werden."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:112
+msgid ""
+"Die Bedürftigkeit ist vom Antragsteller gegenüber dem bzw. der "
+"Haushaltsverantwortlichen darzulegen. Über die Gewährung des Darlehens "
+"entscheiden die Mitglieder des Studierendenrats in geheimer Abstimmung in"
+" nicht-öffentlicher Sitzung."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:114
+#: ../../source/satzung/finanzordnung.rst:127
+msgid "Ein Rechtsanspruch auf die Gewährung eines Darlehens besteht nicht."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:116
+msgid ""
+"Die Laufzeit eines Darlehens soll sechs Monate und darf zwölf Monate "
+"nicht überschreiten. Die Modalitäten des Darlehens sind vertraglich unter"
+" Einhaltung der Schriftform zu regeln. Dazu zählen wenigstens "
+"Rückzahlungsfrist, Rückzahlungsraten, Zahlungsart, Zahlungsgrund und "
+"Darlehenssumme."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:121
+msgid "§ 9 -- Darlehen an Vereine"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:123
+msgid ""
+"Jede an der TU Ilmenau registrierte studentische Organisation und "
+"studentische Vereinigung kann zur Erfüllung der in § 80 Abs. 1 Nr. 2 bis "
+"7 ThürHG genannten Aufgaben zinslose Darlehen erhalten, die im Regelfall "
+"jeweils eine Gesamthöhe von 10.000 Euro nicht überschreiten dürfen. "
+"Ausnahmen sind schriftlich zu begründen."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:125
+msgid ""
+"Die Notwendigkeit der Aufnahme des Darlehens ist vom Antragsteller in "
+"Absprache mit dem bzw. der Haushaltsverantwortlichen gegenüber dem "
+"Studierendenrat darzulegen."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:129
+msgid ""
+"Nach Aufgabenerfüllung sind gewährte Darlehen unverzüglich an den "
+"Studierendenrat zurückzuzahlen. Die Modalitäten des Darlehens sind "
+"vertraglich unter Einhaltung der Schriftform zu regeln. Dazu zählen "
+"wenigstens Rückzahlungsfrist, Rückzahlungsraten, Zahlungsart, "
+"Zahlungsgrund und Darlehenssumme."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:131
+msgid ""
+"Die Summe aller offenen Forderungen aus Darlehen an studentische "
+"Organisationen und Vereinigungen und Studierende darf zu keinem Zeitpunkt"
+" 20 v. H. der jährlichen Semesterbeiträge überschreiten."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:136
+msgid ""
+"§ 10 -- Kreditaufnahme, Eingehen von Gewährleistungen und sonstigen "
+"Kreditsicherheiten"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:138
+msgid "Die Studierendenschaft darf keine Kredite aufnehmen"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:140
+msgid ""
+"Bürgschaften oder Verpflichtungen in Garantieverträgen oder ähnliche "
+"Verträge dürfen nicht übernommen werden."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:144
+msgid "siehe |studfvo-10|"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:149
+msgid "§ 11 -- Zahlungsverkehr"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:151
+msgid ""
+"Zahlungsanweisungen sind von dem bzw. der Haushaltsverantwortlichen und "
+"dem Kassenverantwortlichen bzw. der Kassenverantwortlichen zu "
+"unterschreiben."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:153
+msgid ""
+"Entscheidungen, welche Zahlungsverpflichtungen der Studierendenschaft "
+"oder gegenüber der Studierendenschaft aufheben, begründen, abändern oder "
+"zur Folge haben, werden durch den Studierendenrat mit absoluter Mehrheit "
+"getroffen. Der Studierendenrat kann mit gleicher Mehrheit abweichende "
+"Regelungen für Beträge bis einschließlich 300 EUR treffen. Zahlungen "
+"dürfen nur vorgenommen werden, wenn ein Beschluss des Studierendenrates "
+"vorliegt."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:155
+msgid ""
+"Ausgaben für Verbrauchsmaterial von jeweils bis zu 150,- EUR können "
+"abweichend von Absatz 2 ohne gesonderten Beschluss durch den "
+"Haushaltsverantwortlichen bzw. die Haushaltsverantwortliche getätigt "
+"werden, sofern diese im Haushaltsplan vorgesehen sind. Über derartige "
+"Ausgaben ist auf der nächsten ordentlichen Sitzung des Studierendenrates "
+"zu berichten."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:157
+msgid ""
+"Alle Buchungen müssen durch Quittungen und Belege belegt werden. "
+"Quittungen und Belege sind fortlaufend zu nummerieren, näheres regelt "
+"|studfvo-12|."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:162
+msgid "§ 12 -- Buchführung, Kassenbuch und Monatsabschlüsse"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:164
+msgid ""
+"Über die Zahlungen ist in zeitlicher Reihenfolge Buch zu führen "
+"(Kassenbuch). Der Nachweis der Zahlungen nach Titeln ist im Kassenbuch "
+"durch Bilden von Monatssummen je Titel zu führen."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:166
+msgid ""
+"Alle Zahlungen sind nach Haushaltsjahren getrennt und für das "
+"Haushaltsjahr zu buchen, in dem sie eingegangen oder geleistet worden "
+"sind."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:168
+msgid ""
+"In das Kassenbuch sind alle Zahlungen, getrennt nach Einnahmen und "
+"Ausgaben, täglich einzutragen. Näheres regelt |studfvo-14|."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:170
+msgid ""
+"Unrichtige Eintragungen im Kassenbuch sind zu streichen und unter neuer "
+"laufender Nummer zu berichtigen."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:172
+msgid ""
+"Der Kassenverantwortliche führt das Kassenbuch. Er stellt in der Regel "
+"monatlich anhand des Kassenbuchs die Summe der Einnahmen und Ausgaben "
+"fest. Die Differenz zwischen Einnahmen und Ausgaben ergeben den Kassen-"
+"Sollbestand. Der Kassen-Sollbestand soll monatlich mit dem Kassen-"
+"Istbestand, der sich aus dem Guthaben der Girokonten und dem "
+"Bargeldbestand aus der Bargeldkasse sowie unter Berücksichtigung der "
+"Rücklagen ergibt, abgestimmt werden."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:174
+msgid ""
+"Unstimmigkeiten sind vom Referat Finanzen sofort aufzuklären; dem "
+"Studierendenrat ist darüber ein Sachstandsbericht vorzulegen."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:176
+msgid ""
+"Die Verwendung einer elektronischen Buchhaltung ist zulässig, sofern "
+"weiterhin eine vollständige handschriftliche fortlaufende "
+"Zahlungsvorgangsliste für alle Bargeldbestände geführt wird. Die "
+"Zahlungsvorgangsliste beinhaltet wenigstens das Datum der Ein- oder "
+"Auszahlung, den Betrag, den Empfänger und den Verwendungszweck. Absatz 4 "
+"findet sinngemäß Anwendung auf die Zahlungsvorgangsliste. Das Kassenbuch "
+"ist in der Regel monatlich auszudrucken und durch den "
+"Kassenverantwortlichen oder die Kassenverantwortliche abzuzeichnen."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:178
+msgid ""
+"Die bzw. der Haushaltsverantwortliche kann für Abrechnungen Dritter "
+"(beispw. aus Fehlbedarfsfinanzierungen) Formvorschriften verbindlich "
+"vorgeben. Dabei kann zusätzlich auch die elektronische Einreichung von "
+"Belegen gefordert werden."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:183
+msgid "§ 13 -- Konten und Bargeld"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:185
+msgid ""
+"Der Zahlungsverkehr zur Durchführung der Haushaltspläne der "
+"Studierendenschaft wird in der Regel über ein einziges Konto abgewickelt."
+" Weitere Konten können aus besonderem Anlass auf Grund eines Beschlusses "
+"mit Zweidrittelmehrheit vom Studierendenrat eröffnet und geschlossen "
+"werden."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:187
+msgid "Es wird eine Bargeldkasse geführt."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:191
+msgid ""
+"Für die maximale Höhe der Bargeldmittel (1000 €, Stand: 29.11.2022) in "
+"der Bargeldkasse siehe |studfvo-12| Abs. 7 Satz 5."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:196
+msgid "§ 14 -- Finanzausschuss"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:198
+msgid ""
+"Der Finanzausschuss besteht aus drei Mitgliedern der Studierendenschaft, "
+"welche keine stimmberechtigten Mitglieder des Studierenderates sind."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:200
+msgid ""
+"Der Finanzausschuss wird vom Studierendenrat mit einfacher Mehrheit zu "
+"Beginn des Haushaltsjahres für die Dauer eines Haushaltsjahres bestimmt."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:202
+msgid ""
+"Der Finanzausschuss ist arbeitsfähig, wenn mindestens zwei seiner "
+"Mitglieder anwesend sind."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:204
+msgid ""
+"Die Aufgaben des Finanzausschusses sind die Prüfung des aktuellen "
+"Jahresabschlusses sowie regelmäßige Kassenprüfungen im laufenden "
+"Haushaltsjahr. Er gibt dem bzw. der Haushaltsverantwortlichen "
+"Empfehlungen bezüglich der Kassenführung oder des Jahresabschlusses."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:206
+msgid ""
+"Ist der Finanzausschuss nicht besetzt, werden die Aufgaben nicht "
+"wahrgenommen."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:211
+msgid "§ 15 -- Jahresabschluss"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:213
+msgid ""
+"Der Haushaltsabschluss ist dem Studierendenrat zur Beschlussfassung "
+"vorzulegen."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:215
+msgid "Die Form des Jahresabschlussberichtes regelt |studfvo-15|."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:217
+msgid ""
+"Die zu führenden Bestandsnachweise des Sachvermögens sind gemäß "
+"|studfvo-7| als Anlage dem Jahresabschluss anzufügen."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:219
+msgid ""
+"Rechtzeitig vor Ablauf der Amtsperiode des Studierendenrates ist für das "
+"laufende Haushaltsjahr unter Berücksichtigung des Ergebnisses der letzten"
+" Kassenprüfung eine Zwischenabrechnung zu erstellen und vom "
+"Studierendenrat zu beschließen."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:223
+msgid "zu Fristen und Beschlussfassung siehe |studfvo-15| Abs. 1"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:228
+msgid "§ 16 -- Rechnungsprüfung"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:230
+msgid ""
+"Der Jahresabschluss wird vom Finanzausschuss des Studierendenrats und "
+"durch die Hochschulverwaltung der Technischen Universität Ilmenau "
+"geprüft. Kommt der Finanzausschuss seiner Aufgabe innerhalb von 2 Wochen "
+"nicht nach, findet seine Prüfung keine weitere Berücksichtigung."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:232
+msgid "Die Rechnungslegung und -prüfung wird in |studfvo-16| geregelt."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:237
+msgid "§ 17 -- Entlastung"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:239
+msgid ""
+"Die Entlastung des bzw. der Haushaltsverantwortlichen erteilt der "
+"Studierendenrat unter der Berücksichtigung der Berichte der "
+"Hochschulverwaltung und des Finanzausschusses und der Stellungnahme des "
+"bzw. der Haushaltsverantwortlichen."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:243
+msgid ""
+"Der Beschluss des Studierendenrates über die Entlastung bedarf der "
+"Genehmigung durch den Präsidenten der TU Ilmenau. Der Beschluss ist mit "
+"dem Jahresabschluss sowie den Berichten von Hochschulverwaltung und "
+"Finanzausschuss und der Stellungnahme des bzw. der "
+"Haushaltsverantwortlichen unverzüglich vorzulegen. (vgl. |studfvo-17|)"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:248
+msgid "§ 18 -- Veräußerungen von Vermögensgegenständen"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:250
+msgid ""
+"Die Veräußerung von Vermögensgegenständen des Studentenrates erfolgt auf "
+"Beschluss des Studierendenrates."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:252
+msgid "Das Inventar ist dabei entsprechend zu aktualisieren."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:254
+msgid "Die Bestimmungen der ThürLHO §§8 und 63 finden entsprechend Anwendung."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:259
+msgid "§ 19 -- Aufbewahrungsbestimmungen"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:261
+msgid ""
+"Alle Bücher, Belege und Vertragsunterlagen sind sicher und geordnet zehn "
+"Jahre nach Genehmigung der Entlastung aufzubewahren."
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:265
+msgid "siehe |studfvo-18|"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:270
+msgid "§ 20 -- Inkrafttreten"
+msgstr ""
+
+#: ../../source/satzung/finanzordnung.rst:272
+msgid ""
+"Die dritte Änderungssatzung zur Finanzordnung der Studierendenschaft der "
+"Technischen Universität Ilmenau tritt am Tag nach ihrer Veröffentlichung "
+"im Verkündungsblatt der Universität in Kraft. Für die Übergangszeit vom "
+"1. Januar 2022 bis 31. März 2022 ist das Haushaltsjahr 2021 durch "
+"Aufstellung eines Nachtragshaushaltsplans 2021 nach :ref:`§ 5 "
+"<finanzordnung-p5>` sowie |studfvo-5| zu verlängern."
+msgstr ""
+
+#~ msgid ""
+#~ "Dies ist die rechtlich bindende deutsche"
+#~ " Version dieser Ordnung. Eine "
+#~ "unverbindliche englischsprachige Übersetzung ist "
+#~ "`hier "
+#~ "<https://ordnungen.stura.eu/en/satzung/finanzordnung.html>`_ zu"
+#~ " finden."
+#~ msgstr ""
+

@@ -1,0 +1,397 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-25 13:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/ordnung/studentische-initiativen.rst:2
+msgid "Ordnung zur Anerkennung studentischer Initiativen"
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here <https://ordnungen.stura.eu/en/ordnung/studentische-"
+"initiativen.html>`_."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:11
+msgid "§ 1 -- Aufgaben und Zweck der Ordnung"
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:13
+msgid ""
+"In dieser Ordnung werden die Anforderungen an die studentischen "
+"Initiativen in Ilmenau geregelt und beschrieben, sowie der Ablauf der "
+"Anerkennung zu einer hochschul-internen studentischen Initiative der TU "
+"Ilmenau geregelt. Die Anerkennung stellt einen wichtigen Schritt zur "
+"Planungssicherheit des Programms der verschiedenen studentischen "
+"Initiativen an der TU Ilmenau dar. Anerkannte studentische Initiativen "
+"können auf erleichtertem Weg verschiedene spezifische Förderungen und "
+"Unterstützung beantragen. Mit der Anerkennung erhalten die studentischen "
+"Initiativen die in dieser Ordnung aufgelisteten Rechte und Pflichten."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:19
+msgid "§ 2 -- Studentischen Initiativen"
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:21
+msgid ""
+"Als studentische Initiative werden Organisationen mit studentischem "
+"Hintergrund der Mitglieder bezeichnet, die einen gemeinsamen Zweck zur "
+"Förderung des Studierendenlebens verfolgen. Studentische Initiativen "
+"können als eingetragener Verein oder als nicht rechtsverbindliche "
+"Organisationsform als sogenannte \"Hochschulgruppe\" existieren."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:26
+msgid "§ 3 -- Anforderungen für die Anerkennung von studentischen Initiativen"
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:28
+msgid ""
+"Studentischen Initiativen werden im Sinne dieser Ordnung anerkannt, wenn "
+"sie die folgenden Anforderungen erfüllen und der Studierendenrat der TU "
+"Ilmenau einer Anerkennung zustimmt:"
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:30
+msgid ""
+"Die ordentliche Mitgliedschaft in der studentischen Initiative darf nicht"
+" aufgrund von Alter, Geschlecht, sexueller Identität, Religion oder "
+"Weltanschauung, Nationalität, Herkunft, ethnischer Zugehörigkeit, "
+"körperlicher Beeinträchtigung, chronischer Krankheit oder Studiengang "
+"verweigert werden."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:31
+msgid ""
+"Die studentische Initiative muss sich eine Satzung geben, die "
+"vereinsrechtlichen Grundsätzen entspricht und in der insbesondere der "
+"Name der studentischen Initiative, der Zweck, die Organe, sowie Prozesse "
+"die Bestellung und/oder Wahl, bzw. die Aufnahme von Kontaktpersonen und "
+"der ordentlichen Mitglieder betreffend geregelt sind."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:32
+msgid ""
+"Die studentische Initiative soll gemeinnützig arbeiten oder in einer "
+"Weise tätig werden, die der Förderung sozialer oder universitärer Zwecke "
+"der Studierendenschaft nach § 80 Abs. 1 ThürHG (Stand Mai 2018) dient."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:33
+msgid ""
+"Der Zweck der studentischen Initiative darf nicht gegen geltende "
+"Rechtsnormen oder allgemeine Verhaltensregeln unter den Studierenden "
+"verstoßen. Er soll der Förderung des Studierendenlebens in Ilmenau "
+"dienen."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:34
+msgid ""
+"Der Zweck der studentischen Initiative darf den §§ 5, 6, 8, 79 Abs. 2 und"
+" 80 ThürHG (Stand Mai 2018) nicht widersprechen und muss mit diesen zu "
+"vereinbaren sein."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:35
+msgid ""
+"Die Mitglieder der studentischen Initiative arbeiten in diesen "
+"ehrenamtlich. Die studentische Initiative soll überwiegend in "
+"studentischer Verwaltung organisiert sein. In Einzelfällen sind Ausnahmen"
+" möglich, sofern der Zweck der Initiative dies erfordert."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:36
+msgid ""
+"Die ordentlichen Mitglieder der studentischen Initiative müssen zu "
+"mindestens 50 % an der TU Ilmenau immatrikuliert oder zu 75 % Mitglieder "
+"der TU Ilmenau sein."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:37
+msgid ""
+"Die ordentlichen Mitglieder der studentischen Initiative haben Stimmrecht"
+" in ihrer Mitgliederversammlung und können in den Vorstand gewählt "
+"werden."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:38
+msgid ""
+"Existiert ein Dachverband oder übergeordnete Organisationsstruktur, bzw. "
+"ist die studentische Initiative aus einem anderen Verein hervorgegangen, "
+"kann die Satzung der jeweiligen Organisation ebenfalls zur Prüfung der "
+"studentischen Initiative herangezogen werden."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:40
+msgid ""
+"Ergibt eine Überprüfung der Anerkennung, dass nicht alle in :ref:`§ 4 "
+"<initiativen-p4>` genannten Anforderungen erfüllt sind, erfolgt die "
+"Ablehnung bzw. Rücknahme der Anerkennung. Eine Überprüfung der "
+"Anerkennung kann auf Antrag des Präsidiums der Universität oder aus dem "
+"Studierendenrat der TU Ilmenau heraus erfolgen und wird durch den "
+"Studierendenrat der TU Ilmenau durchgeführt."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:41
+msgid "Den Ablauf der Anerkennung regelt :ref:`§ 4 <initiativen-p4>`."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:46
+msgid "§ 4 -- Ablauf und Dauer der Anerkennung"
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:48
+msgid ""
+"Der Studierendenrat der TU Ilmenau überprüft die Voraussetzungen zur "
+"Anerkennung nach :ref:`§ 3 <initiativen-p3>` und deren Einhaltung durch "
+"die studentischen Initiativen. Dazu müssen die folgenden Unterlagen beim "
+"Studierendenrat der TU Ilmenau eingereicht werden:"
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:50
+msgid ""
+"Ein Antrag auf erstmalige Registrierung oder Erneuerung der "
+"Registrierung. (Anlage 1)"
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:51
+msgid ""
+"Eine aktuelle Satzung der studentischen Gruppe inklusive aller Anhänge "
+"und Ordnungen der studentischen Initiative. Sollten dem Studierendenrat "
+"der TU Ilmenau die aktuelle Version dieser Unterlagen vorliegen, ist das "
+"erneute Einreichen dieser nicht notwendig."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:52
+msgid ""
+"Ein Antrag kann nur vollständig ausgefüllt geprüft werden. Die "
+"antragstellende Person verantwortet die Richtigkeit der Angaben. Der "
+"Studierendenrat der TU Ilmenau kann zur Kontrolle der Angaben per "
+"Beschluss eine Person bestimmen, der Einsicht in Mitgliederstrukturen der"
+" studentischen Initiative gewährt werden muss. In diesem Fall ist die "
+"Aussage der durch den Studierendenrat der TU Ilmenau bestimmten Person "
+"gültig."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:54
+msgid ""
+"Die erstmalige Anerkennung kann jederzeit beantragt werden und ist gültig"
+" bis zur wiederholten Anerkennung aber maximal für ein Jahr."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:55
+msgid ""
+"Der Zeitraum zur Einreichung der Unterlagen für die wiederholte "
+"Anerkennung beginnt jährlich mit dem Beginn des Vorlesungszeitraums des "
+"Wintersemesters und dauert sechs Wochen. Die Anerkennung der "
+"studentischen Initiative ist für zwei Semester gültig."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:56
+msgid ""
+"Der Studierendenrat der TU Ilmenau kann eine befristete Verlängerung der "
+"Anerkennung einer studentischen Initiative über maximal drei Monate "
+"beschließen. Die Fristverlängerung kann mit schriftlicher Begründung "
+"jederzeit beantragt werden."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:57
+msgid ""
+"Ein positiver Bescheid der Anerkennung stellt grundsätzlich keinen "
+"dauerhaften Anspruch auf diesen Status dar."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:58
+msgid ""
+"Die studentischen Initiativen können Einspruch gegen die Entscheidungen "
+"des Studierendenrats der TU Ilmenau bezüglich ihrer Anerkennung oder "
+"Verlängerung der Anerkennung einlegen."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:59
+msgid ""
+"Die Liste der anerkannten studentischen Initiativen wird unverzüglich "
+"nach der Überprüfung aktualisiert und im Anschluss an den "
+"Anerkennungszeitraum, bzw. innerhalb von vier Wochen nach der "
+"Erstanerkennung durch den Studierendenrat der TU Ilmenau veröffentlicht. "
+"Die Anerkennung bzw. Ablehnung wird formlos gegenüber den studentischen "
+"Initiativen kommuniziert."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:64
+msgid "§ 5 -- Die Rechte anerkannter studentischen Initiativen"
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:66
+msgid ""
+"Der Studierendenrat der TU Ilmenau unterstützt die Arbeit der "
+"studentischen Initiativen, sofern möglich, strukturell."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:68
+msgid ""
+"Der Studierendenrat der TU Ilmenau ehrt die aktiven Mitglieder der "
+"anerkannten studentischen Initiativen bei ihrem Studienabschluss auf "
+"Basis der :doc:`Richtlinie zur Vergabe von Ehrenamtsurkunden "
+"<ehrenamtsurkunden>`."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:69
+msgid ""
+"Der Studierendenrat der TU Ilmenau fördert und verwaltet den Austausch "
+"zwischen den studentischen Initiativen, der Universität, dem "
+"Studierendenwerk und anderen Förderern. Insbesondere gegenüber der "
+"Universität werden anerkannte studentische Initiativen als hochschul-"
+"intern behandelt."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:70
+msgid ""
+"Nach Beantragung durch eine studentische Initiative übernimmt der "
+"Studierendenrat der TU Ilmenau die Kommunikation und Vermittlung zwischen"
+" der Initiative und Dritten. Der Studierendenrat der TU Ilmenau kann für "
+"studentische Initiativen die Rechte geltend machen, die nach :ref:`§ 5 "
+"<initiativen-p5>` Nr. 2 anerkannten studentischen Initiativen "
+"zuteilwerden."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:71
+msgid ""
+"Anerkannte studentische Initiativen können beim Studierendenrat der TU "
+"Ilmenau finanzielle Unterstützung für ihre Arbeit beantragen. Die "
+"Anerkennung begründet keinen Anspruch auf die Gewährung finanzieller "
+"Unterstützung. Es gilt die Förderrichtlinie des Studierendenrats der TU "
+"Ilmenau."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:72
+msgid ""
+"Der Studierendenrat der TU Ilmenau soll eine Übersicht über aktuelle "
+"Unterstützungsmöglichkeiten führen und zugänglich machen. Für eigene "
+"Unterstützungsmöglichkeiten stellt der Studierendenrat der TU Ilmenau "
+"spezifische Ordnungen zur Verfügung."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:78
+msgid "§ 6 -- Datenschutz"
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:80
+msgid ""
+"Die in :ref:`§ 4 <initiativen-p4>` Abs. 1 angegebenen Personendaten "
+"dürfen lediglich zum Zweck der Registrierung und zur Kommunikation mit "
+"der studentischen Initiative verwendet werden. Grundlage der Verarbeitung"
+" bildet diese Ordnung. Grundlage der Kommunikation bildet die "
+"Zusammenarbeit zwischen der Studierendenvertretung und den Initiativen."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:81
+msgid ""
+"Die in :ref:`§ 4 <initiativen-p4>` Abs. 1 angegebenen Personendaten "
+"beschränken sich auf Vor- und Nachnamen, die Initiativzugehörigkeit und "
+"den aktuellen Immatrikulationsstatus. Soweit die Initiative ein Verein "
+"mit Satzung ist, sind die Vorstandsmitglieder mit ihren Posten zu "
+"benennen. Die Bereitstellung dieser personenbezogenen Daten ist nach "
+":ref:`§ 4 <initiativen-p4>` Abs. 1 notwendig, um das "
+"Anerkennungsverfahren durchführen zu können. Eine Nichtbereitstellung hat"
+" eine sofortige Ablehnung des Verfahrens zur Folge."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:82
+msgid ""
+"Für die in :ref:`§ 4 <initiativen-p4>` Abs. 1 genannten Unterlagen gilt "
+"eine Mindestvorhaltefrist von zwei Jahren ab der Vorlage im Rahmen der "
+"jährlichen Rückmeldung unbenommen anderslautender Aufbewahrungspflichten."
+" Es gilt eine maximale Vorhaltedauer von fünf 5 Jahren. Nach Ablauf der "
+"Aufbewahrungsfrist werden die gespeicherten Daten BDSG-konform "
+"vernichtet."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:83
+msgid ""
+"Für die Verarbeitung und Speicherung der im Rahmen der Anerkennung "
+"erhobenen personenbezogenen Daten ist der Datenschutzverantwortliche der "
+"TU Ilmenau und StuRa verantwortlich. Der Datenschutzverantwortliche des "
+"StuRa ist unter datenschutz@stura.tu-ilmenau.de erreichbar."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:84
+msgid ""
+"Für Betroffene besteht das Recht auf Auskunft nach DSGVO Art. 15. seitens"
+" des Verantwortlichen über die betreffenden personenbezogenen Daten sowie"
+" das Recht auf Berichtigung oder Löschung. Ein Recht auf Einschränkung "
+"der Verarbeitung oder eines Widerspruchsrechts gegen die Verarbeitung "
+"sowie des Rechts auf Datenübertragbarkeit können aufgrund der Grundlage "
+"der Datenerhebung nicht gewährleistet werden."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:85
+msgid "Es besteht das Beschwerderecht bei einer Aufsichtsbehörde."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:86
+msgid ""
+"Eine Weitergabe der in :ref:`§ 4 <initiativen-p4>` Abs. 1 angegebenen "
+"Personendaten an Dritte oder Dritte im Ausland erfolgt nicht."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:87
+msgid ""
+"Eine automatisierte Verarbeitung der in :ref:`§ 4 <initiativen-p4>` Abs. "
+"1 angegebenen Personendaten gemäß DSGVO Art. 22 Abs. 1 und 4 erfolgt "
+"nicht."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:92
+msgid "§ 7 -- Inkrafttreten"
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:94
+msgid ""
+"Diese Ordnung tritt mit Beschluss 32/32-O01 des StuRa vom 01.02.2023 in "
+"Kraft."
+msgstr ""
+
+#: ../../source/ordnung/studentische-initiativen.rst:98
+msgid ""
+":download:`Antrag zur Registrierung als anerkannte studentische "
+"Initiative <../_static/files/antrag_anerkennung-studentischer-"
+"initiativen.pdf>`"
+msgstr ""
+
+#~ msgid ""
+#~ "Der Studierendenrat der TU Ilmenau ehrt"
+#~ " die aktiven Mitglieder der anerkannten "
+#~ "studentischen Initiativen bei ihrem "
+#~ "Studienabschluss auf Basis der „Richtlinie "
+#~ "zur Vergabe von Ehrenamtsurkunden“."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Dies ist die rechtlich bindende deutsche"
+#~ " Version dieser Ordnung. Eine "
+#~ "unverbindliche englischsprachige Übersetzung ist "
+#~ "`hier <https://ordnungen.stura.eu/en/ordnung/studentische-"
+#~ "initiativen.html>`_ zu finden."
+#~ msgstr ""
+

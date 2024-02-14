@@ -1,0 +1,1503 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-31 15:06+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:2
+msgid "Satzung der Studierendenschaft"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:4
+msgid ""
+"Gemäß §§ 79 Absatz 2, 80 Absatz 2 Satz 1 Nummer 5 in Verbindung mit § 3 "
+"Absatz 2 des Thüringer Hochschulgesetzes (ThürHG) vom 10.05.2018 (GVBl. "
+"S. 149), zuletzt geändert durch Artikel 7 des Gesetzes vom 23.03.2021 "
+"(GVBl. S. 115, 118), erlässt die Studierendenschaft der Technischen  "
+"Universität  Ilmenau  (nachstehend  „Universität“ genannt) folgende "
+"zweite Änderungssatzung zur Satzung der Studierendenschaft der "
+"Technischen Universität Ilmenau, veröffentlicht im Verkündungsblatt der "
+"Universität Nummer 112/2013, in der Fassung der zweiten Änderungssatzung,"
+" veröffentlicht im Verkündungsblatt Nummer 249/2023."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:6
+msgid ""
+"Die Studierendenschaft der Universität hat in der Urabstimmung vom 12. "
+"bis 16.06.2023 die dritte Änderung der Satzung der Studierendenschaft der"
+" Technischen Universität Ilmenau beschlossen. Der Präsident der "
+"Universität hat diese Satzung am 26.09.2023 genehmigt."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:8
+msgid ""
+"Der Studierendenrat (StuRa) und die Fachschaftsräte sind die "
+"Interessenvertretungen  der Studierenden und der Fachschaften gegenüber  "
+"der  Hochschulleitung  und  allen  sonstigen Institutionen  und  "
+"Organisationen.  Sie  vertreten  die  Belange  aller  Studierenden  "
+"unabhängig ihrer politischen und religiösen Haltung sowie ihrer "
+"nationalen Zugehörigkeit. Die Institutionen StuRa und Fachschaftsrat "
+"sowie ihre Mitglieder bei der Ausübung ihres Amtes sind nicht "
+"parteipolitisch tätig."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:10
+msgid ""
+"Die Studierendenschaft der  Universität bekennt sich zum Recht eines "
+"jeden Menschen auf freien und gleichen Zugang zu Bildung. Insbesondere "
+"unterstützt sie den Sozialpakt der Vereinten Nationen, der unter anderem "
+"grundsätzlich ein gebührenfreies Studium fordert, sowie die UN-"
+"Rassendiskriminierungskonvention (ICERD) und die Frauenkonvention "
+"(CEDAW), welche unter anderem eine Diskriminierung unter aufgrund der "
+"Herkunft oder des Geschlechts untersagen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:12
+msgid ""
+"Die Studierendenschaft der Universität gibt sich mit dieser Satzung und "
+"der sie ergänzenden Ordnungen eine Verfassung für deren Wirken und "
+"Handeln."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:16
+msgid "Abschnitt I -- Studierendenschaft"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:19
+msgid "Begriffsbestimmung und Aufgaben"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:24
+msgid "§ 1 Begriffsbestimmung"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:26
+msgid ""
+"Nach  dem  ThürHG  bilden  alle  an  der  Universität  immatrikulierten  "
+"Studierenden  die Studierendenschaft.  Die  Studierendenschaft  ist  eine"
+"  rechtsfähige  Teilkörperschaft  der Universität."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:27
+msgid ""
+"Nach dem ThürHG verwaltet die Studierendenschaft ihre Angelegenheiten im "
+"Rahmen der gesetzlichen Bestimmungen selbst. Die Studierendenschaft "
+"untersteht der Rechtsaufsicht des Hochschulleiters beziehungsweise der "
+"Hochschulleiterin der Universität."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:28
+msgid ""
+"Die Studierendenschaft gliedert sich in Fachschaften. Alle "
+"eingeschriebenen Studierenden, die auf Basis der Zulassung zu einem "
+"bestimmten Studiengang einer Fakultät zugeordnet sind, bilden die "
+"Fachschaft. Den Fachschaften kommt keine Rechtsfähigkeit zu."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:29
+msgid ""
+"Ergänzungsordnungen zu dieser Satzung sind die :doc:`Finanzordnung "
+"<finanzordnung>` der Studierendenschaft der Technischen Universität "
+"Ilmenau (nachfolgend „Finanzordnung“), die :doc:`Beitragsordnung "
+"<beitragsordnung>` der Studierendenschaft der Technischen Universität "
+"Ilmenau (nachfolgend „Beitragsordnung“)  sowie  die  :doc:`Wahlordnung "
+"<wahlordnung>`  der  Studierendenschaft  der  Technischen Universität "
+"Ilmenau (nachfolgend „Wahlordnung“)."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:34
+msgid "§ 2 Aufgaben der Studierendenschaft"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:35
+msgid ""
+"Die Aufgaben der Studierendenschaft ergeben sich aus dem Thüringer "
+"Hochschulgesetz."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:36
+msgid ""
+"Zur Erfüllung ihrer Aufgaben hat die Studierendenschaft das Recht, z. B. "
+"mit Studierendenschaften anderer Hochschulen, Vereinen und Parteien "
+"zusammenzuarbeiten."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:41
+msgid "Demokratische Mitbestimmungsrechte"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:46
+msgid "§ 3 Rechte und Pflichten der Mitglieder"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:48
+msgid ""
+"Jedes Mitglied der Studierendenschaft besitzt das aktive und passive "
+"Wahlrecht zum StuRa und zum Fachschaftsrat seiner jeweiligen Fakultät. "
+"Diese Satzung sowie ihre Ergänzungsordnungen sind für die Mitglieder der "
+"Studierendenschaft verbindlich."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:49
+msgid "Jedes Mitglied der Studierendenschaft hat das Recht"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:51
+msgid ""
+"Urabstimmungen und Vollversammlungen der Studierendenschaft entsprechend "
+"dieser Satzung zu beantragen,"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:52
+msgid ""
+"schriftliche Anfragen und Anträge an den StuRa und die Organe seiner "
+"Fachschaft zu richten,"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:53
+msgid ""
+"den StuRa und die Fachschaftsräte bei der Wahrnehmung ihrer Aufgaben zu "
+"unterstützen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:54
+msgid ""
+"Jedes  Mitglied  der  Studierendenschaft  hat  die  Pflicht  zur  Zahlung"
+"  des  Semesterbeitrags nach der jeweils gültigen Beitragsordnung."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:59
+msgid "§ 4 Urabstimmung"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:61
+msgid ""
+"In der Urabstimmung übt die Studierendenschaft ihre oberste "
+"beschlussfassende Funktion aus. Sie dient der  Beschlussfassung zu "
+"grundsätzlichen Angelegenheiten, die zu den Aufgaben der "
+"Studierendenschaft gehören, insbesondere der Beschluss über die Satzung "
+"der Studierendenschaft und die Festsetzung der Höhe des "
+"Semesterbeitrages. Die Ergebnisse  der Urabstimmung sind für alle Organe "
+"der Studierendenschaft bindend und verpflichten sie zu deren Umsetzung."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:62
+msgid "Eine Urabstimmung wird durchgeführt"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:64
+msgid ""
+"auf Beschluss der Vollversammlung der Studierendenschaft mit "
+"Zweidrittelmehrheit,"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:65
+#: ../../source/satzung/satzung-studierendenschaft.rst:122
+msgid "auf Beschluss des StuRa mit Zweidrittelmehrheit seiner Mitglieder,"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:66
+msgid ""
+"auf Antrag der Mehrheit der Fachschaftsräte, der jeweils mit "
+"Zweidrittelmehrheit der Mitglieder beschlossen worden sein muss,"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:67
+msgid ""
+"auf schriftlichen, unterschriebenen Antrag von 5 vom Hundert der "
+"Mitglieder der Studierendenschaft."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:69
+msgid ""
+"Die Urabstimmung wird in der Vorlesungszeit innerhalb von vier Wochen "
+"nach Vorliegen der Voraussetzungen aus Absatz 2  durchgeführt. Der Ablauf"
+" der Frist wird durch die vorlesungsfreie Zeit einschließlich der "
+"Prüfungszeit gehemmt. Die Abstimmung ist allgemein, gleich, unmittelbar, "
+"geheim und frei. Die einfache Mehrheit der abgegebenen Stimmen "
+"entscheidet."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:70
+msgid ""
+"Die Urabstimmung muss mindestens zwei Wochen vor ihrer Durchführung unter"
+" genauer Benennung des Abstimmungsgegenstandes öffentlich bekannt gemacht"
+" werden. Die Organisation der Urabstimmung, insbesondere die Wahl der "
+"Verfahrensweise, liegt beim StuRa."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:71
+msgid ""
+"Das Ergebnis der Urabstimmung ist unverzüglich nach seiner Feststellung "
+"bekannt zu machen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:77
+msgid "§ 4a Abstimmungsverhältnisse"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:79
+msgid ""
+"Bei Abstimmungen mit dem Zusatz \"Mehrheit der Mitglieder\", zählen "
+"Enthaltungen, ungültige Stimmen und nicht abgegenene Stimmen (beispw. von"
+" abwesenden Mitgliedern) wie Nein-Stimmen. (absolute Mehrheit)"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:80
+msgid ""
+"Bei allen anderen Abstimmungen, soweit nicht ausdrücklich anders "
+"geregelt, ist lediglich eine einfache Mehrheit (mehr Ja- als Nein- "
+"Stimmen) erforderlich."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:81
+msgid ""
+"Ist die Anzahl der Mitglieder in einem Gremium durch eine Bestimmung "
+"dieser Satzung reduziert, so ist die verringete Anzahl an Mitgliedern "
+"ausschlaggebend für Anwesenheitsregelungen und Abstimmungsverhältnisse "
+"sowie alle weiteren Mehrheitsregelungen dieser Satzung und der "
+"Ergänzungsordnungen, welche sich auf die Anzahl der Mitglieder des "
+"Gremiums beziehen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:84
+msgid "Abschnitt II -- Organe der Studierendenschaft"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:87
+msgid "Übersicht"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:92
+msgid "§ 5 Organe der Studierendenschaft und der Fachschaften"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:94
+msgid "Die Organe der Studierendenschaft sind"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:96
+msgid "die Vollversammlung der Studierendenschaft,"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:97
+msgid "der Gewähltenkonvent,"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:98
+msgid "der Studierendenrat (StuRa),"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:99
+msgid "die Referate des Studierendenrates,"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:100
+msgid "die Arbeitsgemeinschaften des Studierendenrates,"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:101
+msgid "der studentische Konsul bzw. die studentische Konsulin sowie"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:102
+msgid "der Studierendenbeirat (StuBra) und"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:103
+msgid "die Fachschaften."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:105
+msgid "Die Organe der Fachschaften sind"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:107
+msgid "die Vollversammlung der Fachschaft,"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:108
+msgid "der Fachschaftsrat sowie"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:109
+msgid "die Arbeitsgemeinschaften des Fachschaftsrats."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:112
+msgid "Vollversammlung der Studierendenschaft"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:117
+msgid "§ 6 Vollversammlung der Studierendenschaft"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:119
+msgid ""
+"Die Vollversammlung dient der Information der Studierendenschaft über die"
+" Arbeit des StuRa. Sie berät Fragen, die die Studierendenschaft als "
+"Ganzes betreffen, kann Empfehlungen an den StuRa geben, die Durchführung "
+"einer Urabstimmung beschließen und Einspruch gegen Beschlüsse des StuRa "
+"einlegen. Die Vollversammlung trägt zur Meinungsbildung der "
+"Studierendenschaft bei. Jedes Mitglied der Studierendenschaft ist in der "
+"Vollversammlung rede-, antrags- und stimmberechtigt."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:120
+msgid "Die Vollversammlung wird durch den StuRa einberufen"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:123
+msgid ""
+"auf Antrag der Mehrheit der Fachschaftsräte, der jeweils mit "
+"Zweidrittelmehrheit der Mitglieder beschlossen worden sein muss oder"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:124
+msgid ""
+"auf schriftlichen, unterschriebenen Antrag von mindestens 5 vom Hundert "
+"der Mitglieder der Studierendenschaft."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:126
+msgid ""
+"Die Einberufung einer Vollversammlung ist unverzüglich bekannt zu machen."
+" Die Themen, zu denen die Studierendenschaft beschließen soll, sind "
+"ebenfalls zu veröffentlichen. Dem StuRa obliegt die Organisation und "
+"Durchführung der Vollversammlung."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:127
+msgid ""
+"Die Vollversammlung muss innerhalb von 2 Wochen in der Vorlesungszeit "
+"nach dem Beschluss oder der Antragsstellung durchgeführt werden. § 4 Abs."
+" 3 Satz 2 gilt entsprechend."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:128
+msgid ""
+"Beschlüsse der Vollversammlung sind für die Organe der Studierendenschaft"
+" bindend, wenn mindestens 10 vom Hundert der Mitglieder der "
+"Studierendenschaft an der Abstimmung teilgenommen haben und eine "
+"Zweidrittelmehrheit zugestimmt hat."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:132
+msgid "Gewähltenkonvent und Kommunikationsbeauftragte"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:137
+msgid "§ 7 Gewähltenkonvent"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:139
+msgid ""
+"Der Gewähltenkonvent wird aus dem studentischen Konsul beziehungsweise "
+"der studentischen Konsulin und den studentischen Mitgliedern des StuRa, "
+"der Fakultätsräte, der Fachschaftsräte, des Gleichstellungsrats, des "
+"Senats sowie der ständigen Senatsausschüsse gebildet. Jede Person hat "
+"eine Stimme."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:140
+msgid "Der Gewähltenkonvent hat insbesondere folgende Aufgaben:"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:142
+msgid ""
+"Empfehlung  von  zwei  Studierenden  sowie  zwei  Stellvertreterinnen  "
+"beziehungsweise Stellvertretern für die Mitarbeit in der Zertifizierungs-"
+" und Akkreditierungskommission (ZAK) der Universität"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:143
+msgid ""
+"Erstellung einer Vorschlagsliste für die Wahl der studentischen Konsulin "
+"bzw. des studentischen Konsuls;"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:144
+msgid "Wahl der Schiedskommission;"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:145
+msgid ""
+"Unterstützung der studentischen Senatsmitglieder bei der Findung der "
+"studentischen Senatsausschussmitglieder;"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:146
+msgid ""
+"Sicherung des Informationsflusses unter den studentischen "
+"Gremienmitgliedern."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:148
+msgid ""
+"Alle in Abs. 1 nicht benannten gewählten studentischen "
+"Studierendenvertreter nehmen beratend am Gewähltenkonvent teil."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:149
+msgid ""
+"Die Versammlungen des Gewähltenkonvents finden in der Vorlesungszeit "
+"mindestens einmal im Monat statt. Jede bzw. jeder "
+"Kommunikationsbeauftragte nach § 8 dieser Satzung hat die Pflicht, im "
+"Gewähltenkonvent über die Arbeit des Gremiums zu berichten, dem er oder "
+"sie angehört. Kann der bzw. die Kommunikationsbeauftragte an einer "
+"Sitzung des Gewähltenkonvents nicht teilnehmen, so hat er bzw. sie eine "
+"geeignete Vertreterin bzw. einen geeigneten Vertreter zu bestimmen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:150
+msgid ""
+"Der Gewähltenkonvent ist beschlussfähig, wenn mindestens 15 "
+"stimmberechtigte Mitglieder anwesend sind. Er entscheidet mit der "
+"einfachen Mehrheit der abgegebenen Stimmen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:155
+msgid "§ 8 Kommunikationsbeauftragte"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:157
+msgid ""
+"Die studentischen Mitglieder des Senats und der Fakultätsräte sowie die "
+"von diesen Gremien gewählten studentischen Vertreter beispielsweise in "
+"den ständigen Senatsauschüssen bestimmen jeweils eine Person aus ihrer "
+"Mitte, die gegenüber anderen Gremien sowie dem studentischen Konsul bzw. "
+"der studentischen Konsulin als Kontaktperson fungiert. Diese Personen "
+"berichten auf dem Gewähltenkonvent über ihre Arbeit und informieren in "
+"dringenden Angelegenheiten andere betroffene Gremien sowie den StuRa."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:158
+msgid ""
+"Kommunikationsbeauftragte nach Abs. 1 genießen im StuRa Rede- und "
+"Antragsrecht. Sie erhalten dadurch nicht den Status eines StuRa-"
+"Mitgliedes."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:159
+msgid ""
+"Alle in Abs. 1 nicht benannten gewählten Studierenden müssen den "
+"studentischen Mitgliedern ihres einsetzenden Gremiums und der "
+"studentischen Konsulin bzw. dem studentischen Konsul über ihre Arbeit "
+"Bericht erstatten. Auch sie bestimmen zu diesem Zweck eine "
+"verantwortliche Person aus ihrer Mitte."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:162
+msgid "Studierendenrat"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:167
+msgid "§ 9 Studierendenrat"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:169
+msgid ""
+"Der Studierendenrat (StuRa) ist das Handlungsorgan der "
+"Studierendenschaft. Er vertritt die Studierendenschaft gerichtlich und "
+"außergerichtlich."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:170
+msgid ""
+"Ungeachtet der Aufgaben nach § 2 dieser Satzung hat der StuRa folgende "
+"Aufgaben:"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:172
+msgid "Beschlussfassung zur Erfüllung der Aufgaben der Studierendenschaft;"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:173
+msgid ""
+"Initiierung notwendiger Änderungen der Satzung und der "
+"Ergänzungsordnungen;"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:174
+msgid "Beschluss des Haushaltsplans;"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:175
+msgid ""
+"Errichtung und Auflösung von Referaten sowie Wahl der entsprechenden "
+"Referenten;"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:176
+msgid ""
+"Beschlussfassung zur Entlastung der Referenten, insbesondere des bzw. der"
+" Haushaltsverantwortlichen;"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:177
+msgid ""
+"Wahl von Vertreterinnen und Vertretern der Studierendenschaft in andere, "
+"die Interessen der Studierenden berührende Organe und Einrichtungen, "
+"sofern dies nicht durch andere Bestimmungen geregelt ist;"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:178
+msgid ""
+"Durchführung von Urabstimmungen und Vollversammlungen der "
+"Studierendenschaft, die gemäß § 6 Abs. 2 bzw. § 5 Abs. 2 beantragt bzw. "
+"beschlossen wurden;"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:179
+msgid ""
+"Umsetzung von Beschlüssen der Urabstimmungen und Vollversammlungen der "
+"Studierendenschaft;"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:180
+msgid ""
+"Wahl der studentischen Konsulin bzw. des studentischen Konsuls auf "
+"Vorschlag des Gewähltenkonvent."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:182
+msgid ""
+"Zur wirksamen Vertretung bei operativen Rechtsgeschäften des "
+"Tagesgeschäfts bedarf es der Unterschrift eines Mitglieds des StuRa, "
+"welches vom StuRa zu diesem Zwecke bevollmächtigt wurde. Bei "
+"Rechtsgeschäften von grundsätzlicher Bedeutung ist zusätzlich ein "
+"vorheriger Beschluss des StuRa nötig. Dies gilt auch bei "
+"Rechtsgeschäften, aus denen keine finanziellen Verpflichtungen entstehen."
+" Bei finanziellen Angelegenheiten ist das Finanzreferat zwingend zu "
+"beteiligen. Fällt das Geschäft in den Bereich eines anderen Referats, so "
+"ist auch dieses einzubeziehen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:183
+msgid ""
+"Der StuRa kann für die Führung der Geschäfte des StuRa einen "
+"weisungsgebundenen Angestellten bzw. eine weisungsgebundene Angestellte "
+"einstellen. Diese Person darf nicht Mitglied des StuRa sein. In diesem "
+"Fall kann eine für die Vertretung nach Abs. 3 notwendige Unterschrift vom"
+" Angestellten bzw. von der Angestellten stammen. Die Aufgaben und "
+"Befugnisse des Angestellten bzw. der Angestellten regelt die "
+"Geschäftsordnung des StuRa in Verbindung mit dem zwischen StuRa und ihm "
+"bzw. ihr geschlossenen Arbeitsvertrag. Zur Einstellung und Entlassung "
+"eines Angestellten bzw. einer Angestellten bedarf es eines Beschlusses "
+"mit Zweidrittelmehrheit der Mitglieder des StuRa."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:184
+msgid ""
+"Der StuRa gibt sich eine Geschäftsordnung. Diese beschließt er mit "
+"Zweidrittelmehrheit seiner Mitglieder."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:189
+msgid "§ 10 Zusammensetzung"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:191
+msgid ""
+"Der StuRa besteht aus 16 direkt gewählten Mitgliedern sowie einem "
+"Vertreter bzw. einer Vertreterin eines jeden Fachschaftsrats, den bzw. "
+"die dieser aus seiner Mitte wählt. Diese Mitglieder haben Rede-, Stimm- "
+"und Antragsrecht und arbeiten im StuRa gleichberechtigt mit."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:192
+msgid ""
+"Die Mitglieder des Gewähltenkonvents haben für die Dauer ihrer Amtszeit "
+"Rede- und Antragsrecht bei den Sitzungen des StuRa. Sie orientieren sich "
+"bei ihrer Arbeit an den Beschlüssen des StuRa."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:193
+msgid ""
+"Der Angestellte beziehungsweise die Angestellte des StuRa ist berechtigt,"
+" mit beratender Stimme bei allen Versammlungen des StuRa mitzuwirken, "
+"soweit nicht die eigene Person betroffen ist. Er beziehungsweise sie "
+"genießt Rede- und Antragsrecht. Er beziehungsweise sie soll teilnehmen, "
+"wenn sie betreffende Gegenstände behandelt werden. Er beziehungsweise sie"
+" ist in seiner beziehungsweise ihrer Arbeit an die Beschlüsse des StuRa "
+"gebunden und hat sich über die Sitzungen zu informieren."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:198
+msgid "§ 11 Rechte und Pflichten der Mitglieder"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:200
+msgid ""
+"Die Mitglieder des StuRa sind die Vertreter bzw. Vertreterinnen aller "
+"Studierenden der Technische Universität Ilmenau."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:201
+msgid ""
+"Die Mitglieder sind verpflichtet, ihre Aufgaben nach bestem Wissen und "
+"Gewissen zu erfüllen. Sie haben die Pflicht, an den Versammlungen des "
+"StuRa teilzunehmen und an der Umsetzung der Beschlüsse des StuRa "
+"mitzuwirken. Nach zweimalig unentschuldigtem Fehlen wird das "
+"entsprechende Mitglied nachdrücklich aufgefordert, sein Amt "
+"gewissenhafter wahrzunehmen. Bei dreimalig unentschuldigtem Fehlen wird "
+"dem Mitglied empfohlen sein Amt niederzulegen. Bei dreimalig aufeinander "
+"folgender Abwesenheit kann ein Mitglied des Studierendenrates den Antrag "
+"auf Feststellung des Ruhens des Mandates stellen. Das Mandat gilt als "
+"ruhend, wenn der Antrag mit Zweidrittelmehrheit der anwesenden Mitglieder"
+" angenommen wird. Näheres regelt die Geschäftsordnung. § 18a Abs. 6 Satz "
+"3 findet hier Anwendung."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:202
+msgid ""
+"Die Mitglieder des StuRa haben das Recht, von den Referentinnen und "
+"Referenten nach § 13 Abs. 1 Auskünfte zu verlangen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:203
+msgid ""
+"Die Mitglieder des StuRa erteilen auf Anfrage aus der Studierendenschaft "
+"Auskunft über ihre Tätigkeit."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:204
+msgid ""
+"Sie haben das Recht, die ihnen bei der Erfüllung der Aufgaben des StuRa "
+"entstandenen Auslagen auf Antrag zurückerstattet zu bekommen. Näheres "
+"regelt die Geschäftsordnung. Darüber hinaus besteht kein Anspruch auf "
+"Aufwandsentschädigungen oder sonstige entgeltliche Gegenleistungen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:209
+msgid "§ 12 Sitzungen"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:211
+msgid ""
+"Der StuRa tagt während der Vorlesungszeit in der Regel einmal "
+"wöchentlich. Die Festlegung des Wochentags und der Uhrzeit erfolgt durch "
+"Beschluss des StuRa und wird umgehend bekannt gemacht."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:212
+msgid ""
+"Der StuRa ist beschlussfähig, wenn mehr als die Hälfte seiner Mitglieder "
+"anwesend ist."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:213
+msgid ""
+"Der StuRa beschließt mit der Mehrheit seiner anwesenden Mitglieder, "
+"soweit die Satzung oder eine Ergänzungsordnung der Studierendenschaft "
+"keine andere Regelung vorsieht."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:214
+msgid ""
+"Entscheidungen, welche Zahlungsverpflichtungen der Studierendenschaft "
+"oder gegenüber der Studierendenschaft aufheben, begründen, abändern oder "
+"zur Folge haben, werden durch die Mehrheit der Mitglieder des StuRa "
+"getroffen. Der StuRa kann mit gleicher Mehrheit abweichende Regelungen "
+"für kleinere Beträge treffen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:219
+msgid "§ 13 Referate und Arbeitsgemeinschaften"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:221
+msgid ""
+"Der StuRa bildet zur Erfüllung seiner Aufgaben Referate. Diese widmen "
+"sich schwerpunktmäßig Teilaspekten der Aufgabenwahrnehmung und dienen der"
+" inhaltlichen Arbeit der Studierendenschaft. Über Einrichtung und "
+"Auflösung eines Referats entscheidet der StuRa mit Zweidrittelmehrheit. "
+"Die Referate des StuRa sind in ihrer Tätigkeit an dessen Beschlüsse "
+"gebunden. Die Aufgaben, Zusammensetzung und Wahl des Referats Finanzen "
+"(Haushaltsverantwortliche und Kassenverantwortliche) werden in der "
+"Finanzordnung geregelt."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:222
+msgid ""
+"Zur Koordinierung der Arbeit in dem jeweiligen Referat wählt der StuRa "
+"eine Referatsleiterin (Referentin) bzw. einen Referatsleiter "
+"(Referenten). Zur Unterstützung können weitere stellvertretende "
+"Referenten bzw. stellvertretende Referentinnen gewählt werden. Der bzw. "
+"die Haushaltsverantwortliche sowie Referentinnen und Referenten des "
+"Referates Soziales werden vom StuRa mit Zweidrittelmehrheit der "
+"Mitglieder gewählt. Sonstige Referenten und Referentinnen werden mit der "
+"Mehrheit der Mitglieder gewählt. Referenten und Referentinnen, die nicht "
+"Mitglieder des StuRa sind, nehmen mit beratender Stimme und "
+"antragsberechtigt an den Sitzungen des StuRa teil. Sie müssen Mitglieder "
+"der Studierendenschaft sein. Satz 3 und 4 finden für stellvertretende "
+"Referenten bzw. stellvertretende Referentinnen entsprechend Anwendung."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:223
+msgid ""
+"Eine Referentin bzw. ein Referent kann ihr bzw. sein Amt durch eigenen "
+"Rücktritt von der Referatsleitung niederlegen. Die Amtszeit aller "
+"Referenten und Referentinnen sowie deren Stellvertreter und "
+"Stellvertreterinnen endet mit der Amtszeit der StuRa-Mitglieder. § 14 "
+"Abs. 2 Satz 2 gilt entsprechend. Ebenso kann er bzw. sie vom Amt "
+"entbunden werden:"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:225
+msgid "durch Beschluss mit Zweidrittelmehrheit der Mitglieder des StuRa,"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:226
+msgid "durch Ausscheiden aus der Studierendenschaft,"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:227
+msgid "durch Auflösung des Referats gemäß Abs. 1 Satz 3 oder"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:228
+msgid "durch Wahl eines neuen Referenten bzw. einer neue Referentin gemäß Abs. 2."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:230
+msgid ""
+"Die Regelungen dieses Absatz finden, mit Ausnahme von (d), für die "
+"stellvertretenden Referenten und stellvertretende Referentinnen "
+"entsprechend Anwendung."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:232
+msgid ""
+"Das Amt der Referentin bzw. des Referenten sollte nicht länger als vier "
+"Wochen unbesetzt sein."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:233
+msgid ""
+"Die Referate stehen allen interessierten Studierenden zur Mitarbeit "
+"offen. Für das Finanzreferat können von Satz 1 abweichende Regelungen "
+"gemäß der ThürStudFVO in der Finanzordnung der Studierendenschaft "
+"festgelegt werden. Alle Referate werden vom StuRa im Rahmen seiner "
+"Möglichkeiten unterstützt."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:234
+msgid ""
+"#. Neue Mitglieder der Referate können von der Referatsleitung bestimmt "
+"werden. Diese Entscheidung ist dem Studierendenrat auf der nächsten "
+"Sitzung zu verkünden. Mitglieder können vom Studierendenrat mit "
+"Zweidrittelmehrheit abgewählt werden. Dabei ist eine Listenwahl zulässig."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:242
+msgid "§ 13a Arbeitsgemeinschaften"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:244
+msgid ""
+"Zu bestimmten Themen und Projekten kann der StuRa Arbeitsgemeinschaften "
+"gründen. Diese haben die Pflicht, sich in der Öffentlichkeit als "
+"“Arbeitsgemeinschaft des Studierendenrats” zu erkennen zu geben. Die "
+"Arbeitsgemeinschaften benennen dem StuRa jeweils eine Kontaktperson. "
+"Dieser kann durch den StuRa eine Vertretungsvollmacht ausgesprochen "
+"werden. Die Arbeitsgemeinschaften erstatten dem StuRa regelmäßig Bericht "
+"über den Stand ihrer Arbeit."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:245
+msgid "Eine Arbeitsgemeinschaft wird aufgelöst:"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:247
+msgid "wenn die Aufgabe der Arbeitsgemeinschaft fertiggestellt ist,"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:248
+msgid "wenn sie keine aktiven Mitglieder mehr hat oder"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:249
+msgid "auf Beschluss des StuRa."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:251
+msgid ""
+"Die Arbeitsgemeinschaften stehen allen interessierten Studierenden zur "
+"Mitarbeit offen. Alle Arbeitsgemeinschaften werden vom StuRa im Rahmen "
+"seiner Möglichkeiten unterstützt."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:252
+msgid ""
+"Über die Einrichtung und Auflösung einer Arbeitsgemeinschaft ist beim "
+"nächsten Gewähltenkonvent zu informieren."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:253
+msgid ""
+"Mitglieder von Arbeitsgemeinschaften können mit einfacher Mehrheit vom "
+"Studierendenrat gewählt sowie mit Zweidrittelmehrheit abgewählt werden. "
+"Dabei ist eine Listenwahl zulässig."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:259
+msgid "§ 14 Auflösung"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:261
+msgid "Der StuRa löst sich auf:"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:263
+msgid "durch Beschluss mit Zweidrittelmehrheit seiner Mitglieder,"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:264
+msgid "aufgrund des Ergebnisses einer Urabstimmung über die Auflösung oder"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:265
+msgid "wenn die Anzahl der Mitglieder unter 11 gesunken ist."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:267
+msgid ""
+"Nach der Auflösung ist unter Einhaltung aller in der Wahlordnung "
+"genannten Fristen und Bedingungen umgehend eine Neuwahl durchzuführen. "
+"Bis zur Konstituierung des neu gewählten StuRa führt der aufgelöste StuRa"
+" die Geschäfte fort. Der neu gewählte StuRa ist bis zu den nächsten "
+"regulären Wahlen im Amt."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:270
+msgid "Fachschaft"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:275
+msgid "§ 15 Vollversammlung der Fachschaft"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:277
+msgid ""
+"Die Vollversammlung der Fachschaft wird durch den Fachschaftsrat "
+"einberufen:"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:279
+msgid ""
+"auf Beschluss des Fachschaftsrats mit Zweidrittelmehrheit der Stimmen "
+"seiner Mitglieder oder"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:280
+msgid ""
+"auf schriftlichen, unterschriebenen Antrag von mindestens 5 vom Hundert "
+"der Mitglieder der Fachschaft."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:282
+msgid ""
+"§ 6 Abs. 1, 3, 4 und 5 dieser Satzung gelten für die Vollversammlung der "
+"Fachschaft sinngemäß, wobei an die Stelle des Studierendenrates der "
+"Fachschaftsrat und an die Stelle der Studierendenschaft die Fachschaft "
+"tritt."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:287
+msgid "§ 16 Errichtung des Fachschaftsrats"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:289
+msgid "Der Fachschaftsrat (FSR) besteht aus 8 Mitgliedern."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:290
+msgid ""
+"Finden sich nicht innerhalb der von der Wahlkommission gemäß Wahlordnung "
+"beschlossenen Fristen mindestens zwei Kandidierende für einen "
+"Fachschaftsrat, dann darf die Wahlkommission den entsprechenden "
+"Fachschaftsrat nicht zur Wahl zulassen. Der Fachschaftsrat gilt dann für "
+"die zu wählende Legislaturperiode als nicht existent."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:291
+msgid ""
+"Besteht an einer Fakultät kein vollbesetzter Fachschaftsrat, so kann auf "
+"einer Vollversammlung der Fachschaft mit einer Beteiligung von mindestens"
+" 10 vom Hundert der Mitglieder die Entsendung weiterer Studierender in "
+"den Fachschaftsrat beschlossen werden, bis die Höchstzahl nach Abs. 1 "
+"erreicht ist. Dieser Fachschaftsrat bleibt bis zu den nächsten regulären "
+"Wahlen der Studierendenschaft im Amt."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:292
+msgid ""
+"Besteht an einer Fakultät kein Fachschaftsrat, so übernimmt der StuRa "
+"dessen in § 23 genannten Befugnisse und Aufgaben."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:293
+msgid ""
+"Die Befugnisse der Fachschaftsräte gemäß § 4 Abs. 2 Nr. 3 und § 6 Abs. 2 "
+"Nr. 2 können nur von Fachschaftsräten mit mehr als 4 Mitgliedern "
+"wahrgenommen werden. Sie erlöschen, wenn weniger als drei an der "
+"Universität vorhandene Fachschaftsräte diese Bedingung erfüllen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:298
+msgid "§ 17 Aufgaben des Fachschaftsrats"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:300
+msgid ""
+"Die Fachschaftsräte haben ungeachtet § 2 dieser Satzung die Aufgabe, die "
+"spezifischen Interessen der jeweiligen Fachschaften zu vertreten. Sie "
+"arbeiten eng mit dem StuRa zusammen und werden von diesem materiell und "
+"finanziell unterstützt. Die § § 10 bis 12, § 13a und § 14 finden "
+"entsprechende Anwendung, wobei an die Stelle des Studierendenrates der "
+"Fachschaftsrat tritt."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:305
+msgid "§ 17a Arbeitsgemeinschaften des Fachschaftrats"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:307
+msgid ""
+"Die Arbeitsgemeinschaften haben die Pflicht, sich in der Öffentlichkeit "
+"als \"Arbeitsgemeinschaft der Fachschaft\" zu erkennen zu geben, wobei "
+"der Name der Fachschaft anzugeben ist."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:310
+msgid ""
+"Wahlen und Amtszeit studentischer Vertreterinnen und Vertreter in den "
+"Gremien und Organen der Universität sowie der Studierendenschaft der "
+"Universität und Öffentlichkeit"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:315
+msgid "§ 18 Wahlen und Abstimmungen"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:317
+msgid ""
+"Wahlen und Urabstimmungen sind, soweit nicht anders bestimmt, allgemein, "
+"unmittelbar, frei, gleich und geheim."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:318
+msgid ""
+"Vollversammlungen entscheiden in allgemeiner, unmittelbarer, freier und "
+"gleicher Abstimmung."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:319
+msgid ""
+"Die Wahlen für die studentischen Vertreter in den Gremien und Organen der"
+" Universität sowie  der  Studierendenschaft  der  Universität  sowie  des"
+"  Konsuls  beziehungsweise  der Konsulin regelt die Wahlordnung."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:324
+msgid "§ 18a Wahlen zum StuRa und zum Fachschaftsrat"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:326
+msgid ""
+"Die Wahlen zum StuRa und den Fachschaftsräten finden in der Regel in "
+"jedem Sommersemester statt."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:327
+msgid ""
+"Die Amtszeit der Vertreterinnen und Vertreter in den Organen der "
+"Studierendenschaft beträgt, soweit für einzelne Ämter nachfolgend in "
+"dieser Satzung nichts Anderes geregelt ist, ein Jahr. Die Amtszeit "
+"beginnt am Tag nach Bekanntgabe des Wahlergebnisses für das jeweilige "
+"Gremium nach Maßgabe der Wahlordnung."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:328
+msgid ""
+"Die Mitgliedschaft im Studierendenrat, Fachschaftsrat sowie ihren "
+"Referaten und Arbeitsgemeinschaften endet"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:330
+msgid ""
+"mit Konstituierung des neu gewählten jeweiligen Fachschaftsrats "
+"beziehungsweise Studierendenrates,"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:331
+msgid "bei Auflösung des jeweiligen Gremiums,"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:332
+msgid "durch Niederlegen des Mandats oder"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:333
+msgid "mit dem Ausscheiden aus der Studierendenschaft der Universität."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:335
+msgid ""
+"Für ein nach Absatz 3 Ziffer 3 oder 4 ausscheidendes Mitglied rückt die "
+"Kandidatin beziehungsweise der Kandidat mit der nächst niedrigerer "
+"Stimmenzahl nach. Antwortet ein Kandidat oder eine Kandidatin auf die "
+"Mitteilung per E-Mail an ihre Hochschulemailadresse, dass er oder sie nun"
+" nachrücken kann, nicht innerhalb von 7 Tagen oder verweigert er oder sie"
+" die Mandatsannahme, so rückt der nächste Kandidat oder die nächste "
+"Kandidatin nach. Eine solche Nicht-Annahme des Mandats gilt nicht als "
+"Mandatsniederlegung im Sinne des Absatzes 3."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:336
+msgid ""
+"Stehen keine Kandidaten und  Kandidatinnen zum Nachrücken zur Verfügung, "
+"verringert sich die Anzahl der Mitglieder des Gremiums entsprechend. "
+"Gleiches gilt für die Zeit zwischen der Mandatsniederlegung und der "
+"Annahme des Mandats durch den nachrückenden Kandidaten oder die "
+"nachrückende Kandidatin."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:337
+msgid ""
+"Ist es einem Mitglied aus triftigem Grund für einen Zeitraum von mehr als"
+" einem Monat nicht möglich, seinen Pflichten als Mitglied nachzukommen, "
+"so kann es für diesen Zeitraum sein Mandat ruhen lassen. Der Antrag ist "
+"schriftlich beim jeweiligen Gremium zu stellen und muss neben der "
+"Begründung auch Anfangs- und Enddatum des betroffenen Zeitraums "
+"enthalten. Die Anzahl der Mitglieder des Gremiums verringert sich während"
+" der Ruhezeit entsprechend."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:342
+msgid ""
+"§ 18b Wahl des studentischen Konsuls beziehungsweise der studentischen "
+"Konsulin"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:344
+msgid ""
+"Die  studentische  Konsulin  beziehungsweise  der  studentische  Konsul  "
+"wird  in  der  Regel  im Wintersemester auf Vorschlag des "
+"Gewähltenkonvents vom StuRa gewählt. Sie beziehungsweise  er  muss  der  "
+"Studierendenschaft  angehören.  Die  Amtszeit  beträgt  ein  Jahr und "
+"beginnt zum Sommersemester. Abweichende Amtszeiten für den Konsul "
+"beziehungsweise  die  Konsulin  können  in  Absprache  mit  dem  "
+"Präsidium  bestimmt  werden. Eine einmalige Wiederwahl ist möglich."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:349
+msgid "§ 19 Öffentlichkeit"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:351
+msgid ""
+"Die Versammlungen des StuRa und der Fachschaftsräte sind für alle "
+"Mitglieder der Studierendenschaft öffentlich. Die Möglichkeit des "
+"Ausschlusses der Öffentlichkeit regelt die Geschäftsordnung."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:352
+msgid ""
+"Beschlüsse und Mitteilungen der Organe der Studierendenschaft sowie "
+"Änderungen ihrer Zusammensetzung nach § 18a Abs. 3 Nr. 3 und 4 sowie nach"
+" § 18a Abs. 6 werden durch Aushänge bekannt gegeben. Orte der "
+"Bekanntmachungen werden in der Geschäftsordnung des StuRa festgelegt."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:353
+msgid "Der Grundsatz der Öffentlichkeit der Wahl wird gewährleistet."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:356
+msgid "Studentischer Konsul bzw. studentische Konsulin"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:361
+msgid "§ 20 Studentischer Konsul bzw. studentische Konsulin"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:363
+msgid ""
+"Die studentische Konsulin bzw. der studentische Konsul koordiniert sowohl"
+" die Informationsflüsse zwischen den studentischen Vertretern und "
+"Vertreterinnen in den Universitätsgremien als auch die Informationsflüsse"
+" zwischen diesen und den übrigen Mitgliedergruppen der "
+"Universitätsgremien. Sie bzw. er ist eine zusätzliche Ansprechpartnerin "
+"bzw. ein zusätzlicher Ansprechpartner für die Hochschulleitung bei "
+"studentischen Angelegenheiten und vermittelt hierbei die Interessen sowie"
+" die Beschlüsse der Studierendenschaft. Der studentische Konsul bzw. die "
+"studentische Konsulin ist in allen universitären Gremien mit "
+"studentischer Beteiligung beratendes Mitglied. Er bzw. sie soll an "
+"Sitzungen dieser Gremien, des StuRa und des Gewähltenkonvents teilnehmen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:364
+msgid ""
+"Die Aufgaben der studentischen Konsulin bzw. des studentischen Konsuls "
+"sind in einem Aufgabenkatalog geregelt. Dieser wird vom StuRa im Benehmen"
+" mit der Hochschulleitung erarbeitet und beschlossen. Der Aufgabenkatalog"
+" ist mindestens einmal jährlich vor der Wahl des studentischen Konsuls "
+"bzw. der studentischen Konsulin zu überarbeiten. Der Aufgabenkatalog ist "
+"eine verbindliche Aufzählung der Tätigkeiten und sollte priorisiert "
+"aufgebaut sein. Der Umfang des Aufgabenkataloges sollte sich zeitlich an "
+"einem Vollzeitstudium orientieren, wobei alle Tätigkeiten des Konsuls mit"
+" entsprechendem Aufwand bedacht werden sollen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:365
+msgid ""
+"Der studentische Konsul bzw. die studentische Konsulin ist an die "
+"Beschlüsse der Organe der Studierendenschaft gebunden. Er bzw. sie hat "
+"keine Entscheidungskompetenz und darf eine Außenvertretung nur im "
+"Einzelfall nach vorherigem Beschluss des StuRa wahrnehmen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:368
+msgid "Konferenz Thüringer Studierendenschaften"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:373
+msgid "§ 21 Delegierte der Studierendenschaft"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:375
+msgid ""
+"Delegierte der Studierendenschaft der Technischen Universität Ilmenau in "
+"der Konferenz Thüringer Studierendenschaften (KTS) werden durch den StuRa"
+" mit einfacher Mehrheit gewählt."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:376
+msgid ""
+"Sie müssen Mitglieder der Studierendenschaft der Technischen Universität "
+"Ilmenau sein. Sie sollen an den Sitzungen des StuRa teilnehmen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:379
+msgid "Abschnitt III -- Sonstiges"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:382
+msgid "Finanzen"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:387
+msgid "§ 22 Finanzierung der Studierendenschaft"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:389
+msgid ""
+"Zitat (|studfvo-3| Abs. 1 ThürStudFVO): \"Einnahmen der "
+"Studierendenschaft sind insbesondere die Beiträge der Studierenden nach "
+"Maßgabe der Beitragsordnung sowie die weiteren in Anlage 1 beispielhaft "
+"genannten Einnahmen.\""
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:394
+msgid "§ 23 Beiträge"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:396
+msgid ""
+"Auf  Grundlage  des  Thüringer  Hochschulgesetzes  erhebt  die  "
+"Studierendenschaft  von  ihren Mitgliedern Beiträge. Die Höhe des "
+"semesterweise zu entrichtenden Beitrags (Semesterbeitrag) kann  nur  "
+"durch  Urabstimmung  geändert  werden.  Näheres regelt  die "
+"Beitragsordnung,  welche  durch  Urabstimmung  beschlossen  wird  und  "
+"der  Genehmigung  der Hochschulleiterin beziehungsweise des "
+"Hochschulleiters bedarf."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:401
+msgid "§ 24 Finanzordnung"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:403
+msgid ""
+"Die Studierendenschaft gibt sich eine :doc:`Finanzordnung "
+"<finanzordnung>`, die die Einzelheiten der Haushalts- und "
+"Wirtschaftsordnung regelt, insbesondere die Aufstellung und Ausführung "
+"des Haushaltsplans und Rechnungslegung, die Rechnungsprüfung und den "
+"Jahresabschluss. Die Finanzordnung wird durch die Urabstimmung "
+"beschlossen und bedarf der Genehmigung des Hochschulleiters."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:406
+msgid "Satzungsänderung"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:411
+msgid "§ 25 Satzungsänderung"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:413
+msgid ""
+"Die Satzung kann nur durch Urabstimmung geändert werden. Unaufschiebbare "
+"Änderungen können vom StuRa einstimmig vorläufig beschlossen werden. "
+"Diese Änderungen müssen spätestens zur nächsten Wahl durch Urabstimmung "
+"bestätigt werden."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:414
+msgid ""
+"Für Änderungen dieser  Satzung, der Finanzordnung und  Beitragsordnung "
+"ist vor der Urabstimmung über die Änderungen  ein Beschluss oder ein "
+"Antrag gemäß § 4 Absatz 2 erforderlich."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:415
+msgid ""
+"Die Wahlordnung und deren Änderungen werden vom StuRa mit einer "
+"Zweidrittelmehrheit seiner Mitglieder beschlossen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:419
+msgid "Schiedskommission"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:424
+msgid "§ 26 Schiedskommission"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:426
+msgid ""
+"Zur Schlichtung von Streitigkeiten über die ordnungsgemäße Anwendung "
+"dieser Satzungsbestimmungen wird eine Schiedskommission gebildet. Diese "
+"besteht aus fünf Mitgliedern, die nicht gleichzeitig Mitglied des "
+"Gewähltenkonvents sind. Nach der Schlichtung der Streitigkeiten ist die "
+"Arbeit der Schiedskommission beendet."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:427
+msgid ""
+"Bei Bedarf wird die Schiedskommission vom Gewähltenkonvent oder auf einer"
+" Vollversammlung der Studierendenschaft gewählt. Der studentische Konsul "
+"bzw. die studentische Konsulin beruft die erste Sitzung binnen vier "
+"Wochen ein und informiert den Studierendenrat über die Zusammensetzung "
+"der Schiedskommission."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:428
+msgid ""
+"Entscheidungen der Schiedskommission werden durch Mehrheitsbeschluss "
+"aller Mitglieder gefällt."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:429
+msgid ""
+"Die Schiedskommission entscheidet über Beschwerden von Mitgliedern und "
+"Organen der Studierendenschaft. Beschwerden sind zulässig mit der "
+"Behauptung, dass Beschlüsse von Organen der Studierendenschaft "
+"rechtswidrig sind und die Beschwerdeführenden durch den gerügten Verstoß "
+"in ihren Rechten verletzt sein könnten. Die Beschwerde muss die "
+"Bestimmung dieser Satzung und Ergänzungsordnungen, die für verletzt "
+"angesehen wird, genau benennen. Vorher sind die Gesprächsmöglichkeiten "
+"zwischen den betroffenen Parteien auszuschöpfen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:434
+msgid "§ 27 Beschwerdeverfahren"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:436
+msgid "Beschwerden sind beim StuRa einzureichen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:437
+msgid ""
+"Innerhalb von vier Wochen Vorlesungszeit ist die Schiedskommission "
+"einzusetzen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:438
+msgid ""
+"Innerhalb von weiteren vier Wochen Vorlesungszeit ab Bestehen der "
+"Kommission ist den Beschwerdeführenden die Entscheidung der "
+"Schiedskommission mitzuteilen. Vor ihrer Entscheidung hat die "
+"Schiedskommission die Parteien zu hören und das Vorgetragene bei der "
+"Entscheidungsfindung zu berücksichtigen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:439
+msgid ""
+"Stellt die Schiedskommission fest, dass ein Verstoß gegen die Satzung "
+"oder höher stehendes Recht vorlag und die Beschwerdeführenden dadurch in "
+"ihren Rechten verletzt sind, gibt sie eine Empfehlung an den StuRa ab. "
+"Die Empfehlung kann beinhalten:"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:441
+msgid "eine Handlungsanweisung zu einem bestimmten Sachverhalt;"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:442
+msgid "die Aufhebung eines Beschlusses;"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:443
+msgid "die zeitweilige Aussetzung eines Beschlusses."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:445
+msgid ""
+"Folgt der StuRa der Empfehlung nicht, ist er verpflichtet, die Beschwerde"
+" der Hochschulleiterin bzw. dem Hochschulleiter vorzulegen."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:448
+msgid "Schlussbestimmungen"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:453
+msgid "§ 28 In-Kraft-Treten / Außer-Kraft-Treten"
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:455
+msgid ""
+"Diese Satzung tritt nach der Genehmigung durch den Hochschulleiter und "
+"Bekanntmachung im  Verkündungsblatt  der  Universität, am auf die "
+"Bekanntmachung folgenden Tag in Kraft. Gleichzeitig verliert die Satzung "
+"der Studierendenschaft der Technischen Universität Ilmenau vom "
+"27.05.2009, veröffentlicht im Verkündungsblatt der Universität Nummer "
+"86/2011, ihre Wirksamkeit."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:456
+msgid ""
+"Die erste Änderung der Satzung der Studierendenschaft der Technischen "
+"Universität Ilmenau tritt am Tag nach ihrer Veröffentlichung im "
+"Verkündungsblatt der Universität in Kraft."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:457
+msgid ""
+"Die zweite Änderungssatzung zur Satzung der Studierendenschaft der "
+"Technischen Universität Ilmenau tritt am Tag nach ihrer Veröffentlichung "
+"im Verkündungsblatt der Universität in Kraft."
+msgstr ""
+
+#: ../../source/satzung/satzung-studierendenschaft.rst:458
+msgid ""
+"Die dritte Änderung der Satzung der Studierendenschaft der Technischen "
+"Universität Ilmenau tritt am Tag nach ihrer Veröffentlichung im "
+"Verkündungsblatt der Universität in Kraft."
+msgstr ""
+
+#~ msgid ""
+#~ "Gemäß §§ 79 Absatz 2, 80 Absatz"
+#~ " 2 Satz 1 Nummer 5 in "
+#~ "Verbindung mit § 3 Absatz 2 des"
+#~ " Thüringer Hochschulgesetzes (ThürHG) vom "
+#~ "10.05.2018 (GVBl. S. 149), zuletzt "
+#~ "geändert durch Artikel 7 des Gesetzes"
+#~ " vom 23.03.2021 (GVBl. S. 115, 118),"
+#~ " erlässt die Studierendenschaft der "
+#~ "Technischen  Universität  Ilmenau  (nachstehend  "
+#~ "„Universität“ genannt) folgende zweite "
+#~ "Änderungssatzung zur Satzung der "
+#~ "Studierendenschaft der Technischen Universität "
+#~ "Ilmenau, veröffentlicht im Verkündungsblatt "
+#~ "der Universität Nummer 112/2013, in der"
+#~ " Fassung der ersten Änderungssatzung, "
+#~ "veröffentlicht im Verkündungsblatt Nummer "
+#~ "172/2019."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Die Studierendenschaft der Universität hat "
+#~ "in der Urabstimmung vom 22.06. bis "
+#~ "06.07.2021 die zweite Änderungssatzung zur "
+#~ "Satzung der Studierendenschaft der Universität"
+#~ " beschlossen. Der Präsident der Universität"
+#~ " hat die zweite Änderungssatzung zur "
+#~ "Satzung der Studierendenschaft der Universität"
+#~ " am 22.07.2021 genehmigt."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Die Mitglieder sind verpflichtet, ihre "
+#~ "Aufgaben nach bestem Wissen und Gewissen"
+#~ " zu erfüllen. Sie haben die Pflicht,"
+#~ " an den Versammlungen des StuRa "
+#~ "teilzunehmen und an der Umsetzung der"
+#~ " Beschlüsse des StuRa mitzuwirken. Nach "
+#~ "zweimalig unentschuldigtem Fehlen wird das "
+#~ "entsprechende Mitglied nachdrücklich aufgefordert,"
+#~ " sein Amt gewissenhafter wahrzunehmen. Bei"
+#~ " dreimalig unentschuldigtem Fehlen wird dem"
+#~ " Mitglied empfohlen sein Amt niederzulegen."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Zur Koordinierung der Arbeit in dem "
+#~ "jeweiligen Referat wählt der StuRa eine"
+#~ " Referatsleiterin (Referentin) bzw. einen "
+#~ "Referatsleiter (Referenten). Zur Unterstützung "
+#~ "können weitere stellvertretende Referenten "
+#~ "bzw. stellvertretende Referentinnen gewählt "
+#~ "werden. Der bzw. die Haushaltsverantwortliche"
+#~ " sowie Referentinnen und Referenten, die"
+#~ " nicht Mitglieder im StuRa oder in"
+#~ " einem Fachschaftsrat sind, werden vom "
+#~ "StuRa mit Zweidrittelmehrheit der Mitglieder"
+#~ " gewählt. Sonstige Referenten und "
+#~ "Referentinnen werden mit der Mehrheit "
+#~ "der Mitglieder gewählt. Referenten und "
+#~ "Referentinnen, die nicht Mitglieder des "
+#~ "StuRa sind, nehmen mit beratender Stimme"
+#~ " und antragsberechtigt an den Sitzungen "
+#~ "des StuRa teil. Sie müssen Mitglieder"
+#~ " der Studierendenschaft sein. Satz 3 "
+#~ "und 4 finden für stellvertretende "
+#~ "Referenten bzw. stellvertretende Referentinnen "
+#~ "entsprechend Anwendung."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Das Amt der Referentin bzw. des "
+#~ "Referenten sollte nicht länger als vier"
+#~ " Wochen unbesetzt sein. Die "
+#~ "Referatsleitungen bedürfen auf der "
+#~ "konstituierenden Sitzung des StuRa der "
+#~ "Bestätigung durch Beschluss."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Mitglieder der Referate können mit "
+#~ "einfacher Mehrheit vom Studierendenrat gewählt"
+#~ " sowie mit Zweidrittelmehrheit abgewählt "
+#~ "werden. Dabei ist eine Listenwahl "
+#~ "zulässig."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Die Arbeitsgemeinschaften stehen allen "
+#~ "interessierten Studierenden zur Mitarbeit "
+#~ "offen. Alle Arbeitsgruppen werden vom "
+#~ "StuRa im Rahmen seiner Möglichkeiten "
+#~ "unterstützt."
+#~ msgstr ""
+

@@ -1,0 +1,535 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-25 13:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/ordnung/studentische-initiativen.rst:2
+msgid "Ordnung zur Anerkennung studentischer Initiativen"
+msgstr "Regulations for the Recognition of Student Initiatives"
+
+#: ../../source/ordnung/studentische-initiativen.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here <https://ordnungen.stura.eu/en/ordnung/studentische-"
+"initiativen.html>`_."
+msgstr ""
+"This is a translation of the "
+"original text. Only the `German version"
+" of this regulation "
+"<https://ordnungen.stura.eu/ordnung/studentische-"
+"initiativen.html>`_ is legally binding."
+
+#: ../../source/ordnung/studentische-initiativen.rst:11
+msgid "§ 1 -- Aufgaben und Zweck der Ordnung"
+msgstr "§ 1 -- Tasks and purpose of the regulations"
+
+#: ../../source/ordnung/studentische-initiativen.rst:13
+msgid ""
+"In dieser Ordnung werden die Anforderungen an die studentischen "
+"Initiativen in Ilmenau geregelt und beschrieben, sowie der Ablauf der "
+"Anerkennung zu einer hochschul-internen studentischen Initiative der TU "
+"Ilmenau geregelt. Die Anerkennung stellt einen wichtigen Schritt zur "
+"Planungssicherheit des Programms der verschiedenen studentischen "
+"Initiativen an der TU Ilmenau dar. Anerkannte studentische Initiativen "
+"können auf erleichtertem Weg verschiedene spezifische Förderungen und "
+"Unterstützung beantragen. Mit der Anerkennung erhalten die studentischen "
+"Initiativen die in dieser Ordnung aufgelisteten Rechte und Pflichten."
+msgstr ""
+"In these regulations, the requirements for student initiatives in Ilmenau"
+" are regulated and described, as well as the procedure for recognition as"
+" a university-internal student initiative of the TU Ilmenau. The "
+"recognition is an important step for the planning security of the program"
+" of the different student initiatives at the TU Ilmenau. Recognized "
+"student initiatives can apply for various specific funding and support in"
+" an easier way. With the recognition, the student initiatives receive the"
+" rights and obligations listed in these regulations."
+
+#: ../../source/ordnung/studentische-initiativen.rst:19
+msgid "§ 2 -- Studentischen Initiativen"
+msgstr "§ 2 -- Student initiatives"
+
+#: ../../source/ordnung/studentische-initiativen.rst:21
+msgid ""
+"Als studentische Initiative werden Organisationen mit studentischem "
+"Hintergrund der Mitglieder bezeichnet, die einen gemeinsamen Zweck zur "
+"Förderung des Studierendenlebens verfolgen. Studentische Initiativen "
+"können als eingetragener Verein oder als nicht rechtsverbindliche "
+"Organisationsform als sogenannte \"Hochschulgruppe\" existieren."
+msgstr ""
+"Student initiatives are organizations with a student background of the "
+"members that pursue a common purpose to promote student life. Student "
+"initiatives can exist as a registered association or as a non-legally "
+"binding organizational form known as a \"university group\"."
+
+#: ../../source/ordnung/studentische-initiativen.rst:26
+msgid "§ 3 -- Anforderungen für die Anerkennung von studentischen Initiativen"
+msgstr "§ 3 -- Requirements for recognition of student initiatives."
+
+#: ../../source/ordnung/studentische-initiativen.rst:28
+msgid ""
+"Studentischen Initiativen werden im Sinne dieser Ordnung anerkannt, wenn "
+"sie die folgenden Anforderungen erfüllen und der Studierendenrat der TU "
+"Ilmenau einer Anerkennung zustimmt:"
+msgstr ""
+"Student initiatives are recognized in the sense of these regulations if "
+"they meet the following requirements and the student council of the TU "
+"Ilmenau agrees to a recognition:"
+
+#: ../../source/ordnung/studentische-initiativen.rst:30
+msgid ""
+"Die ordentliche Mitgliedschaft in der studentischen Initiative darf nicht"
+" aufgrund von Alter, Geschlecht, sexueller Identität, Religion oder "
+"Weltanschauung, Nationalität, Herkunft, ethnischer Zugehörigkeit, "
+"körperlicher Beeinträchtigung, chronischer Krankheit oder Studiengang "
+"verweigert werden."
+msgstr ""
+"Regular membership in the student initiative shall not be denied on the "
+"basis of age, gender, sexual identity, religion or belief, nationality, "
+"origin, ethnicity, physical impairment, chronic illness, or course of "
+"study."
+
+#: ../../source/ordnung/studentische-initiativen.rst:31
+msgid ""
+"Die studentische Initiative muss sich eine Satzung geben, die "
+"vereinsrechtlichen Grundsätzen entspricht und in der insbesondere der "
+"Name der studentischen Initiative, der Zweck, die Organe, sowie Prozesse "
+"die Bestellung und/oder Wahl, bzw. die Aufnahme von Kontaktpersonen und "
+"der ordentlichen Mitglieder betreffend geregelt sind."
+msgstr ""
+"The student initiative must adopt a constitution that complies with the "
+"principles of association law and in which, in particular, the name of "
+"the student initiative, the purpose, the organs, as well as processes "
+"concerning the appointment and/or election, respectively the admission of"
+" contact persons and the ordinary members are regulated."
+
+#: ../../source/ordnung/studentische-initiativen.rst:32
+msgid ""
+"Die studentische Initiative soll gemeinnützig arbeiten oder in einer "
+"Weise tätig werden, die der Förderung sozialer oder universitärer Zwecke "
+"der Studierendenschaft nach § 80 Abs. 1 ThürHG (Stand Mai 2018) dient."
+msgstr ""
+"The student initiative shall operate on a non-profit basis or in a manner"
+" that serves to promote social or university purposes of the student body"
+" in accordance with Section 80 (1) ThürHG (as of May 2018)."
+
+#: ../../source/ordnung/studentische-initiativen.rst:33
+msgid ""
+"Der Zweck der studentischen Initiative darf nicht gegen geltende "
+"Rechtsnormen oder allgemeine Verhaltensregeln unter den Studierenden "
+"verstoßen. Er soll der Förderung des Studierendenlebens in Ilmenau "
+"dienen."
+msgstr ""
+"The purpose of the student initiative must not violate applicable legal "
+"norms or general rules of conduct among students. It should serve to "
+"promote student life in Ilmenau."
+
+#: ../../source/ordnung/studentische-initiativen.rst:34
+msgid ""
+"Der Zweck der studentischen Initiative darf den §§ 5, 6, 8, 79 Abs. 2 und"
+" 80 ThürHG (Stand Mai 2018) nicht widersprechen und muss mit diesen zu "
+"vereinbaren sein."
+msgstr ""
+"The purpose of the student initiative must not contradict and be "
+"compatible with §§ 5, 6, 8, 79 para. 2 and 80 ThürHG (as of May 2018)."
+
+#: ../../source/ordnung/studentische-initiativen.rst:35
+msgid ""
+"Die Mitglieder der studentischen Initiative arbeiten in diesen "
+"ehrenamtlich. Die studentische Initiative soll überwiegend in "
+"studentischer Verwaltung organisiert sein. In Einzelfällen sind Ausnahmen"
+" möglich, sofern der Zweck der Initiative dies erfordert."
+msgstr ""
+"The members of the student initiative shall work in them on a voluntary "
+"basis. The student initiative shall be organized predominantly in student"
+" administration. In individual cases, exceptions are possible if the "
+"purpose of the initiative requires this."
+
+#: ../../source/ordnung/studentische-initiativen.rst:36
+msgid ""
+"Die ordentlichen Mitglieder der studentischen Initiative müssen zu "
+"mindestens 50 % an der TU Ilmenau immatrikuliert oder zu 75 % Mitglieder "
+"der TU Ilmenau sein."
+msgstr ""
+"The full members of the student initiative must be at least 50% enrolled "
+"at the TU Ilmenau or 75% members of the TU Ilmenau."
+
+#: ../../source/ordnung/studentische-initiativen.rst:37
+msgid ""
+"Die ordentlichen Mitglieder der studentischen Initiative haben Stimmrecht"
+" in ihrer Mitgliederversammlung und können in den Vorstand gewählt "
+"werden."
+msgstr ""
+"The regular members of the student initiative have voting rights in their"
+" general meeting and can be elected to the board of directors."
+
+#: ../../source/ordnung/studentische-initiativen.rst:38
+msgid ""
+"Existiert ein Dachverband oder übergeordnete Organisationsstruktur, bzw. "
+"ist die studentische Initiative aus einem anderen Verein hervorgegangen, "
+"kann die Satzung der jeweiligen Organisation ebenfalls zur Prüfung der "
+"studentischen Initiative herangezogen werden."
+msgstr ""
+"If an umbrella organization or higher-level organizational structure "
+"exists, or if the student initiative has emerged from another "
+"association, the statutes of the respective organization can also be used"
+" to examine the student initiative."
+
+#: ../../source/ordnung/studentische-initiativen.rst:40
+msgid ""
+"Ergibt eine Überprüfung der Anerkennung, dass nicht alle in :ref:`§ 4 "
+"<initiativen-p4>` genannten Anforderungen erfüllt sind, erfolgt die "
+"Ablehnung bzw. Rücknahme der Anerkennung. Eine Überprüfung der "
+"Anerkennung kann auf Antrag des Präsidiums der Universität oder aus dem "
+"Studierendenrat der TU Ilmenau heraus erfolgen und wird durch den "
+"Studierendenrat der TU Ilmenau durchgeführt."
+msgstr ""
+"If a review of the recognition shows that not all requirements mentioned "
+"in :ref:`§ 4 <initiativen-p4>` are fulfilled, the recognition will be "
+"rejected or withdrawn. A review of the recognition can take place at the "
+"request of the presidium of the university or from the student council of"
+" the TU Ilmenau and is carried out by the student council of the TU "
+"Ilmenau."
+
+#: ../../source/ordnung/studentische-initiativen.rst:41
+msgid "Den Ablauf der Anerkennung regelt :ref:`§ 4 <initiativen-p4>`."
+msgstr "The procedure for recognition is governed by :ref:`§ 4 <initiativen-p4>`."
+
+#: ../../source/ordnung/studentische-initiativen.rst:46
+msgid "§ 4 -- Ablauf und Dauer der Anerkennung"
+msgstr "§ 4 -- Procedure and duration of recognition"
+
+#: ../../source/ordnung/studentische-initiativen.rst:48
+msgid ""
+"Der Studierendenrat der TU Ilmenau überprüft die Voraussetzungen zur "
+"Anerkennung nach :ref:`§ 3 <initiativen-p3>` und deren Einhaltung durch "
+"die studentischen Initiativen. Dazu müssen die folgenden Unterlagen beim "
+"Studierendenrat der TU Ilmenau eingereicht werden:"
+msgstr ""
+"Der Studierendenrat der TU Ilmenau überprüft die Voraussetzungen zur "
+"Anerkennung nach :ref:`§ 3 <initiativen-p3>` und deren Einhaltung durch "
+"die studentischen Initiativen. Dazu müssen die folgenden Unterlagen beim "
+"Studierendenrat der TU Ilmenau eingereicht werden:"
+
+#: ../../source/ordnung/studentische-initiativen.rst:50
+msgid ""
+"Ein Antrag auf erstmalige Registrierung oder Erneuerung der "
+"Registrierung. (Anlage 1)"
+msgstr ""
+"An application for initial registration or renewal of registration. "
+"(Annex 1)"
+
+#: ../../source/ordnung/studentische-initiativen.rst:51
+msgid ""
+"Eine aktuelle Satzung der studentischen Gruppe inklusive aller Anhänge "
+"und Ordnungen der studentischen Initiative. Sollten dem Studierendenrat "
+"der TU Ilmenau die aktuelle Version dieser Unterlagen vorliegen, ist das "
+"erneute Einreichen dieser nicht notwendig."
+msgstr ""
+"A current constitution of the student group including all annexes and "
+"regulations of the student initiative. If the student council of the TU "
+"Ilmenau has the current version of these documents, it is not necessary "
+"to resubmit them."
+
+#: ../../source/ordnung/studentische-initiativen.rst:52
+msgid ""
+"Ein Antrag kann nur vollständig ausgefüllt geprüft werden. Die "
+"antragstellende Person verantwortet die Richtigkeit der Angaben. Der "
+"Studierendenrat der TU Ilmenau kann zur Kontrolle der Angaben per "
+"Beschluss eine Person bestimmen, der Einsicht in Mitgliederstrukturen der"
+" studentischen Initiative gewährt werden muss. In diesem Fall ist die "
+"Aussage der durch den Studierendenrat der TU Ilmenau bestimmten Person "
+"gültig."
+msgstr ""
+"An application can only be checked if it has been completed in full. The "
+"person submitting the application is responsible for the correctness of "
+"the information. The student council of the TU Ilmenau can appoint a "
+"person by resolution to check the information, who must be granted access"
+" to member structures of the student initiative. In this case, the "
+"statement of the person determined by the student council of the TU "
+"Ilmenau is valid."
+
+#: ../../source/ordnung/studentische-initiativen.rst:54
+msgid ""
+"Die erstmalige Anerkennung kann jederzeit beantragt werden und ist gültig"
+" bis zur wiederholten Anerkennung aber maximal für ein Jahr."
+msgstr ""
+"The initial recognition can be applied for at any time and is valid until"
+" repeated recognition but for a maximum of one year."
+
+#: ../../source/ordnung/studentische-initiativen.rst:55
+msgid ""
+"Der Zeitraum zur Einreichung der Unterlagen für die wiederholte "
+"Anerkennung beginnt jährlich mit dem Beginn des Vorlesungszeitraums des "
+"Wintersemesters und dauert sechs Wochen. Die Anerkennung der "
+"studentischen Initiative ist für zwei Semester gültig."
+msgstr ""
+"The period for submitting documents for repeated recognition begins "
+"annually at the start of the lecture period of the winter semester and "
+"lasts six weeks. The recognition of the student initiative is valid for "
+"two semesters."
+
+#: ../../source/ordnung/studentische-initiativen.rst:56
+msgid ""
+"Der Studierendenrat der TU Ilmenau kann eine befristete Verlängerung der "
+"Anerkennung einer studentischen Initiative über maximal drei Monate "
+"beschließen. Die Fristverlängerung kann mit schriftlicher Begründung "
+"jederzeit beantragt werden."
+msgstr ""
+"The Student Council of the TU Ilmenau can decide on a temporary extension"
+" of the recognition of a student initiative for a maximum of three "
+"months. The extension of the deadline can be applied for at any time with"
+" written justification."
+
+#: ../../source/ordnung/studentische-initiativen.rst:57
+msgid ""
+"Ein positiver Bescheid der Anerkennung stellt grundsätzlich keinen "
+"dauerhaften Anspruch auf diesen Status dar."
+msgstr ""
+"In principle, a positive decision of recognition does not constitute a "
+"permanent entitlement to this status."
+
+#: ../../source/ordnung/studentische-initiativen.rst:58
+msgid ""
+"Die studentischen Initiativen können Einspruch gegen die Entscheidungen "
+"des Studierendenrats der TU Ilmenau bezüglich ihrer Anerkennung oder "
+"Verlängerung der Anerkennung einlegen."
+msgstr ""
+"The student initiatives can appeal against the decisions of the Student "
+"Council of the TU Ilmenau regarding their recognition or extension of "
+"recognition."
+
+#: ../../source/ordnung/studentische-initiativen.rst:59
+msgid ""
+"Die Liste der anerkannten studentischen Initiativen wird unverzüglich "
+"nach der Überprüfung aktualisiert und im Anschluss an den "
+"Anerkennungszeitraum, bzw. innerhalb von vier Wochen nach der "
+"Erstanerkennung durch den Studierendenrat der TU Ilmenau veröffentlicht. "
+"Die Anerkennung bzw. Ablehnung wird formlos gegenüber den studentischen "
+"Initiativen kommuniziert."
+msgstr ""
+"The list of recognized student initiatives will be updated immediately "
+"after the review and published following the recognition period, or "
+"within four weeks after the initial recognition by the Student Council of"
+" the TU Ilmenau. The recognition or rejection will be communicated "
+"informally to the student initiatives."
+
+#: ../../source/ordnung/studentische-initiativen.rst:64
+msgid "§ 5 -- Die Rechte anerkannter studentischen Initiativen"
+msgstr "§ 5 -- The rights of recognized student initiatives"
+
+#: ../../source/ordnung/studentische-initiativen.rst:66
+msgid ""
+"Der Studierendenrat der TU Ilmenau unterstützt die Arbeit der "
+"studentischen Initiativen, sofern möglich, strukturell."
+msgstr ""
+"The student council of the TU Ilmenau supports the work of the student "
+"initiatives structurally, if possible."
+
+#: ../../source/ordnung/studentische-initiativen.rst:68
+msgid ""
+"Der Studierendenrat der TU Ilmenau ehrt die aktiven Mitglieder der "
+"anerkannten studentischen Initiativen bei ihrem Studienabschluss auf "
+"Basis der :doc:`Richtlinie zur Vergabe von Ehrenamtsurkunden "
+"<ehrenamtsurkunden>`."
+msgstr ""
+"The Student Council of the TU Ilmenau honors the active members of the "
+"recognized student initiatives at their graduation on the basis of the "
+":doc:`Guideline for the Awarding of Honorary Certificates "
+"<ehrenamtsurkunden>`."
+
+#: ../../source/ordnung/studentische-initiativen.rst:69
+msgid ""
+"Der Studierendenrat der TU Ilmenau fördert und verwaltet den Austausch "
+"zwischen den studentischen Initiativen, der Universität, dem "
+"Studierendenwerk und anderen Förderern. Insbesondere gegenüber der "
+"Universität werden anerkannte studentische Initiativen als hochschul-"
+"intern behandelt."
+msgstr ""
+"The Student Council of the TU Ilmenau promotes and manages the exchange "
+"between student initiatives, the university, the Studierendenwerk and "
+"other sponsors. Especially towards the university, recognized student "
+"initiatives are treated as internal to the university."
+
+#: ../../source/ordnung/studentische-initiativen.rst:70
+msgid ""
+"Nach Beantragung durch eine studentische Initiative übernimmt der "
+"Studierendenrat der TU Ilmenau die Kommunikation und Vermittlung zwischen"
+" der Initiative und Dritten. Der Studierendenrat der TU Ilmenau kann für "
+"studentische Initiativen die Rechte geltend machen, die nach :ref:`§ 5 "
+"<initiativen-p5>` Nr. 2 anerkannten studentischen Initiativen "
+"zuteilwerden."
+msgstr ""
+"After application by a student initiative, the Student Council of the TU "
+"Ilmenau takes over the communication and mediation between the initiative"
+" and third parties. The Student Council of the TU Ilmenau can assert the "
+"rights for student initiatives that are granted to recognized student "
+"initiatives according to :ref:`§ 5 <initiativen-p5>` No. 2."
+
+#: ../../source/ordnung/studentische-initiativen.rst:71
+msgid ""
+"Anerkannte studentische Initiativen können beim Studierendenrat der TU "
+"Ilmenau finanzielle Unterstützung für ihre Arbeit beantragen. Die "
+"Anerkennung begründet keinen Anspruch auf die Gewährung finanzieller "
+"Unterstützung. Es gilt die Förderrichtlinie des Studierendenrats der TU "
+"Ilmenau."
+msgstr ""
+"Recognized student initiatives can apply to the Student Council of the TU"
+" Ilmenau for financial support for their work. Recognition does not "
+"constitute a claim to the granting of financial support. The funding "
+"guidelines of the Student Council of the TU Ilmenau apply."
+
+#: ../../source/ordnung/studentische-initiativen.rst:72
+msgid ""
+"Der Studierendenrat der TU Ilmenau soll eine Übersicht über aktuelle "
+"Unterstützungsmöglichkeiten führen und zugänglich machen. Für eigene "
+"Unterstützungsmöglichkeiten stellt der Studierendenrat der TU Ilmenau "
+"spezifische Ordnungen zur Verfügung."
+msgstr ""
+"The Student Council of the TU Ilmenau shall keep an overview of current "
+"support possibilities and make it accessible. For own support "
+"possibilities the student council of the TU Ilmenau provides specific "
+"orders."
+
+#: ../../source/ordnung/studentische-initiativen.rst:78
+msgid "§ 6 -- Datenschutz"
+msgstr "§ 6 -- Data protection"
+
+#: ../../source/ordnung/studentische-initiativen.rst:80
+msgid ""
+"Die in :ref:`§ 4 <initiativen-p4>` Abs. 1 angegebenen Personendaten "
+"dürfen lediglich zum Zweck der Registrierung und zur Kommunikation mit "
+"der studentischen Initiative verwendet werden. Grundlage der Verarbeitung"
+" bildet diese Ordnung. Grundlage der Kommunikation bildet die "
+"Zusammenarbeit zwischen der Studierendenvertretung und den Initiativen."
+msgstr ""
+"The personal data specified in :ref:`§ 4 <initiativen-p4>` para. 1 may "
+"only be used for the purpose of registration and communication with the "
+"student initiative. The basis of the processing is this order. The basis "
+"of communication is the cooperation between the student council and the "
+"initiatives."
+
+#: ../../source/ordnung/studentische-initiativen.rst:81
+msgid ""
+"Die in :ref:`§ 4 <initiativen-p4>` Abs. 1 angegebenen Personendaten "
+"beschränken sich auf Vor- und Nachnamen, die Initiativzugehörigkeit und "
+"den aktuellen Immatrikulationsstatus. Soweit die Initiative ein Verein "
+"mit Satzung ist, sind die Vorstandsmitglieder mit ihren Posten zu "
+"benennen. Die Bereitstellung dieser personenbezogenen Daten ist nach "
+":ref:`§ 4 <initiativen-p4>` Abs. 1 notwendig, um das "
+"Anerkennungsverfahren durchführen zu können. Eine Nichtbereitstellung hat"
+" eine sofortige Ablehnung des Verfahrens zur Folge."
+msgstr ""
+"The personal data specified in :ref:`§ 4 <initiativen-p4>` para. 1 are "
+"limited to first and last names, the initiative affiliation and the "
+"current enrollment status. Insofar as the initiative is an association "
+"with articles of association, the members of the executive board are to "
+"be named with their positions. The provision of this personal data is "
+"necessary according to :ref:`§ 4 <initiativen-p4>` para. 1 in order to be"
+" able to carry out the recognition procedure. Failure to provide this "
+"data will result in immediate rejection of the procedure."
+
+#: ../../source/ordnung/studentische-initiativen.rst:82
+msgid ""
+"Für die in :ref:`§ 4 <initiativen-p4>` Abs. 1 genannten Unterlagen gilt "
+"eine Mindestvorhaltefrist von zwei Jahren ab der Vorlage im Rahmen der "
+"jährlichen Rückmeldung unbenommen anderslautender Aufbewahrungspflichten."
+" Es gilt eine maximale Vorhaltedauer von fünf 5 Jahren. Nach Ablauf der "
+"Aufbewahrungsfrist werden die gespeicherten Daten BDSG-konform "
+"vernichtet."
+msgstr ""
+"A minimum retention period of two years from submission as part of the "
+"annual re-registration shall apply to the documents referred to in "
+":ref:`§ 4 <initiativen-p4>` para. 1, irrespective of any retention "
+"obligations to the contrary. A maximum retention period of five 5 years "
+"applies. After expiry of the retention period, the stored data will be "
+"destroyed in accordance with the BDSG."
+
+#: ../../source/ordnung/studentische-initiativen.rst:83
+msgid ""
+"Für die Verarbeitung und Speicherung der im Rahmen der Anerkennung "
+"erhobenen personenbezogenen Daten ist der Datenschutzverantwortliche der "
+"TU Ilmenau und StuRa verantwortlich. Der Datenschutzverantwortliche des "
+"StuRa ist unter datenschutz@stura.tu-ilmenau.de erreichbar."
+msgstr ""
+"The data protection officer of the TU Ilmenau and StuRa is responsible "
+"for the processing and storage of personal data collected in the context "
+"of recognition. The data protection officer of the StuRa can be reached "
+"at datenschutz@stura.tu-ilmenau.de."
+
+#: ../../source/ordnung/studentische-initiativen.rst:84
+msgid ""
+"Für Betroffene besteht das Recht auf Auskunft nach DSGVO Art. 15. seitens"
+" des Verantwortlichen über die betreffenden personenbezogenen Daten sowie"
+" das Recht auf Berichtigung oder Löschung. Ein Recht auf Einschränkung "
+"der Verarbeitung oder eines Widerspruchsrechts gegen die Verarbeitung "
+"sowie des Rechts auf Datenübertragbarkeit können aufgrund der Grundlage "
+"der Datenerhebung nicht gewährleistet werden."
+msgstr ""
+"Data subjects have the right to information according to DSGVO Art. 15. "
+"on the part of the controller about the personal data concerned as well "
+"as the right to rectification or erasure. A right to restriction of "
+"processing or a right to object to processing as well as the right to "
+"data portability cannot be guaranteed due to the basis of data "
+"collection."
+
+#: ../../source/ordnung/studentische-initiativen.rst:85
+msgid "Es besteht das Beschwerderecht bei einer Aufsichtsbehörde."
+msgstr "There is a right of appeal to a supervisory authority."
+
+#: ../../source/ordnung/studentische-initiativen.rst:86
+msgid ""
+"Eine Weitergabe der in :ref:`§ 4 <initiativen-p4>` Abs. 1 angegebenen "
+"Personendaten an Dritte oder Dritte im Ausland erfolgt nicht."
+msgstr ""
+"The personal data specified in :ref:`§ 4 <initiativen-p4>` para. 1 will "
+"not be passed on to third parties or third parties abroad."
+
+#: ../../source/ordnung/studentische-initiativen.rst:87
+msgid ""
+"Eine automatisierte Verarbeitung der in :ref:`§ 4 <initiativen-p4>` Abs. "
+"1 angegebenen Personendaten gemäß DSGVO Art. 22 Abs. 1 und 4 erfolgt "
+"nicht."
+msgstr ""
+"There is no automated processing of the personal data specified in "
+":ref:`§ 4 <initiativen-p4>` para. 1 in accordance with DSGVO Art. 22 "
+"para. 1 and 4."
+
+#: ../../source/ordnung/studentische-initiativen.rst:92
+msgid "§ 7 -- Inkrafttreten"
+msgstr "§ 7 - Entry into force"
+
+#: ../../source/ordnung/studentische-initiativen.rst:94
+msgid ""
+"Diese Ordnung tritt mit Beschluss 32/32-O01 des StuRa vom 01.02.2023 in "
+"Kraft."
+msgstr ""
+"These regulations come into force with resolution 32/32-O01 of the StuRa "
+"from 01.02.2023."
+
+#: ../../source/ordnung/studentische-initiativen.rst:98
+msgid ""
+":download:`Antrag zur Registrierung als anerkannte studentische "
+"Initiative <../_static/files/antrag_anerkennung-studentischer-"
+"initiativen.pdf>`"
+msgstr ""
+":download:`Application for registration as a recognized student "
+"initiative <../_static/files/antrag_anerkennung-studentischer-"
+"initiativen.pdf>`"
+

@@ -1,0 +1,437 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-25 13:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/ordnung/kreditrichtlinie.rst:2
+msgid "Kreditrichtlinie"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here <https://ordnungen.stura.eu/en/ordnung/kreditrichtlinie.html>`_."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:9
+msgid "Artikel I - Anwendungsbereich"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:11
+msgid ""
+"Diese Kreditrichtlinie regelt den Verfahrensweg zur Ausreichung von "
+"Krediten an Studierende und Vereine aus Finanzmitteln der "
+"Studierendenschaft entsprechend der :ref:`§§ 8, 9 Finanzordnung der "
+"Studierendenschaft <finanzordnung-p8>`."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:13
+msgid ""
+"Es steht zum Studierendenrat frei, sofern erforderlich, im Einzelfall "
+"abweichend von Bestimmungen dieser Ordnung zu beschließen oder "
+"Abweichungen von dieser Ordnung anzuordnen oder zu genehmigen."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:16
+msgid "Artikel II - Gegenstand des Darlehens"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:18
+msgid ""
+"Der Zweck des Darlehens wird in :ref:`§§ 8, 9 der Finanzordnung der "
+"Studierendenschaft <finanzordnung-p8>` geregelt."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:21
+msgid "Artikel III - Antragstellung"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:24
+#: ../../source/ordnung/kreditrichtlinie.rst:50
+#: ../../source/ordnung/kreditrichtlinie.rst:72
+#: ../../source/ordnung/kreditrichtlinie.rst:95
+#: ../../source/ordnung/kreditrichtlinie.rst:113
+#: ../../source/ordnung/kreditrichtlinie.rst:132
+msgid "Abschnitt 1 - Darlehen an Studierende"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:26
+msgid ""
+"Der Antragsteller nimmt verpflichtend an einer Sozialberatung durch das "
+"Referat Soziales teil"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:27
+msgid ""
+"Die Sozialberatung unterstützt den Antragsteller dabei, sich einen "
+"Überblick über seine im Darlehenszeitraum zu erwartenden Einnahmen und "
+"Ausgaben zu verschaffen und gibt Anregungen, wie er diese zu seinen "
+"Gunsten verbessern kann."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:28
+msgid ""
+"Der Antragsteller legt in der Sozialberatung dar, dass er zur "
+"fristgerechten Rückzahlung des Darlehens in der Lage ist. Dies ist "
+"schriftlich zu dokumentieren. Vorgelegte Belege - beispw. ein "
+"Bafögbescheid - sind in Kopie zu den Unterlagen zu nehmen."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:29
+msgid "Der Antragsteller legt in der Sozialberatung seine Bedürftigkeit dar."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:32
+#: ../../source/ordnung/kreditrichtlinie.rst:55
+#: ../../source/ordnung/kreditrichtlinie.rst:77
+#: ../../source/ordnung/kreditrichtlinie.rst:103
+#: ../../source/ordnung/kreditrichtlinie.rst:118
+#: ../../source/ordnung/kreditrichtlinie.rst:137
+msgid "Abschnitt 2 - Darlehen an Vereine"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:34
+msgid "Der beantragende Verein legt im Kreditantrag dar,"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:36
+msgid "wofür die Mittel verwendet werden sollen,"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:37
+msgid "warum dafür ein Kredit erforderlich ist und"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:38
+msgid "welche Risiken damit verbunden sind sowie"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:39
+msgid ""
+"seine Finanzsituation (Eigenkapital, offene Forderungen, offene "
+"Verbindlichkeiten)."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:41
+msgid ""
+"Es können nur Kredite für Zwecke entsprechend den Aufgaben der "
+"Studierendenschaft nach ThürHG gewährt werden."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:42
+msgid ""
+"Die geplante Mittelverwendung ist entsprechend den Bestimmungen der "
+":doc:`Förderrichtlinie des Studierendenrates <foerderrichtlinie-extern>` "
+"darzulegen."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:45
+msgid "Artikel IV - Risikobewertung und Sicherheiten"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:47
+msgid ""
+"Der Studierendenrat genehmigt nur Darlehen, welche mit hoher "
+"Wahrscheinlichkeit eine fristgerechte Rückzahlung erwarten lassen und bei"
+" welchen der Darlehenszweck das Kreditrisiko rechtfertigt."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:52
+msgid ""
+"Das Referat Soziales legt gegenüber dem Studierendenrat dar, dass der "
+"Antragsteller zur Rückzahlung in der Lage ist und durch welche Risiken "
+"die fristgerechte Rückzahlung verhindert werden könnte."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:57
+msgid ""
+"Das Referat Finanzen bewertet zusammen mit den zuständigen Fachreferaten "
+"das Kreditrisiko anhand der vorgelegten Unterlagen."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:62
+msgid ""
+"Sicherheiten sind finanzielle Forderungen, welche mit hinreichender "
+"Sicherheit zur Tilgung des Kredites verwendet werden können. Dazu zählen "
+"beispielsweise"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:60
+msgid "Förderungen von Stiftungen oder staatlichen Organisationen,"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:61
+msgid "Bankbürgschaften und"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:62
+msgid "Eigenmittel."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:65
+msgid "Artikel V - Beschlussfassung"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:67
+msgid "Ein Rechtsanspruch auf Zuwendung besteht nicht."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:68
+msgid ""
+"Der Studierendenrat beschließt auch die Modalitäten der Rückzahlung "
+"(Fristen, Raten, Zahlungsart) des Darlehens."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:69
+msgid ""
+"Die Zusage des Kredites erfolgt erst mit der Ausfertigung und dem "
+"Unterschreiben des Kreditvertrages durch alle beteiligten Parteien."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:74
+msgid "Der Studierendenrat beschließt in geheimer Abstimmung."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:79
+msgid "Die Laufzeit beträgt maximal 12 Monate."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:82
+msgid "Artikel VI - Auszahlung"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:84
+msgid ""
+"Das Referat Finanzen fertigt mit dem Antragsteller einen Darlehensvertrag"
+" aus."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:86
+msgid "Die vorgelegten Nachweise werden in Kopie zu den Akten genommen."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:88
+msgid "Die Auszahlung erfolgt bargeldlos."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:90
+msgid ""
+"Es kann eine Auszahlung in Raten vereinbart werden und die Auszahlung von"
+" Raten an das Vorliegen weiterer Voraussetzungen wie beispw. die Vorlage "
+"eines Verwendungsnachweises geknüpft werden."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:92
+msgid "Für die Vergabe des Darlehens werden keine Gebühren erhoben."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:97
+msgid ""
+"Der Antragsteller (oder sein gesetzlicher Vertreter) hat sich bei der "
+"Unterzeichnung des Darlehensvertrages auszuweisen (und ggf. seine "
+"Vertretungsvollmacht nachzuweisen)."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:100
+msgid ""
+"In der Regel soll der Personalausweis kopiert werden und mit der "
+"Ausfertigung des Darlehensvertrages für den StuRa zu den Akten genommen "
+"werden."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:105
+msgid ""
+"Der Darlehensvertrag ist vom gesetzlichen Vertreter zu unterschreiben, "
+"welcher seine Identität und seine Vertretungsvollmacht nachzuweisen hat."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:107
+msgid ""
+"Bei Vereinen muss der Vorstand unterschreiben. Jeder Vorstand hat sich "
+"einmalig gegenüber dem Referat Finanzen auszuweisen und bei "
+"Vorstandswechseln den neuen Vereinsregisterauszug (Kopie genügt) "
+"mitzubringen."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:110
+msgid "Artikel VII - Verwendung und Belege"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:115
+msgid "Keine besonderen Bestimmungen."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:120
+msgid ""
+"Für alle aus den Kreditmitteln getätigten Ausgaben ist ein "
+"Verwendungsnachweis entsprechend den Bestimmungen der "
+":doc:`Förderrichtlinie des Studierendenrates <foerderrichtlinie-extern>` "
+"zu führen sowie der Finanzplan bei Bedarf entsprechend den Vorschriften "
+"aus der :doc:`Förderrichtlinie des Studierendenrates <foerderrichtlinie-"
+"extern>` zu aktualisieren."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:123
+msgid "Artikel VIII - Rückzahlung"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:125
+msgid ""
+"Die Rückzahlung in den vereinbarten Raten erfolgt zinslos und bargeldlos "
+"auf das Girokonto des Studierendenrates."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:127
+msgid ""
+"Erfolgt die Rückzahlung nicht fristgerecht, wird die Rückzahlung mit vier"
+" Wochen Frist angemahnt. Danach werden Verzugszinsen entsprechend BGB "
+"§§288 fällig und der Studierendenrat wird zur sofortigen, "
+"außerordentlichen Kündigung berechtigt."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:129
+msgid ""
+"Ist der Schuldner im Verzug, wird ein Mahnverfahren eröffnet. Der "
+"Studierendenrat behält sich vor, die Forderung an ein Inkassounternehmen "
+"abzutreten oder ein solches zu beauftragen."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:134
+msgid ""
+"Eine Verrechnung der Darlehensrückzahlung mit offenen Forderungen gegen "
+"den Studierendenrat ist unzulässig."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:139
+msgid ""
+"Ist der Kredit mit einer Fehlbedarfsfinanzierung entsprechend der "
+":doc:`Förderrichtlinie des Studierendenrates <foerderrichtlinie-extern>` "
+"als Sicherheit verbunden, darf die Kreditrückzahlung mit der offenen "
+"Forderung gegen den Studierendenrat aus der abgerechneten "
+"Fehlbedarfsfinanzierung verrechnet werden."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:140
+msgid ""
+"Wird die offene Forderung aus Absatz 1 vom Studierendenrat bestritten "
+"oder gekürzt, ist die Kreditrückzahlung unverzüglich fortzusetzen und "
+"dabei bei einer der Verrechnung nach Absatz 1 der gekürzte Betrag "
+"anzusetzen."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:141
+msgid ""
+"Sonstige Verrechnungen bei der Kreditrückzahlung sind nur nach vorheriger"
+" schriftlicher Genehmigung des Studierendenrates zulässig."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:143
+msgid ""
+"Hinweis: Wird die abgerechnete Förderung gekürzt, muss der entsprechende "
+"Betrag aus dem Kredit zurück gezahlt werden."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:146
+msgid "Artikel IX - Aufenthaltsort und Aktualisierung der Finanzsituation"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:148
+msgid ""
+"Der Schuldner teilt dem Studierendenrat unverzüglich schriftlich mit, "
+"wenn er beabsichtigt, seinen ständigen Wohnsitz zu verlegen oder verlegt "
+"hat. Wird durch die Verlegung ein inländischer Wohnsitz des Studierenden "
+"ins Ausland verlegt oder der letzte inländische Wohnsitz aufgegeben, ist "
+"der Studierendenrat berechtigt, die Forderung sofort zurück zu fordern."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:149
+msgid ""
+"Der Schuldner teilt dem Studierendenrat unverzüglich schriftlich mit, "
+"wenn sich seine Finanzsituation derart ändert, dass die Rückzahlung "
+"wahrscheinlich nicht oder nicht vollständig fristgerecht geleistet werden"
+" kann oder die bei der Antragstellung vorgetragenen Sicherheiten "
+"substantielle Änderungen erfahren. Der Studierendenrat ist in diesem Fall"
+" dazu berechtigt, die Forderung sofort zurück zu fordern."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:150
+msgid ""
+"Der Schuldner aktualisiert die beim Studierendenrat hinterlegten "
+"Anschriften und Kontaktdaten seines gesetzlichen Vertreters unverzüglich."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:153
+msgid "Artikel X - Außerordentliche Kündigung"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:155
+msgid ""
+"Der Studierendenrat ist zur sofortigen, außerordentlichen Kündigung "
+"berechtigt, wenn der Darlehensnehmer seinen vertraglichen Pflichten nicht"
+" nach kommt und dadurch die Eintreibung des Darlehens gefährdet."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:158
+msgid "Artikel XI - Datenschutz"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:160
+msgid ""
+"Die Personalausweiskopien, Vertretungsvollmachten und Unterlagen der "
+"Sozialberatung werden für den Zeitraum von einem Jahr nach Tilgung des "
+"Darlehens oder einem Monat nach der Ablehnung des Darlehensantrages "
+"aufbewahrt. Handelt es sich dabei um Dokumente aus öffentlich "
+"zugänglichen Registern (beispw. Vereinsregisterauszug), verfünffacht sich"
+" die Frist aus Satz 1."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:161
+msgid ""
+"Die Aufbewahrung nach Absatz 1 erfolgt zum Zwecke der Nachprüfung bei "
+"Anfechtung, im Rahmen der Rechtsaufsicht oder der Rechnungsprüfung durch "
+"den Finanzausschuss."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:162
+msgid ""
+"Die Aufbewahrung nach Absatz 1 für Dokumenten aus Sozialberatungen, die "
+"nicht aus öffentlich zugänglichen Registern stammen, erfolgt in einem "
+"verschließbarem Schrank."
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:165
+msgid "Artikel XII - Inkrafttreten"
+msgstr ""
+
+#: ../../source/ordnung/kreditrichtlinie.rst:167
+msgid ""
+"Diese Richtlinie tritt mit Beschluss 25/22-05 des StuRa vom |beschluss| "
+"in Kraft."
+msgstr ""
+
+#~ msgid ""
+#~ "Dies ist die rechtlich bindende deutsche"
+#~ " Version dieser Ordnung. Eine "
+#~ "unverbindliche englischsprachige Übersetzung ist "
+#~ "`hier "
+#~ "<https://ordnungen.stura.eu/en/ordnung/kreditrichtlinie.html>`_ "
+#~ "zu finden."
+#~ msgstr ""
+

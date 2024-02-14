@@ -1,0 +1,371 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-31 15:06+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: ../../source/ordnung/ausleiheordnung.rst:2
+msgid "Ausleiheordnung"
+msgstr "Lending Regulations"
+
+#: ../../source/ordnung/ausleiheordnung.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here <https://ordnungen.stura.eu/en/ordnung/ausleiheordnung.html>`_ ."
+msgstr ""
+"This is a translation of the original text. Only the `German version of "
+"this regulation "
+"<https://ordnungen.stura.eu/ordnung/ausleiheordnung.html>`_ is legally "
+"binding."
+
+#: ../../source/ordnung/ausleiheordnung.rst:8
+msgid ""
+"Der Studierendenrat der TU Ilmenau besitzt Gegenstände, die der "
+"Studierendenschaft zur Verfügung gestellt werden. Mit dieser Ordnung soll"
+" ein Prozess definiert werden, der es ermöglicht Gegenstände auszuleihen."
+" Die Ausleihe soll so simpel wie möglich gestaltet werden. Die Ordnung "
+"stellt außerdem sicher, dass Entscheidungen, Kosten und das allgemeine "
+"Vorgehen transparent für alle Beteiligten dokumentiert sind."
+msgstr ""
+"The Student Council of the TU Ilmenau owns items that are made available "
+"to the student body. With this order a process should be defined, which "
+"makes it possible to borrow objects. The borrowing process should be as "
+"simple as possible. The order also ensures that decisions, costs and the "
+"general procedure are documented transparently for all parties involved."
+
+#: ../../source/ordnung/ausleiheordnung.rst:13
+msgid "§ 1 -- Gegenstände"
+msgstr "§ 1 -- Objects"
+
+#: ../../source/ordnung/ausleiheordnung.rst:15
+msgid ""
+"Ausleihbar sind die im Inventar-Verzeichnis des StuRa als solche "
+"gekennzeichneten Gegenstände."
+msgstr "Items marked as such in the StuRa inventory directory can be borrowed."
+
+#: ../../source/ordnung/ausleiheordnung.rst:16
+msgid ""
+"Das Inventarverzeichnis wird durch Referat Finanzen angelegt und durch "
+"den/die Ausleihbeauftragte:n verwaltet. Es kann bei dem/der "
+"Ausleihebeauftragten angefragt werden."
+msgstr ""
+"The inventory is created by the Finance Department and managed by the "
+"Lending Officer. It can be requested from the Lending Officer."
+
+#: ../../source/ordnung/ausleiheordnung.rst:21
+msgid "§ 2 -- Ausleihberechtigte"
+msgstr "§ 2 -- Entitled to borrow"
+
+#: ../../source/ordnung/ausleiheordnung.rst:23
+msgid "Zur Ausleihe von Gegenständen berechtigt sind"
+msgstr "The following are entitled to borrow items"
+
+#: ../../source/ordnung/ausleiheordnung.rst:25
+msgid "alle Teile und Unter-Organisationen des Studierendenrates der TU Ilmenau"
+msgstr "all parts and sub-organizations of the student council of the TU Ilmenau"
+
+#: ../../source/ordnung/ausleiheordnung.rst:26
+msgid "vom Studierendenrat der TU Ilmenau anerkannte studentische Initiativen"
+msgstr "Student initiatives recognized by the Student Council of the TU Ilmenau"
+
+#: ../../source/ordnung/ausleiheordnung.rst:27
+msgid "Studierende der Technischen Universität Ilmenau"
+msgstr "Students of the Ilmenau University of Technology"
+
+#: ../../source/ordnung/ausleiheordnung.rst:29
+msgid ""
+"Weitere Organisationen und Personen können durch Beschluss des "
+"Studierendenrates der TU Ilmenau  zur Ausleihe berechtigt werden."
+msgstr ""
+"Other organizations and persons can be authorized to borrow by resolution"
+" of the student council of the TU Ilmenau."
+
+#: ../../source/ordnung/ausleiheordnung.rst:30
+msgid ""
+"Bei wiederholtem Verstoß gegen die Ausleihordnung oder zugehörige "
+"Abmachungen, kann der/die Ausleihbeauftragte selbstständig entscheiden "
+"diejenigen von weiteren Ausleihen auszuschließen. Widerspruch gegen den "
+"Ausschluss kann beim Studierendenrat der TU Ilmenau eingereicht werden."
+msgstr ""
+"In case of repeated violation of the loan regulations or related "
+"agreements, the loan officer can decide independently to exclude those "
+"from further loans. An objection against the exclusion can be submitted "
+"to the Student Council of the TU Ilmenau."
+
+#: ../../source/ordnung/ausleiheordnung.rst:31
+msgid ""
+"Der Status der Berechtigung begründet keinen Anspruch auf Genehmigung "
+"einer Ausleihe."
+msgstr "Eligibility status does not establish a right to approval of a lending."
+
+#: ../../source/ordnung/ausleiheordnung.rst:36
+msgid "§ 3 -- Zweck der Ausleihe"
+msgstr "§ 3 -- Purpose of the lending"
+
+#: ../../source/ordnung/ausleiheordnung.rst:38
+msgid ""
+"Veranstaltungen, für die Eigentum des Studierendenrates der TU Ilmenau "
+"ausgeliehen werden soll, sollen einem Zweck gemäß |thuerhg-80| (Aufgaben "
+"der Studierendenschaft) dienen."
+msgstr ""
+"Events for which property of the student council of the TU Ilmenau is to "
+"be lent should serve a purpose according to |thuerhg-80| (tasks of the "
+"student body)."
+
+#: ../../source/ordnung/ausleiheordnung.rst:39
+msgid ""
+"Der Zweck ist bei Beantragung der Ausleihe dem Referat Finanzen glaubhaft"
+" zu machen, beispielsweise mittels einer Projektbeschreibung. Dieser soll"
+" durch das Referat Finanzen geprüft werden."
+msgstr ""
+"The purpose is to be made credible to the Finance Unit when applying for "
+"the loan, for example by means of a project description. This is to be "
+"checked by the Finance Unit."
+
+#: ../../source/ordnung/ausleiheordnung.rst:40
+msgid ""
+"Das Referat Finanzen hat die Möglichkeit, zu entscheiden, ob es auf eine "
+"genauere Prüfung einer einzelnen Veranstaltung verzichtet, falls"
+msgstr ""
+"The Finance Unit has the option of deciding whether to forego a more "
+"detailed audit of an individual event if"
+
+#: ../../source/ordnung/ausleiheordnung.rst:42
+msgid ""
+"es sich um eine Veranstaltung des Studierendenrates der TU Ilmenau oder "
+"einer seiner Unter-Organisationen handelt,"
+msgstr ""
+"it is an event of the student council of the TU Ilmenau or one of its "
+"sub-organizations,"
+
+#: ../../source/ordnung/ausleiheordnung.rst:43
+msgid ""
+"die Veranstaltung schon in der Vergangenheit geprüft wurde und sich "
+"seither keine wesentlichen Änderungen an Zweck und Ablauf ergeben haben."
+msgstr ""
+"the event has already been audited in the past and there have been no "
+"significant changes to the purpose and procedure since then."
+
+#: ../../source/ordnung/ausleiheordnung.rst:48
+msgid "§ 4 -- Genehmigung und Dauer der Ausleihe"
+msgstr "§ 4 -- Approval and duration of lending"
+
+#: ../../source/ordnung/ausleiheordnung.rst:50
+msgid ""
+"Für die Genehmigung soll der Antrag mindestens 2 Wochen vor Beginn der "
+"Ausleihe bei dem/der Ausleihebeauftragten eingehen. In Ausnahmefällen "
+"kann der/die Haushaltsverantwortliche in Absprache mit dem/der "
+"Ausleihverantwortliche:n auch Anträge bis 3 Tage vor Beginn genehmigen."
+msgstr ""
+"For approval, the request should be received by the Lending Officer at "
+"least 2 weeks before the start of the loan. In exceptional cases, the "
+"Budget Officer, in consultation with the Lending Officer, may also "
+"approve requests up to 3 days prior to the start date."
+
+#: ../../source/ordnung/ausleiheordnung.rst:51
+msgid ""
+"Die Ausleihe wird durch vollständiges Ausfüllen und Versenden des "
+"Ausleihformulars (siehe Anhang) beantragt. Durch das Ausleihformular "
+"werden alle Details der Ausleihe dokumentiert. Das Ausleihformular kann "
+"unabhängig von der Ausleihordnung aktualisiert werden."
+msgstr ""
+"The loan is requested by completely filling out and sending the loan form"
+" (see attachment). The loan form documents all details of the loan. The "
+"loan form can be updated independently of the loan order."
+
+#: ../../source/ordnung/ausleiheordnung.rst:52
+msgid ""
+"Nach Genehmigung des Antrags wird die Ausleihe in Absprache mit dem/der "
+"Ausleihebeauftragten durchgeführt. Für die Abholung und Rückgabe der "
+"Gegenstände ist der/die Antragsteller:in selbst verantwortlich."
+msgstr ""
+"After approval of the application, the loan will be carried out in "
+"consultation with the loan officer. The applicant is responsible for the "
+"collection and return of the items."
+
+#: ../../source/ordnung/ausleiheordnung.rst:53
+msgid ""
+"Es kann eine Rückgabefrist festgesetzt werden. Diese soll spätestens 2 "
+"Wochen nach dem Ende des Projektzeitraumes liegen."
+msgstr ""
+"A return deadline can be set. This should be no later than 2 weeks after "
+"the end of the project period."
+
+#: ../../source/ordnung/ausleiheordnung.rst:54
+msgid "Das Referat Finanzen behält sich vor, die Ausleihe sofort zu beenden, wenn"
+msgstr ""
+"The Finance Department reserves the right to terminate the loan "
+"immediately if"
+
+#: ../../source/ordnung/ausleiheordnung.rst:56
+msgid ""
+"festgestellt wird, dass der angegebene Zweck nach :ref:`§ 3 "
+"<ausleiheordnung-p3>`, Abs. 1 nicht in der Umsetzung der Veranstaltung "
+"zum Tragen kommt."
+msgstr ""
+"it is determined that the stated purpose according to :ref:`§ 3 "
+"<ausleiheordnung-p3>`, para. 1 does not come to fruition in the "
+"implementation of the event."
+
+#: ../../source/ordnung/ausleiheordnung.rst:57
+msgid "mit den ausgeliehen Gegenständen nicht sorgsam umgegangen wird."
+msgstr "the borrowed items are not handled with care."
+
+#: ../../source/ordnung/ausleiheordnung.rst:59
+msgid "Es können ergänzende vertragliche Vereinbarungen getroffen werden."
+msgstr "Supplementary contractual agreements may be made."
+
+#: ../../source/ordnung/ausleiheordnung.rst:64
+msgid "§ 5 -- Kaution"
+msgstr "§ 5 -- Deposit"
+
+#: ../../source/ordnung/ausleiheordnung.rst:66
+msgid ""
+"Für die auszuleihenden Gegenstände ist eine Kaution an den "
+"Studierendenrat der TU Ilmenau zu entrichten. Die Höhe der Kaution wird "
+"durch das Referat Finanzen beschlossen und bekanntgegeben."
+msgstr ""
+"A deposit must be paid to the Student Council of the TU Ilmenau for the "
+"items to be borrowed. The amount of the deposit is decided and announced "
+"by the Finance Department."
+
+#: ../../source/ordnung/ausleiheordnung.rst:68
+#, python-format
+msgid ""
+"Gegenstände ab einem Wert von 250,00 € sind mit einer Kaution von 10 % "
+"der Anschaffungskosten angesetzt."
+msgstr ""
+"Items with a value of 250.00 € or more are subject to a deposit of 10% of"
+" the acquisition cost."
+
+#: ../../source/ordnung/ausleiheordnung.rst:69
+msgid "Für sonstiges Inventar wird eine Kaution von 25,00 €  verlangt."
+msgstr "For other inventory a deposit of 25.00 € is required."
+
+#: ../../source/ordnung/ausleiheordnung.rst:70
+msgid "Es kann auch eine abweichende Kaution beschlossen werden."
+msgstr "It is also possible to decide on a different deposit."
+
+#: ../../source/ordnung/ausleiheordnung.rst:71
+msgid ""
+"Unter-Organisationen des Studierendenrates der TU Ilmenau müssen keine "
+"Kaution entrichten."
+msgstr ""
+"Unter-Organisationen des Studierendenrates der TU Ilmenau müssen keine "
+"Kaution entrichten."
+
+#: ../../source/ordnung/ausleiheordnung.rst:73
+msgid ""
+"Die Kaution ist vor der Durchführung der Ausleihe beim Referat Finanzen "
+"zu hinterlegen. Geschieht dies nicht, wird die getroffene Vereinbarung "
+"aufgelöst."
+msgstr ""
+"The deposit must be paid to the Finance Department before the loan can be"
+" carried out. If this is not done, the agreement made will be cancelled."
+
+#: ../../source/ordnung/ausleiheordnung.rst:78
+msgid "§ 6 -- Rückgabe, Beschädigung und Verlust"
+msgstr "§ 6 -- Return, damage and loss"
+
+#: ../../source/ordnung/ausleiheordnung.rst:80
+msgid ""
+"Die ausgeliehenen Gegenstände sind innerhalb der festgesetzten Fristen "
+"nach :ref:`§ 4 <ausleiheordnung-p4>`, Abs. 4 vollständig zurückzugeben."
+msgstr ""
+"The borrowed items must be returned in full within the set time limits "
+"according to :ref:`§ 4 <ausleiheordnung-p4>`, para. 4."
+
+#: ../../source/ordnung/ausleiheordnung.rst:81
+msgid ""
+"Bei der Rückgabe der ausgeliehenen Gegenstände ist die Funktionsfähigkeit"
+" vorzuführen."
+msgstr "When returning the borrowed items, the functionality must be demonstrated."
+
+#: ../../source/ordnung/ausleiheordnung.rst:83
+msgid ""
+"Ist die Funktionsfähigkeit nicht gegeben oder werden sonstige Schäden "
+"festgestellt, wird die Höhe der Schäden in Rechnung gestellt. Dabei kann "
+"ein Teil oder die gesamte Kaution einbehalten werden."
+msgstr ""
+"If the functionality is not given or other damages are found, the amount "
+"of the damages will be charged. In this case, part or all of the deposit "
+"may be retained."
+
+#: ../../source/ordnung/ausleiheordnung.rst:84
+msgid ""
+"Sind die Schäden durch normale Abnutzung zu begründen, kann auf die "
+"Rechnungsstellung verzichtet werden."
+msgstr "If the damage is due to normal wear and tear, invoicing may be waived."
+
+#: ../../source/ordnung/ausleiheordnung.rst:85
+msgid "Werden keine Schäden festgestellt, wird die gesamte Kaution zurückgezahlt."
+msgstr "If no damage is found, the entire deposit will be returned."
+
+#: ../../source/ordnung/ausleiheordnung.rst:86
+msgid ""
+"Kann die Funktionsfähigkeit bei der Rückgabe nicht überprüft werden und "
+"wird zu einem späteren Zeitpunkt ein Schaden festgestellt, wird dieser "
+"nachträglich in Rechnung gestellt."
+msgstr ""
+"If the functionality cannot be checked upon return and damage is detected"
+" at a later date, this will be invoiced retrospectively."
+
+#: ../../source/ordnung/ausleiheordnung.rst:88
+msgid ""
+"Werden Gegenstände nicht rechtzeitig zurückgegeben, kann für jede "
+"angefangene Woche eine Säumnisgebühr in Höhe von 10 EUR erhoben werden. "
+"Wenn möglich, wird diese von der Kaution abgezogen. Ist die Kaution "
+"hierfür nicht ausreichend, können die Kosten in Rechnung gestellt werden."
+msgstr ""
+"Werden Gegenstände nicht rechtzeitig zurückgegeben, kann für jede "
+"angefangene Woche eine Säumnisgebühr in Höhe von 10 EUR erhoben werden. "
+"Wenn möglich, wird diese von der Kaution abgezogen. Ist die Kaution "
+"hierfür nicht ausreichend, können die Kosten in Rechnung gestellt werden."
+
+#: ../../source/ordnung/ausleiheordnung.rst:89
+msgid ""
+"Bei Verlust von Gegenständen können über die Höhe der Kaution "
+"hinausgehende Wiederanschaffungskosten in Rechnung gestellt werden. Durch"
+" den Verlust von Gegenständen ab einem Wert von 250,00 € kann eine "
+"Ausleihsperre für die Dauer von 3 Monaten gegen den Antragsteller "
+"verhängt werden."
+msgstr ""
+"In case of loss of items, replacement costs exceeding the amount of the "
+"deposit may be charged. Due to the loss of items with a value of € 250.00"
+" or more, a loan suspension may be imposed on the applicant for a period "
+"of 3 months."
+
+#: ../../source/ordnung/ausleiheordnung.rst:92
+msgid "§ 7 -- Inkrafttreten"
+msgstr "§ 7 -- Entry into force"
+
+#: ../../source/ordnung/ausleiheordnung.rst:94
+msgid ""
+"Diese Ordnung tritt mit Beschluss 32/25-S03 des StuRa vom 14.12.2022 in "
+"Kraft."
+msgstr ""
+"These regulations come into force with resolution 32/25-S03 of the StuRa "
+"from 14.12.2022."
+
+#: ../../source/ordnung/ausleiheordnung.rst:98
+msgid ""
+":download:`Antrag auf Ausleihe von StuRa-Inventar "
+"<../_static/files/antrag_ausleihe.pdf>`"
+msgstr ""
+

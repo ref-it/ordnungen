@@ -1,0 +1,587 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-25 13:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:2
+msgid "Interne Förderrichtlinie"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here <https://ordnungen.stura.eu/en/ordnung/foerderrichtlinie-"
+"intern.html>`_."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:9
+msgid "1. Teil: Ablauf eines internen Finanzantrags"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:11
+msgid "Grundsätzlich ist ein Projektantrag vor dem Projektbeginn zu stellen."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:12
+msgid ""
+"Das Organ der Studierendenschaft bzw. der entsprechende Fachschaftsrat "
+"muss einen Beschluss mit der absoluten Mehrheit seiner direkt gewählten "
+"Mitglieder fassen."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:13
+msgid ""
+"Für Organe, welche nicht direkt gewählt werden, gilt die Mehrheit der "
+"Anwesenden."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:14
+msgid ""
+"Dieser Projektantrag muss unter Angabe des Projektnamens, -zeitraums, - "
+"verantwortlichen, der Postenaufschlüsselung (Finanzplan), einer für "
+"Dritte allgemeinverständliche Beschreibung des Projektesund dem "
+"entsprechenden Protokolllink zur Abstimmung und Diskussion beim Referat "
+"Finanzen unter |finanztool| eingereicht werden. Das Protokoll und die "
+"Projektbeschreibung sind dabei so ausführlich zu gestalten, dass u. a. "
+"die Innenrevision oder der Landesrechnungshof in der Lage wären, zu "
+"verstehen um was für ein Projekt es sich handelt und inwieweit das "
+"Projekt im Sinne der Studierendenschaft/Fachschaft sowie den Aufgaben der"
+" Studierendenschaft gemäß dem Thüringer Hochschulgesetz sind. Es sollen, "
+"wenn möglich Kalkulationen dokumentiert werden."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:15
+msgid ""
+"Der Projektantrag muss spätestens 72 Stunden vor der nächsten regulären "
+"Stura-Sitzung eingereicht werden. Der Projektantrag soll spätestens eine "
+"Woche vor der nächsten regulären Stura-Sitzung eingereicht sein. In "
+"dringenden Ausnahmefällen, kann unter Begründung und nur in Absprache mit"
+" dem Referat Finanzen die Fristen verkürzt werden."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:16
+msgid ""
+"Die in Nr. 5 genannte Regelungen verpflichtet das Referat Finanzen nicht "
+"zu einer abschließenden Prüfung des Projekts innerhalb der genannten "
+"Fristen."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:17
+msgid ""
+"Die in Nr. 5 genannten Fristen gelten ausschließlich für die "
+"Vorlesungszeit."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:18
+msgid ""
+"In der vorlesungsfreien Zeit werden die Fristen individuell durch das "
+"Referat Finanzen festgelegt."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:19
+msgid ""
+"Das Referat Finanzen in Vertretung durch die/den (stellvertretende/n) "
+"Haushaltsverantwortliche/n ist gemäß §4 ThürStudFVO damit beauftragt die "
+"Prüfung vorzunehmen."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:20
+msgid ""
+"Sollte es bei der Prüfung zu Rückfragen an die/den Antragssteller/in "
+"kommen, sind diese dazu angehalten, während der Vorlesungszeit innerhalb "
+"von einer Woche eine adäquate Rückmeldung an das Referat Finanzen zu "
+"geben."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:21
+msgid ""
+"Wird die Prüfung mit einem negativen Ergebnis abgeschlossen, gilt der "
+"Antrag als abgelehnt und muss ggf. nachgebessert werden."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:22
+msgid ""
+"Ist die Prüfung mit einem positiven Ergebnis abgeschlossen, bringt "
+"der/die (stellvertretende) Haushaltsverantwortliche den Projektantrag mit"
+" Beschlussvorschlag gemäß dieser Richtlinie in angemessener Art und Weise"
+" auf die Stura-Sitzung. Anmerkungen, Besonderheiten sowie Bedenken "
+"der/des (stellvertretende/n) Haushaltsverantwortliche/n sind dem "
+"Beschlussvorschlag beizufügen."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:23
+msgid ""
+"Kommt der Stura bei Anträgen die unter § 7 fallen zu einem negativen "
+"Ergebnis, greift an dieser Stelle die Regelung aus Nr. 11."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:24
+msgid ""
+"Kommt der Stura bei Anträgen die unter § 7 fallen zu einem positiven "
+"Ergebnis, gilt der Antrag als angenommen. Nach Veröffentlichung des "
+"Protokolls fügt der/die (stellvertretende) Haushaltsverantwortliche die "
+"Beschlussnummer bei. Mit der Eintragung der Beschlussnummer können "
+"Projektausgaben getätigt werden."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:27
+msgid "2. Teil: Förderungswürdige Projekte und Projektbestandteile"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:30
+msgid "§ 1 Generell"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:32
+msgid ""
+"Gemäß dem Thüringer Hochschulgesetzt und der ThürStudFVO sind die "
+"Prinzipien der Wirtschaftlichkeit und Sparsamkeit anzuwenden. "
+"Dementsprechend sind Kalkulationen und Vergleichsangebote zu "
+"berücksichtigen. Von der günstigsten Alternative kann abgewichen werden, "
+"wenn der Studierendenden- oder Fachschaft dadurch ein höherer Vorteil wie"
+" z.B. eine längere Haltbarkeit oder Nutzbarkeit entsteht. Zusätzlich "
+"sollen ökologisch vertretbare Alternativen gefunden werden."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:36
+msgid "§ 2 Verbrauchsmaterial"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:38
+msgid ""
+"Verbrauchsmaterial darf zu internen Zwecken mit einer entsprechenden "
+"Abstimmung und einem entsprechenden Beschluss des Organs der "
+"Studierendenschaft oder der Fachschaften bis zu einem Betrag von 150 EUR "
+"ohne Verkündung oder zusätzlichem Antrag im Stura genehmigt werden (vgl. "
+"§ 11 Finanzordnung). Der StuRa muss auf der nächsten ordentlichen Sitzung"
+" darüber informiert werden."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:41
+msgid "§ 3 Bürobedarf"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:43
+msgid ""
+"Das Referat Finanzen darf Bürobedarf für die Erfüllung des Tagesgeschäfts"
+" eines Organs der Studierendenschaft oder der Fachschaft bis zu einem "
+"Wert von 50 EUR ohne weitere Stura Beschluss oder einer Verkündung durch "
+"den HV genehmigen. Der Bürobedarf kann dem Referat Finanzen einmal im "
+"Semester angezeigt werden. Dafür soll ein Beschluss des jeweiligen "
+"Gremiums vorliegen."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:46
+msgid "§ 4 Fahrt-/Reisekosten"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:49
+msgid "A. Fahrtkosten"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:51
+msgid ""
+"Fahrtkosten können erstattet werden, sofern der Fahrzeughalter oder der "
+"Projektverantwortliche drei Tage vor Beginn des Projektes einen Antrag "
+"beim Referat Finanzen stellt. Die/der Fahrzeughalter/in bzw. die/der "
+"Fahrer/in ist namentlich in der Projektbeschreibung zu nennen. Durch die "
+"Nutzung von Privatkraftfahrzeugen entstandene Fahrtkosten können in der "
+"Regel nur mit einer Kilometerpauschale von bis zu 17 Ct/km + 0,2 Ct/km "
+"für jeden Mitfahrer angesetzt werden, welche Tankkosten und alle "
+"sonstigen Abnutzungen des Fahrzeuges abdeckt. In begründeten "
+"Ausnahmefällen kann der/die Haushaltsverantwortliche Abweichungen "
+"zustimmen, muss dies jedoch auf der nächsten ordentlichen StuRa Sitzung "
+"verkünden."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:54
+msgid "B. Verpflegungspauschale"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:56
+msgid ""
+"Bei internen Projekten, deren Ausführung weiter als 25 km Fahrtweg auf "
+"der kurzmöglichsten Strecke von Ilmenau oder dem Heimatort (z.B. 1. und "
+"2. Wohnsitz) der Teilnehmer/innen ist, kann eine Verpflegungspauschale "
+"für Mittag- und Abendessen in Höhe von insgesamt 10 EUR pro Tag beantragt"
+" werden. Um seinen Anspruch geltend zu machen, muss der/die "
+"Antragssteller/in glaubhaft erklären, dass die Verpflegung nicht "
+"vollständig durch die Veranstaltung oder andere Umstände abgedeckt werden"
+" kann. Anteilige Verpflegung durch den Veranstalter sind von der "
+"Pauschale abzuziehen. Falls die Anreise nach 12 Uhr beginnt, wird der "
+"Anspruch um 5 Euro an diesem Tag verringert. Falls die Abreise vor 18 Uhr"
+" endet, wird der Anspruch um 5 Euro an diesem Tag verringert."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:59
+msgid "C. BahnCard"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:61
+msgid ""
+"Privat gekaufte Bahncards können rückwirkend gefördert werden, wenn "
+"der/die Antragssteller/in nachweisen kann, dass eine rückwirkende "
+"Finanzierung der Bahncard des Mitgliedes für den Studierendenrat "
+"kostenneutral oder finanziell von Vorteil ist. Der Nachweis der "
+"eingesparten Gelder sowie der Kaufbeleg der Bahncard sind textlich beim "
+"Referat Finanzen binnen spätestens einem Semester nach Verlust des "
+"Studierendenstatus an der TU Ilmenau einzureichen. Als Nachweise sind "
+"Rechnungen/Kaufbelege und Vergleichsangebote einzureichen. Der/die "
+"Antragssteller/in muss ein Mitglied eines der Organe der "
+"Studierendenschaft oder der Fachschaft gewesen sein."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:64
+msgid "D. Deutschlandticket"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:66
+msgid ""
+"Privat gekaufte Deutschlandtickets können rückwirkend gefördert werden, "
+"wenn der/die Antragssteller/in nachweisen kann, dass eine rückwirkende "
+"Finanzierung des Deutschlandtickets des Mitgliedes für den "
+"Studierendenrat kostenneutral oder finanziell von Vorteil ist. Eine Teil-"
+"Förderung in Höhe der Kosten, die bei ausschließlicher Nutzung der mit "
+"dem Deutschlandticket nutzbaren Verkehrsmittel durch Kauf eines regulären"
+" Tickets förderfähig gewesen wären, ist möglich. Hierbei werden nur die "
+"Kosten für den nicht mit der thoska nutzbaren Teil der Strecke gefördert."
+" Der Nachweis der eingesparten Gelder sowie der Kaufbeleg des "
+"Deutschlandtickets sind textlich beim Referat Finanzen binnen spätestens "
+"einem Semester nach Verlust des Studierendenstatus an der TU Ilmenau "
+"einzureichen. Als Nachweise sind Rechnungen/Kaufbelege und "
+"Vergleichsangebote einzureichen. Der/die Antragssteller/in muss ein "
+"Mitglied eines der Organe der Studierendenschaft oder der Fachschaft "
+"gewesen sein."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:69
+msgid "§ 5 Gremienkleidung"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:72
+msgid "A. Allgemein"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:74
+msgid ""
+"Gewählte Mitglieder des Studierendenrates, des Studierendenbeirates und "
+"der Fachschaftsräte dürfen ein Kleidungsstück mit dem Aufdruck ihres "
+"Gremiums mit einem maximalen Wert von 30 € fördern lassen. Liegt der "
+"Preis unterhalb dieses Budgets, verfällt der Differenzbetrag. Wird ein "
+"teureres Kleidungsstück gewählt, ist eine eigene Zuzahlung des jeweiligen"
+" Gremienmitglieds nötig. Sollten mehrere Kleidungsstücke bestellt werden,"
+" gilt die Förderung immer für das teuerste Kleidungsstück. Das jeweilige "
+"Gremium bestimmt den Aufdruck und die Kleidungsmarke. Für aktive "
+"Mitglieder der Organe der Studierendenschaft und der Fachschaft sind "
+"diese Regelungen dann analog anzuwenden, wenn das jeweilige Gremium einen"
+" Beschluss für die jeweils zu begünstigenden Mitglieder namentlich fasst."
+" Jede Person kann pro Gremium und Legislatur diese Regelung nur einmalig "
+"anwenden. Die Förderung muss beim Referat Finanzen entsprechend der "
+"Regeln aus Teil 1 beantragt werden."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:79
+msgid "B. Eigenanteile"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:81
+msgid ""
+"Dem Referat Finanzen ist zu jeder Bestellung von Gremienkleidung eine "
+"Auflistung der Bestellugen pro Person zur Verfügung zu stellen. Die "
+"Auflistung (in Form einer digitalen Tabelle) muss folgende Informationen "
+"pro Person enthalten: Kleidungsstücke, Vor- und Nachname, Preis pro "
+"Kleidungsstück und Druck inkl. Mehrwertsteuer und Höhe des Eigenanteils."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:84
+msgid "C. Sonderreglung Tutorenkleidung"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:86
+msgid ""
+"Für die Kleidungsstücke der Tutor/innen der ErstiWoche wird in Abweichung"
+" von Satz 1 ein maximaler Wert von 20 EUR gefördert."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:89
+msgid "§ 6 Beschlüsse bis einschließlich 250 €"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:91
+msgid ""
+"Die (stellvertretenden) Haushaltsverantwortlichen sind dazu ermächtigt "
+"Anträge von bis einschließlich 250 EUR von Organen der Studierendenschaft"
+" oder der Fachschaften zu genehmigen. Der Antrag muss gemäß Teil 1 beim "
+"Referat Finanzen gestellt werden. Die (stellvertretenden) "
+"Haushaltsverantwortlichen sollen diesen Beschluss zum nächstmöglichen "
+"Zeitpunkt auf der Sutra-Sitzung zu verkünden."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:94
+msgid "§ 7 Beschlüsse über 250 €"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:96
+msgid ""
+"Für interne Projekte deren Budget 250 EUR übersteigt, ist zusätzlich zur "
+"Abstimmung und dem Beschluss des jeweiligen Gremiums, eine Abstimmung und"
+" ein Beschluss des Stura notwendig. Die benötigten Mehrheiten ergeben "
+"sich aus §§11 Ab. 2 i.V.m. 5 Abs. 4 der Finanzordnung der "
+"Studierendenschaft."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:99
+msgid "§ 8 Laufende Kosten"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:101
+msgid ""
+"Für Projekte, welche laufende Kosten erzeugen, sind vor Beginn, falls "
+"möglich, drei Vergleichsangebote einzuholen und gemäß §7 zu behandeln. "
+"Die Kosten sind im Haushaltsplan des folgenden Haushaltsjahres zu "
+"berücksichtigen."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:104
+msgid "§ 9 Weitere Anträge"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:105
+msgid ""
+"Der StuRa kann unter Vorbehalt Finanzanträge ohne vorhergehende Prüfung "
+"durch das Referat Finanzen beschließen. Erst mit der Prüfung und einem "
+"positiven Ergebnis durch das Referat Finanzen vertreten durch den "
+"(stellv.) Haushaltsverantwortlichen ist der Antrag angenommen. Bei einer "
+"Ablehnung ist der StuRa auf der nächsten regulären Sitzung zu "
+"informieren."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:108
+msgid "3. Teil: Nicht förderfähige Projekte und Projektbestandteile"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:111
+msgid "§ 10 Nicht förderfähig"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:113
+msgid ""
+"Folgende Objekte sind gemaäß der Vorgaben des ThürHG sowie des "
+"Landesrechnungshofs und der Innenrevision der TU Ilmenau nicht "
+"förderfähig:"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:115
+msgid "Alkohol in großen Mengen"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:116
+msgid ""
+"harten Alkohol (alles was nicht unter § 9 (1) JuSchG fällt; z. B. "
+"Spirituosen etc.) generell"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:117
+msgid "Drogen, Tabak, usw."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:118
+msgid "Pfand"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:119
+msgid "Essen in großen Mengen"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:120
+msgid "Waffen"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:121
+msgid "Gutscheine"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:122
+msgid "Aufwandsentschädigungen"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:125
+msgid "§ 11 begrenzt förderfähig"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:127
+msgid ""
+"Folgende Punkte sind zu Vermeiden, durch Einnahmen oder Eigenanteile "
+"(teilweise) zu Refinanzieren oder durch vorhandene Ressourcen im StuRa "
+"oder bei den Fachschaftsräten zu substituieren:"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:129
+msgid "Alkohol in kleinen Mengen"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:130
+msgid "Essen in kleinen Mengen"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:131
+msgid "Einweg Besteck, Becher, Teller, usw."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:132
+msgid "Umweltschädigungen durch Projekte, Anschaffungen und Folgeeffekte dieser"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:133
+msgid ""
+"Gegenstände, welche in ähnlicher Form bereits beim StuRa oder den "
+"Fachschaftsräten existieren"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:134
+msgid "Geschenke bis 5 EUR"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:138
+msgid "4. Teil: Abrechnungen"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:140
+msgid ""
+"Die Abrechnung/en zu einem Projekt kann/können mit Genehmigung des "
+"Projekte bis spätestens sechs Monate nach Ende des Projektzeitraumes "
+"eingereicht werden."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:141
+msgid ""
+"Nach der vollständigen Abrechnung ist das Projekt durch den "
+"Projektverantwortlichen zu schließen."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:142
+msgid ""
+"Die Abrechnung ist durch die/den Projektverantwortlichen oder eine "
+"Vertretung einzureichen."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:143
+msgid ""
+"Belege sind unter |finanztool| im entsprechenden Projekt durch den "
+"Projektverantwortlichen anzulegen, einzureichen (Statuswechsel), "
+"auszudrucken, zu unterschreiben und auf Papier mit den entsprechenden "
+"Originalbelegen beim Referat Finanzen im StuRa Büro einzureichen."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:144
+msgid ""
+"Rechnungen, die direkt durch den Stura übernommen werden sollen, sind "
+"spätestens 4 Tage nach Erhalt im System zu hinterlegen und einzureichen."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:145
+msgid ""
+"Belege können Rechnungen, gemäß gesetzlicher Vorgaben, und Kassenzettel "
+"sein. Eigenbelege sind in der Regel nur für Kalkulationen zulässig."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:146
+msgid ""
+"Das Referat Finanzen prüft die Abrechnung auf sachliche und rechnerische "
+"Richtigkeit. Sollte es bei der Prüfung zu Rückfragen an die/den "
+"Antragssteller/in kommen, sind diese dazu angehalten, während der "
+"Vorlesungszeit innerhalb von einer Woche eine adäquate Rückmeldung an das"
+" Referat Finanzen zu geben."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:147
+msgid ""
+"Wird die Prüfung mit einem negativen Ergebnis abgeschlossen, gilt der "
+"Antrag als abgelehnt und muss ggf. nachgebessert werden. Eine Auszahlung "
+"kann in diesem Fall nicht erfolgen."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:148
+msgid ""
+"Wird die Prüfung mit einem positiven Ergebnis abgeschlossen, wird der "
+"Betrag nach Einreichung und Prüfung der schriftlichen Papierbelege auf "
+"das angegebene Koto überwiesen."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:149
+#, python-format
+msgid ""
+"Das Referat Finanzen wird ermächtigt, eine Bewilligung der Erhöhung des "
+"Projektbudgets um nicht mehr als 10 % der Gesamtsumme oder nicht mehr als"
+" 10,- EUR im Namen des Studierendenrates zu erteilen, wenn dadurch das "
+"Projekt im Kern unverändert bleibt."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:150
+msgid "Ein- und Auszahlungen in bar sind zu vermeiden."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:154
+msgid "5. Teil: Inkrafttreten"
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:156
+msgid ""
+"Die interne Förderrichtlinie tritt ab dem 10.11.2021 durch den Beschluss "
+"Nr. 31/15-O01 des Studierendenrates der TU Ilmenau vom |beschluss| in "
+"Kraft. Alle bisher gültigen StuRa-Beschlüsse die oben aufgeführten Themen"
+" betreffend, werden beim Inkrafttreten der internen Förderrichtlinie "
+"außer Kraft gesetzt."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:158
+msgid ""
+"**Übergangsbestimmung:** Alle Projekte, die vor dem Inkrafttreten "
+"genehmigt wurden, unterliegen bis zu ihrem Abschluss den vorher geltenden"
+" Bestimmungen. Für daraus resultierende Abrechnungen ist jedoch bereits "
+"die interne Förderrichtlinie anzuwenden."
+msgstr ""
+
+#: ../../source/ordnung/foerderrichtlinie-intern.rst:160
+msgid ""
+"Die erste Änderungsfassung dieser Richtlinie tritt mit Beschluss "
+"32/35-O01 des StuRa vom 22.02.2023 in Kraft."
+msgstr ""
+
+#~ msgid ""
+#~ "Dem Referat Finanzen ist zu jeder "
+#~ "Bestellung von Greminekleidung eine Auflistung"
+#~ " der Bestellugen pro Person zur "
+#~ "Verfügung zu stellen. Die Auflistung (in"
+#~ " Form einer digitalen Tabelle) muss "
+#~ "folgende Informationen pro Person enthalten:"
+#~ " Kleidungsstücke, Vor- und Nachname, Preis"
+#~ " pro Kleidungsstück und Druck inkl. "
+#~ "Mehrwertsteuer und Höhe des Eigenanteils."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Dies ist die rechtlich bindende deutsche"
+#~ " Version dieser Ordnung. Eine "
+#~ "unverbindliche englischsprachige Übersetzung ist "
+#~ "`hier <https://ordnungen.stura.eu/en/ordnung"
+#~ "/foerderrichtlinie-intern.html>`_ zu finden."
+#~ msgstr ""
+

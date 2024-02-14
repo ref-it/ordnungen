@@ -1,0 +1,335 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-21 12:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:2
+msgid "Satzung der Promovierendenvertretung"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:4
+msgid ""
+"Die Promovierendenvertretung der TU Ilmenau ist die gewählte "
+"Interessenvertretung der Doktorandinnen und Doktoranden. Alle "
+"Promovierenden der TU Ilmenau sind aufgefordert und haben die "
+"Möglichkeit, sich aktiv mit Ideen und Anregungen einzubringen sowie sich "
+"zur Wahl zu stellen."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:6
+msgid ""
+"Gemäß §§ 3 Abs. 1 und 35 Abs. 1 Nr. 1 i. V. m. § 21 Abs. 4 des Thüringer "
+"Hochschulgesetzes (ThürHG) vom 10. Mai 2018 (GVBl. S. 229), zuletzt "
+"geändert durch Artikel 128 des Gesetzes vom 18. Dezember 2018 (GVBl. S. "
+"731), erlässt die Technische Universität Ilmenau (nachstehend "
+"„Universität“ genannt) die folgende Satzung der Promovierendenvertretung "
+"der Technischen Universität Ilmenau. Der Senat der Technischen "
+"Universität Ilmenau hat die Satzung am 14. Mai 2019 beschlossen. Der "
+"Rektor hat die Satzung am 23. Mai 2019 genehmigt."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:9
+msgid "§ 1 -- Geltungsbereich"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:11
+msgid ""
+"Diese Satzung regelt das Nähere zu den Aufgaben und Rechten, zur "
+"Zusammensetzung und zur Wahl der Promovierendenvertretung."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:14
+msgid "§ 2 -- Zusammensetzung"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:16
+msgid ""
+"Die Promovierendenvertretung setzt sich aus jeweils einem "
+"stimmberechtigten Mitglied sowie einem stellvertretenden Mitglied "
+"folgender 9 Listen zusammen:"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:18
+msgid "jeweils eine Liste für jede Fakultät der TU Ilmenau"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:19
+msgid "eine Liste für externe Promovierende"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:20
+msgid "eine Liste für internationale Promovierende"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:21
+msgid "eine Liste für Mitglieder von Graduiertenkollegs"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:22
+msgid "eine Liste für Stipendiatinnen und Stipendiaten"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:24
+msgid ""
+"Sollte eine Liste nicht besetzt sein, so bleibt der Platz vakant. Die "
+"Gesamtzahl der stimmberechtigten Mitglieder verringert sich bei "
+"Abstimmungen entsprechend."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:25
+msgid ""
+"Die Promovierendenvertretung wählt aus Ihrer Mitte eine Sprecherin oder "
+"einen Sprecher im Sinne einer Ansprechperson für den Forschungsausschuss "
+"bzw. für den Senat;die Promovierendenvertretung kann die Verantwortlichen"
+" für bestimmte Aufgaben selbst bestimmen."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:28
+msgid "§ 3 -- Aufgaben"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:30
+msgid ""
+"Die Promovierendenvertretung berät über die die Doktorandenschaft "
+"betreffenden Fragen und vertritt die Doktorandenschaft. Sie kann hierzu "
+"in allen die Doktorandenschaft betreffenden Angelegenheiten gegenüber den"
+" Organen und Gremien der Hochschule sowie nach außen Empfehlungen "
+"abgeben."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:31
+msgid ""
+"Sie ist insbesondere in Angelegenheiten der Ombudskommission zur "
+"Überwachung der Einhaltung des Kodex „Gute Arbeitsbedingungen in der "
+"Wissenschaft an der TU Ilmenau“ zu beteiligen, soweit diese Fälle von "
+"Mitarbeitern und Mitarbeiterinnen bearbeitet, die zur eigenen "
+"Qualifikation im Rahmen einer Promotion beschäftigt sind. Die "
+"Promovierendenvertretung schlägt einen Vertreter oder eine Vertreterinnen"
+" der Promovierenden in dieser Ombudskommission vor. Daneben ist die "
+"Promovierendenvertretung von der Ombudskommission gemäß der Richtlinie "
+"für das Verfahren bei Verdacht auf wissenschaftliches Fehlverhalten von "
+"Mitgliedern der Technischen Universität Ilmenau hinzuzuziehen, soweit "
+"diese Vorwürfe behandelt, die ein Mitglied der Doktorandenschaft der "
+"Universität betreffen. Weiterhin ist sie auch an der Erarbeitung von "
+"allgemeinen Regelungen zur Gestaltung von Qualifizierungsvereinbarung "
+"gemäß § 91 Abs. 4 ThürHG zu beteiligen. Die gesetzlichen "
+"Beteiligungsrechte nach § 21 Abs. 4 Satz 4 ThürHG bleiben hiervon "
+"unberührt."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:32
+msgid ""
+"Die Promovierendenvertretung gibt sich mit 2/3-Mehrheit ihrer "
+"stimmberechtigten Mitglieder eine Geschäftsordnung. Die Geschäftsordnung "
+"regelt insbesondere folgende Sachverhalte:"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:34
+msgid "Rechte und Pflichten der Mitglieder"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:35
+msgid "Vorschriften zur Beschlussfassung und Abstimmung"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:36
+msgid "Vorschriften zur Entsendung von Vertreterinnen und Vertretern"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:37
+msgid "die innere Verfasstheit und Organe der Promovierendenvertretung"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:38
+msgid "die Geschäftssprache"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:39
+msgid "die Abhaltung von Sitzungen"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:40
+msgid "Öffentlichkeit von Sitzungen und Dokumenten"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:41
+msgid "Beschwerde- und Schiedsverfahren"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:42
+msgid "Umgang mit Finanzen"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:43
+msgid ""
+"Die Geschäftsordnung kann mit einer 2/3-Mehrheit ihrer stimmberechtigten "
+"Mitglieder geändert werden. Die Geschäftsordnung ist spätestens vier "
+"Wochen nach ihrer Verabschiedung oder Änderung hochschulöffentlich "
+"bekannt zu machen."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:45
+msgid ""
+"Durch die Mitwirkung in der Promovierendenvertretung dürfen keinerlei "
+"Nachteile bei der Promotion entstehen."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:48
+msgid "§ 4 -- Wahlen"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:50
+msgid ""
+"Die Doktorandenschaft wählt die Mitglieder der Promovierendenvertretung "
+"über Listenwahl für die in § 2 festgelegten Listen."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:51
+msgid ""
+"Jedem Mitglied der Doktorandenschaft steht es unabhängig von seinem "
+"Status frei, auf einer der neun Listen zu kandidieren."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:52
+msgid ""
+"Jedes Mitglied der Doktorandenschaft kann bei der Wahl drei Stimmen frei "
+"vergeben. Kumulieren ist ausgeschlossen."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:53
+msgid ""
+"Als stimmberechtigtes Mitglied gewählt ist, wer die meisten Stimmen in "
+"der Listenwahl, mindestens jedoch eine, auf sich vereinigt. Wer die "
+"zweitmeisten Stimmen, mindestens jedoch eine, auf sich vereinigt, ist "
+"Stellvertreter oder Stellvertreterin. Bei Stimmgleichheit entscheidet in "
+"beiden Fällen das Los."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:54
+msgid ""
+"Die Amtszeit der Mitglieder der Promovierendenvertretung beträgt ein "
+"Jahr. Mit Vollzug der Promotion nach Maßgabe der Promotionsordnung der "
+"Universität scheidet der Vertreter aus dem Amt aus, das stellvertretende "
+"Mitglied der jeweiligen Liste rückt mit Stimmrecht nach und die Person "
+"mit der nächsthöchsten Stimmzahl auf der Liste rückt auf den Posten des "
+"stellvertretenden Mitglieds nach."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:55
+msgid ""
+"Im Übrigen findet für die Wahl der Promovierendenvertretung die "
+"Wahlordnung der Studierendenschaft der Technischen Universität Ilmenau, "
+"in der jeweils gültigen Fassung, entsprechende Anwendung. Die Bildung "
+"einer gemeinsamen Wahlleitung und - kommission mit der Studierendenschaft"
+" ist möglich."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:58
+msgid "§ 5 -- Unterstützung und Finanzen"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:60
+msgid ""
+"Der Promovierendenvertretung wird zur Wahrnehmung ihrer Aufgaben die "
+"notwendige Unterstützung durch die Hochschule gewährt. Für konkrete "
+"Maßnahmen können Anträge auf finanzielle Unterstützung an das Rektorat "
+"gestellt werden."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:63
+msgid "§ 6 -- Vollversammlung"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:65
+msgid "Eine Vollversammlung ist"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:67
+msgid ""
+"auf Beschluss der Promovierendenvertretung mit einer 2/3-Mehrheit der "
+"stimmberechtigten Mitglieder oder"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:68
+msgid ""
+"auf schriftlichen, unterschriebenen Antrag von mindestens 10 vom Hundert "
+"der Mitglieder der Promovierendenschaft einzuberufen. Die technische "
+"Organisation liegt bei der Promovierendenvertretung."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:70
+msgid ""
+"Das Nähere zur Vollversammlung, wie insbesondere Fristen und Form, wird "
+"durch die Geschäftsordnung festgelegt."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:71
+msgid ""
+"Sollte dem Beschluss oder dem Antrag auf eine Vollversammlung nicht in "
+"der von der Geschäftsordnung festgelegten Form nachgekommen werden, löst "
+"sich die Promovierendenvertretung automatisch auf."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:74
+msgid "§ 7 -- Auflösung"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:76
+msgid "Die Promovierendenvertretung löst sich auf,"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:78
+msgid ""
+"durch Beschluss mit Zweidrittelmehrheit seiner stimmberechtigten "
+"Mitglieder,"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:79
+msgid "aufgrund des Beschlusses der Vollversammlung über die Auflösung,"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:80
+msgid "wenn die Anzahl der stimmberechtigten Mitglieder unter 5 gesunken ist oder"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:81
+msgid "nach § 6 Abs. 3."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:83
+msgid ""
+"Nach der Auflösung ist unter Einhaltung aller in der Wahlordnung der "
+"Studierendenschaft in der jeweils aktuell gültigen Fassung genannten "
+"Fristen und Bedingungen umgehend eine Neuwahl durchzuführen. Bis zur "
+"Konstituierung der neu gewählten Promovierendenvertretung führt die "
+"aufgelöste Promovierendenvertretung die Geschäfte fort. Die neu gewählte "
+"Promovierendenvertretung ist bis zur nächsten regulären Wahl im Amt."
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:86
+msgid "§ 8 -- Inkrafttreten"
+msgstr ""
+
+#: ../../source/satzung/satzung-promovierendenvertretung.rst:88
+msgid ""
+"Diese Satzung tritt am Tage nach ihrer Bekanntmachung im Verkündungsblatt"
+" der TU Ilmenau in Kraft."
+msgstr ""
+

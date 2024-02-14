@@ -1,0 +1,118 @@
+.rst-content .toctree-wrapper > p.caption, h1, h2, h3, h4, h5, h6, legend,
+body {
+    font-family: "PT Sans",system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji" !important;
+    hyphens: auto;
+}
+
+@media screen and (min-width: 1180px) {
+    .wy-body-for-nav,
+    .wy-nav-content-wrap {
+        background: #efefef;
+    }
+
+    .wy-grid-for-nav {
+        position: fixed;
+        left: calc(50% - 550px);
+        top: 1.5rem;
+    }
+
+    .wy-nav-side {
+        left: inherit;
+        top: 1.5rem;
+        height: calc(100% - 3rem);
+        min-height: calc(100% - 3rem);
+        border-top-left-radius: .25rem;
+        border-bottom-left-radius: .25rem;
+        box-shadow: 0 0 4px rgba(0,0,0,.35);
+        clip-path: inset(-5px 0px -5px -5px);
+        padding-bottom: 0;
+    }
+
+    .wy-menu-vertical {
+        padding-bottom: 2rem;
+    }
+
+    .wy-nav-content {
+        position: absolute;
+        overflow-y: scroll;
+        height: calc(100% - 3rem);
+        width: 800px;
+        box-shadow: 0 0 4px rgba(0,0,0,.35);
+        border-top-right-radius: .25rem;
+        border-bottom-right-radius: .25rem;
+    }
+}
+
+.wy-side-nav-search {
+    background: #ffcc00;
+}
+
+.wy-side-nav-search input[type="text"] {
+    border-radius: .25rem;
+    border-color: rgba(0,0,0,.2);
+}
+
+.wy-side-nav-search > a,
+.wy-nav-top a {
+    color: #222222;
+}
+
+.wy-nav-top {
+    background: #ffcc00;
+    color: #222222;
+}
+
+.document li {
+    margin-bottom: .5rem;
+    margin-left: 34px !important;
+}
+
+ol {
+  counter-reset: list;
+}
+
+ol > li {
+   list-style: none !important;
+}
+
+ol > li:before {
+   content: "(" counter(list) ") ";
+   counter-increment: list;
+   margin-left: -34px;
+}
+
+ol > li > p:first-of-type {
+    margin-top: -1.5rem !important;
+}
+
+blockquote ol > li:before {
+   content: "(" counter(list, lower-alpha) ") ";
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    src: url('../fonts/pt-sans_regular.woff2') format('woff2'), url('../fonts/pt-sans_regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    src: url('../fonts/pt-sans_italic.woff2') format('woff2'), url('../fonts/pt-sans_italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    src: url('../fonts/pt-sans_bold.woff2') format('woff2'), url('../fonts/pt-sans_bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    src: url('../fonts/pt-sans_bold-italic.woff2') format('woff2'), url('../fonts/pt-sans_bold-italic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}

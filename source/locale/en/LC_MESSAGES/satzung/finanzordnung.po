@@ -1,0 +1,863 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-25 13:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/satzung/finanzordnung.rst:2
+msgid "Finanzordnung der Studierendenschaft"
+msgstr "Financial Regulations of the Student Body"
+
+#: ../../source/satzung/finanzordnung.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here <https://ordnungen.stura.eu/en/satzung/finanzordnung.html>`_."
+msgstr ""
+"This is a translation of the "
+"original text. Only the `German version"
+" of this regulation "
+"<https://ordnungen.stura.eu/satzung/finanzordnung.html>`_ is "
+"legally binding."
+
+#: ../../source/satzung/finanzordnung.rst:8
+msgid ""
+"Aufgrund §§ `79 <https:landesrecht.thueringen.de/bsth/document/jlr-"
+"HSchulGTH2018pP79>`_ Absatz 2, `80 "
+"<https:landesrecht.thueringen.de/bsth/document/jlr-HSchulGTH2018pP80>`_ "
+"Absatz 2 Satz 1 Nummer 5 in Verbindung mit `§ 3 "
+"<https:landesrecht.thueringen.de/bsth/document/jlr-HSchulGTH2018pP3>`_ "
+"Absatz 2 des `Thüringer Hochschulgesetzes "
+"<https:landesrecht.thueringen.de/bsth/document/jlr-HSchulGTH2018rahmen>`_"
+" (ThürHG) vom 10.05.2018 (GVBl. S. 149), zuletzt geändert durch Artikel 7"
+" des Gesetzes vom 23.03.2021 (GVBl. S. 115, 118), erlässt die "
+"Studierendenschaft der Technischen Universität Ilmenau (nachstehend "
+"\"Universität“ genannt) folgende Finanzordnung der Studierendenschaft der"
+" Technischen Universität Ilmenau vom 06.06.2013, veröffentlicht im "
+"Verkündungsblatt der Universität 112 / 2013, in der Fassung der dritten "
+"Änderung vom 12.11.2021, veröffentlicht im Verkündungsblatt 221 / 2021."
+msgstr ""
+"Based on §§ 79 paragraph 2, 80 paragraph 2 sentence 1 number 5 in "
+"conjunction with § 3 paragraph 2 of the Thuringian Higher Education Act "
+"(ThürHG) of 10.05.2018 (GVBl. p. 149), last amended by Article 7 of the "
+"Act of 23.03.2021 (GVBl. pp. 115, 118), the student body of the Ilmenau "
+"University of Technology (hereinafter referred to as the \"University\") "
+"enacts the following financial regulations of the student body of the "
+"Ilmenau University of Technology dated 06.06.2013, published in the "
+"University Gazette 112 / 2013, as amended by the third amendment dated "
+"12.11.2021, published in the Gazette 221 / 2021."
+
+#: ../../source/satzung/finanzordnung.rst:10
+msgid ""
+"Die Studierendenschaft der Universität hat die Finanzordnung der "
+"Studierendenschaft der Technischen Universität Ilmenau in der "
+"Urabstimmung vom 11. bis 14.06.2012 beschlossen. Der Rektor hat die "
+"Ordnung am 06.06.2013 genehmigt. Die Studierendenschaft der Universität "
+"hat in der Urabstimmung vom 22.07.2021 die dritte Änderungssatzung zur "
+"Finanzordnung der Studierendenschaft der Technischen Universität Ilmenau "
+"beschlossen. Der Präsident der Universität hat sie am 12.11.2021 "
+"genehmigt."
+msgstr ""
+"The student body of the university has adopted the financial regulations "
+"of the student body of the Ilmenau University of Technology in the ballot"
+" from 11 to 14.06.2012. The rector has approved the order on 06.06.2013. "
+"The student body of the University adopted the third amendment statute to"
+" the Financial Regulations of the Student Body of the Ilmenau University "
+"of Technology in the ballot on 22.07.2021. The President of the "
+"University approved them on 12.11.2021."
+
+#: ../../source/satzung/finanzordnung.rst:15
+msgid "§ 1 -- Grundsätze"
+msgstr "§ 1 -- Principles"
+
+#: ../../source/satzung/finanzordnung.rst:17
+msgid ""
+"Die Finanzordnung der Studierendenschaft der Technischen Universität "
+"Ilmenau beruht auf den Grundlagen der Thüringer "
+"Studierendenschaftsfinanzverordnung (|studfvo|) und ergänzend der "
+"Thüringer Landeshaushaltsordnung (|thuerlho|)."
+msgstr ""
+"The financial regulations of the student body of the Ilmenau University "
+"of Technology are based on the Thuringian Student Body Financial "
+"Regulations (|studfvo|) and, in addition, the Thuringian State Budget "
+"Regulations (|thuerlho|)."
+
+#: ../../source/satzung/finanzordnung.rst:18
+msgid ""
+"Die Finanzordnung gilt für die Haushalts- und Wirtschaftsführung der "
+"Studierendenschaft, vertreten durch den Studierendenrat."
+msgstr ""
+"The Financial Regulations apply to the budgetary and economic management "
+"of the student body, represented by the Student Council."
+
+#: ../../source/satzung/finanzordnung.rst:23
+msgid "§ 2 -- Haushaltsjahr"
+msgstr "§ 2 -- Financial year"
+
+#: ../../source/satzung/finanzordnung.rst:25
+msgid ""
+"Das Haushaltsjahr beginnt am 1. April und endet am 31. März des "
+"Folgejahres."
+msgstr ""
+"The financial year begins on April 1 and ends on March 31 of the "
+"following year."
+
+#: ../../source/satzung/finanzordnung.rst:30
+msgid "§ 3 -- Finanzierung der Studierendenschaft"
+msgstr "§ 3 -- Financing of the student body"
+
+#: ../../source/satzung/finanzordnung.rst:32
+msgid ""
+"Die Finanzierung der Studierendenschaft der Universität bestimmt sich "
+"nach |studfvo-3|."
+msgstr ""
+"The financing of the student body of the University is determined "
+"according to |studfvo-3|."
+
+#: ../../source/satzung/finanzordnung.rst:37
+msgid "§ 4 -- Haushaltsverantwortlicher, Kassenverantwortlicher, Referat Finanzen"
+msgstr "§ 4 -- Budget officer, treasurer, finance unit"
+
+#: ../../source/satzung/finanzordnung.rst:39
+msgid ""
+"Der/Die Haushaltsverantwortliche ist Beauftragte/r für den Haushalt der "
+"Studierendenschaft entsprechend |studfvo-4|. Der/Die "
+"Haushaltsverantwortliche muss dem Studierendenrat angehören. Der "
+"Studierendenrat kann bis zu zwei StellvertreterInnen wählen, welche nicht"
+" Teil des Studierendenrates, jedoch an der TU Ilmenau als Studierende "
+"immatrikuliert sein müssen. Der/Die Haushaltsverantwortliche und "
+"dessen/deren StellvertreterInnen werden mit qualifizierter Mehrheit "
+"gewählt. Tritt der oder die Haushaltsverantwortliche zurück, wird das Amt"
+" bis zur Neubesetzung kommissarisch durch die Stellvertreterinnen "
+"beziehungsweise Stellvertreter ausgeübt."
+msgstr ""
+"The budget officer is responsible for the budget of the student body "
+"according to § 4 ThürStudFVO. The budget officer must be a member of the "
+"student council. The student council can elect up to two deputies, who "
+"must not be part of the student council, but must be enrolled as students"
+" at the TU Ilmenau. The budget officer and his/her deputies are elected "
+"by qualified majority. If the budget officer resigns, the office will be "
+"held temporarily by the deputies until a new appointment is made."
+
+#: ../../source/satzung/finanzordnung.rst:41
+msgid ""
+"Der/Die Kassenverantwortliche muss dem Studierendenrat angehören. Der "
+"Studierendenrat kann beliebig viele StellvertreterInnen wählen, welche "
+"nicht Teil des Studierendenrates, jedoch an der TU Ilmenau als "
+"Studierende immatrikuliert sein müssen. Angestellte des Studierendenrates"
+" können als stellvertretende Kassenverantwortliche gewählt werden. "
+"Der/Die Kassenverantwortliche und dessen/deren StellvertreterInnen werden"
+" mit qualifizierter Mehrheit gewählt."
+msgstr ""
+"The treasurer must be a member of the student council. The student "
+"council can elect any number of deputies, who must not be part of the "
+"student council, but must be enrolled as students at the TU Ilmenau. "
+"Employees of the Student Council can be elected as deputy treasurers. The"
+" treasurer and his/her deputies are elected by qualified majority."
+
+#: ../../source/satzung/finanzordnung.rst:43
+msgid ""
+"Der Studierendenrat wählt nach Maßgabe der |studfvo| auf seiner "
+"konstituierenden Sitzung den/die Haushaltsverantwortliche/n und eine/n "
+"Kassenverantwortliche/n."
+msgstr ""
+"The Student Council elects the budget officer and a treasurer at its "
+"constituent meeting in accordance with the |studfvo|."
+
+#: ../../source/satzung/finanzordnung.rst:45
+msgid ""
+"Der Haushaltsverantwortliche bzw. die Haushaltsverantwortliche und der "
+"Kassenverantwortliche bzw. die Kassenverantwortliche sowie deren "
+"Stellvertreter bilden das Referat Finanzen."
+msgstr ""
+"The budget officer and the treasurer and their deputies form the Finance "
+"Unit."
+
+#: ../../source/satzung/finanzordnung.rst:47
+msgid ""
+"Der bzw. die Haushaltsverantwortliche entwirft den Haushaltsplan und legt"
+" ihn dem Studierendenrat zur Beschlussfassung vor. Der bzw. die "
+"Haushaltsverantwortliche ist für die ordnungsgemäße Ausführung des "
+"Haushaltsplans und die Einhaltung der |studfvo| verantwortlich. Er bzw. "
+"sie ist bei allen Maßnahmen von finanzieller Bedeutung zu beteiligen."
+msgstr ""
+"The budget officer drafts the budget and submits it to the student "
+"council for resolution. The budget officer is responsible for the proper "
+"implementation of the budget and compliance with the |studfvo|. He or she"
+" is to be involved in all measures of financial significance."
+
+#: ../../source/satzung/finanzordnung.rst:49
+msgid ""
+"Kassenverantwortliche sind für die Buch-, Kassen- und Kontoführung und "
+"die Abwicklung des Zahlungsverkehrs zuständig."
+msgstr ""
+"Cash managers are responsible for bookkeeping, cash and account "
+"management and the processing of payment transactions."
+
+#: ../../source/satzung/finanzordnung.rst:51
+msgid ""
+"Der bzw. die Haushaltsverantwortliche wird bei seinen bzw. ihren Aufgaben"
+" von den übrigen Mitgliedern des Referats Finanzen unterstützt."
+msgstr ""
+"The Budget Officer shall be assisted in his/her duties by the other "
+"members of the Finance Unit."
+
+#: ../../source/satzung/finanzordnung.rst:53
+msgid ""
+"Die Mitglieder des Referats Finanzen sind dem Studierendenrat "
+"rechenschaftspflichtig."
+msgstr "Members of the Finance Unit are accountable to the Student Council."
+
+#: ../../source/satzung/finanzordnung.rst:57
+msgid ""
+"Der bzw. die Haushaltsverantwortlichen sind nach :ref:`§ 13 <satzung-"
+"studi-p13>` Abs. 2 Satz 3 Satzung der Studierendenschaft mit "
+"Zweidrittelmehrheit zu wählen und müssen der Studiendenschaft angehören "
+"(|studfvo-4-short| Abs. 1 ThürStudFVO)."
+msgstr ""
+"The budget officer(s) must be elected by a two-thirds majority vote in "
+"accordance with :ref:`§ 13 <satzung-studi-p13>` para. 2 sentence 3 of the"
+" student body statutes and must be members of the student body "
+"(|studfvo-4-short| para. 1 ThürStudFVO)."
+
+#: ../../source/satzung/finanzordnung.rst:61
+msgid "Der bzw. die Haushaltsverantwortliche hat nach |studfvo-4| ein Veto-Recht."
+msgstr ""
+"The person responsible for the budget has a veto right according to "
+"|studfvo-4|."
+
+#: ../../source/satzung/finanzordnung.rst:66
+msgid "§ 5 -- Haushaltsplan"
+msgstr "§ 5 -- Budget"
+
+#: ../../source/satzung/finanzordnung.rst:68
+msgid ""
+"Die Grundlage für die Haushalts- und Wirtschaftsführung der "
+"Studierendenschaft ist der Haushaltsplan."
+msgstr ""
+"The basis for the budgetary and economic management of the student body "
+"is the budget."
+
+#: ../../source/satzung/finanzordnung.rst:70
+msgid ""
+"Vor Beginn jedes Haushaltsjahres ist ein Haushaltsplan aufzustellen. Der "
+"Studierendenrat beschließt den Haushaltsplan mit Zweidrittelmehrheit "
+"seiner Mitglieder."
+msgstr ""
+"A budget shall be prepared before the beginning of each fiscal year. The "
+"Student Council shall adopt the budget by a two-thirds majority of its "
+"members."
+
+#: ../../source/satzung/finanzordnung.rst:72
+msgid ""
+"Der Haushaltsplan enthält alle im Haushaltsjahr zu erwartenden Einnahmen "
+"und voraussichtlich zu leistenden Ausgaben sowie eine Übersicht über die "
+"Vermögensentwicklung. Einnahmen und Ausgaben sind in voller Höhe und "
+"getrennt voneinander zu veranschlagen; Einnahmen sind nach "
+"Entstehungsgrund, Ausgaben nach Zwecken bestimmt zu veranschlagen, der "
+"Zweck ist gegebenenfalls zu erläutern."
+msgstr ""
+"The budget shall contain all revenues expected to be received and "
+"expenditures expected to be made during the financial year, as well as an"
+" overview of the development of assets. Revenues and expenditures shall "
+"be budgeted in full and separately from each other; revenues shall be "
+"budgeted according to their origin, expenditures according to their "
+"purpose, and the purpose shall be explained where appropriate."
+
+#: ../../source/satzung/finanzordnung.rst:74
+msgid ""
+"Überplanmäßige Ausgaben benötigen die Zustimmung einer "
+"Zweidrittelmehrheit der Mitglieder des Studierendenrats unter besonderer "
+"Berücksichtung der Regelungen der ThürStudFVO |studfvo-5-short|. Im "
+"übrigen besteht die Möglichkeit eines Nachtragshaushalts."
+msgstr ""
+"Excessive expenditures require the approval of a two-thirds majority of "
+"the members of the Student Council with special consideration of the "
+"regulations of the ThürStudFVO § 5. Otherwise, there is the possibility "
+"of a supplementary budget."
+
+#: ../../source/satzung/finanzordnung.rst:76
+msgid ""
+"Der Termin der voraussichtlichen Beschlussfassung über den Haushaltsplan "
+"ist mit einer Frist von 14 Tagen hochschulöffentlich bekannt zu machen. "
+"Dabei soll auch der aktuelle Entwurf bekannt gemacht werden. Von den "
+"Bestimmungen dieses Absatzes kann bei eilbedürftigen Nachträgen zum "
+"Haushalt sowie bei vertagten Beschlussfassungen abgewichen werden."
+msgstr ""
+"The date of the expected resolution on the budget shall be announced to "
+"the university public with a notice period of 14 days. At the same time, "
+"the current draft shall also be announced. The provisions of this "
+"paragraph may be deviated from in the case of urgent supplements to the "
+"budget and in the case of postponed resolutions."
+
+#: ../../source/satzung/finanzordnung.rst:78
+msgid ""
+"Der Haushaltsplan und seine Nachträge treten nach der Beschlussfassung "
+"des Studierendenrates und der Genehmigung der PräsidentIn in Kraft, "
+"frühestens jedoch mit Beginn des jeweiligen Haushaltsjahres."
+msgstr ""
+"The budget and its supplements come into effect after the Student Council"
+" has passed a resolution and the President has approved it, but not "
+"before the beginning of the respective budget year."
+
+#: ../../source/satzung/finanzordnung.rst:80
+msgid ""
+"Der in Kraft getretene Haushaltsplan ist in der Hochschule durch Aushang "
+"zwei Wochen lang bekannt zu machen. Der Ablauf der Frist ist in der "
+"vorlesungsfreien Zeit gehemmt."
+msgstr ""
+"The budget that has entered into force shall be announced in the "
+"university by posting for two weeks. The expiry of the deadline is "
+"suspended during the lecture-free period."
+
+#: ../../source/satzung/finanzordnung.rst:84
+msgid "siehe hierzu auch |studfvo-5| Abs. 3 S. 4, Abs. 4 S. 1, Abs. 6 S. 3"
+msgstr "see also |studfvo-5| para. 3 p. 4, para. 4 p. 1, para. 6 p. 3"
+
+#: ../../source/satzung/finanzordnung.rst:89
+msgid "§ 6 -- Haushalt der Fachschaften"
+msgstr "§ 6 -- Budget of the faculty student councils"
+
+#: ../../source/satzung/finanzordnung.rst:91
+msgid ""
+"Der Haushalt der Fachschaften wird im laufenden Haushaltsjahr vom "
+"Studierendenrat aus dem Haushalt der Studierendenschaft festgelegt."
+msgstr ""
+"The budget of the student councils is determined by the Student Council "
+"in the current budget year from the budget of the student body."
+
+#: ../../source/satzung/finanzordnung.rst:92
+msgid ""
+"Die Finanzen der Fachschaften verwaltet der bzw. die "
+"Haushaltsverantwortliche des Studierendenrates."
+msgstr ""
+"The student council budget officer manages the finances of the student "
+"councils."
+
+#: ../../source/satzung/finanzordnung.rst:97
+msgid "§ 7 -- Rücklagen"
+msgstr "§ 7 -- Reserves"
+
+#: ../../source/satzung/finanzordnung.rst:99
+msgid ""
+"Insbesondere zur Erfüllung unabweisbarer Ausgaben sind übertragbare "
+"Haushaltsreste (Rücklagen) zu bilden."
+msgstr ""
+"In particular, transferable budgetary reserves (reserves) shall be "
+"established to meet unavoidable expenditures."
+
+#: ../../source/satzung/finanzordnung.rst:103
+msgid "siehe insbesondere |studfvo-8| Abs. 1, Abs. 2, Abs. 3 S. 1 und 2, Abs. 4"
+msgstr ""
+"see in particular |studfvo-8| para. 1, para. 2, para. 3 p. 1 and 2, para."
+" 4"
+
+#: ../../source/satzung/finanzordnung.rst:108
+msgid "§ 8 -- Darlehen an Studierende"
+msgstr "§ 8 -- Loans to students"
+
+#: ../../source/satzung/finanzordnung.rst:110
+msgid ""
+"Jeder an der Technischen Universität Ilmenau eingeschriebene Studierende "
+"kann, bei Nachweis der Bedürftigkeit, Darlehen erhalten, die eine "
+"Gesamthöhe von 1.800,- Euro pro Bedürftigem nicht überschreiten sollen. "
+"Das Darlehen ist während der Laufzeit zinsfrei. In Fällen von "
+"kurzfristiger Bedürftigkeit kann im Einzelfall und gegen Bürgschaft vom "
+"Betrag abgewichen werden."
+msgstr ""
+"Every student enrolled at the Ilmenau University of Technology can, upon "
+"proof of need, receive loans, which shall not exceed a total amount of "
+"1,800 euros per person in need. The loan is interest-free during the "
+"term. In cases of short-term need, the amount can be deviated from in "
+"individual cases and against a guarantee."
+
+#: ../../source/satzung/finanzordnung.rst:112
+msgid ""
+"Die Bedürftigkeit ist vom Antragsteller gegenüber dem bzw. der "
+"Haushaltsverantwortlichen darzulegen. Über die Gewährung des Darlehens "
+"entscheiden die Mitglieder des Studierendenrats in geheimer Abstimmung in"
+" nicht-öffentlicher Sitzung."
+msgstr ""
+"The neediness is to be presented by the applicant to the person "
+"responsible for the budget. The members of the Student Council decide on "
+"the granting of the loan by secret ballot in a non-public meeting."
+
+#: ../../source/satzung/finanzordnung.rst:114
+#: ../../source/satzung/finanzordnung.rst:127
+msgid "Ein Rechtsanspruch auf die Gewährung eines Darlehens besteht nicht."
+msgstr "There is no legal entitlement to the granting of a loan."
+
+#: ../../source/satzung/finanzordnung.rst:116
+msgid ""
+"Die Laufzeit eines Darlehens soll sechs Monate und darf zwölf Monate "
+"nicht überschreiten. Die Modalitäten des Darlehens sind vertraglich unter"
+" Einhaltung der Schriftform zu regeln. Dazu zählen wenigstens "
+"Rückzahlungsfrist, Rückzahlungsraten, Zahlungsart, Zahlungsgrund und "
+"Darlehenssumme."
+msgstr ""
+"The term of a loan shall be six months and shall not exceed twelve "
+"months. The modalities of the loan shall be contractually regulated in "
+"compliance with the written form. These include at least the repayment "
+"period, repayment installments, method of payment, reason for payment and"
+" loan amount."
+
+#: ../../source/satzung/finanzordnung.rst:121
+msgid "§ 9 -- Darlehen an Vereine"
+msgstr "§ 9 -- Loans to associations"
+
+#: ../../source/satzung/finanzordnung.rst:123
+msgid ""
+"Jede an der TU Ilmenau registrierte studentische Organisation und "
+"studentische Vereinigung kann zur Erfüllung der in § 80 Abs. 1 Nr. 2 bis "
+"7 ThürHG genannten Aufgaben zinslose Darlehen erhalten, die im Regelfall "
+"jeweils eine Gesamthöhe von 10.000 Euro nicht überschreiten dürfen. "
+"Ausnahmen sind schriftlich zu begründen."
+msgstr ""
+"Every student organization and student association registered at the TU "
+"Ilmenau may receive interest-free loans for the fulfillment of the tasks "
+"specified in § 80 para. 1 nos. 2 to 7 ThürHG, which as a rule may not "
+"exceed a total amount of 10,000 euros each. Exceptions must be justified "
+"in writing."
+
+#: ../../source/satzung/finanzordnung.rst:125
+msgid ""
+"Die Notwendigkeit der Aufnahme des Darlehens ist vom Antragsteller in "
+"Absprache mit dem bzw. der Haushaltsverantwortlichen gegenüber dem "
+"Studierendenrat darzulegen."
+msgstr ""
+"The need for borrowing the loan must be presented to the Student Council "
+"by the applicant in consultation with the budget officer."
+
+#: ../../source/satzung/finanzordnung.rst:129
+msgid ""
+"Nach Aufgabenerfüllung sind gewährte Darlehen unverzüglich an den "
+"Studierendenrat zurückzuzahlen. Die Modalitäten des Darlehens sind "
+"vertraglich unter Einhaltung der Schriftform zu regeln. Dazu zählen "
+"wenigstens Rückzahlungsfrist, Rückzahlungsraten, Zahlungsart, "
+"Zahlungsgrund und Darlehenssumme."
+msgstr ""
+"After completion of the task, loans granted are to be repaid to the "
+"Student Council without delay. The modalities of the loan are to be "
+"regulated contractually in compliance with the written form. These "
+"include at least the repayment period, repayment installments, method of "
+"payment, reason for payment and loan amount."
+
+#: ../../source/satzung/finanzordnung.rst:131
+msgid ""
+"Die Summe aller offenen Forderungen aus Darlehen an studentische "
+"Organisationen und Vereinigungen und Studierende darf zu keinem Zeitpunkt"
+" 20 v. H. der jährlichen Semesterbeiträge überschreiten."
+msgstr ""
+"The total of all outstanding loans owed to student organizations and "
+"associations and students shall not exceed 20 percent of annual semester "
+"dues at any time."
+
+#: ../../source/satzung/finanzordnung.rst:136
+msgid ""
+"§ 10 -- Kreditaufnahme, Eingehen von Gewährleistungen und sonstigen "
+"Kreditsicherheiten"
+msgstr "§ 10 -- Borrowing, entering into guarantees and other loan collateral"
+
+#: ../../source/satzung/finanzordnung.rst:138
+msgid "Die Studierendenschaft darf keine Kredite aufnehmen"
+msgstr "The student body may not take out loans"
+
+#: ../../source/satzung/finanzordnung.rst:140
+msgid ""
+"Bürgschaften oder Verpflichtungen in Garantieverträgen oder ähnliche "
+"Verträge dürfen nicht übernommen werden."
+msgstr ""
+"Guarantees or obligations in guarantee contracts or similar contracts may"
+" not be assumed."
+
+#: ../../source/satzung/finanzordnung.rst:144
+msgid "siehe |studfvo-10|"
+msgstr "see |studfvo-10|"
+
+#: ../../source/satzung/finanzordnung.rst:149
+msgid "§ 11 -- Zahlungsverkehr"
+msgstr "§ 11 -- Payment transactions"
+
+#: ../../source/satzung/finanzordnung.rst:151
+msgid ""
+"Zahlungsanweisungen sind von dem bzw. der Haushaltsverantwortlichen und "
+"dem Kassenverantwortlichen bzw. der Kassenverantwortlichen zu "
+"unterschreiben."
+msgstr "Payment instructions must be signed by the budget officer and the cashier."
+
+#: ../../source/satzung/finanzordnung.rst:153
+msgid ""
+"Entscheidungen, welche Zahlungsverpflichtungen der Studierendenschaft "
+"oder gegenüber der Studierendenschaft aufheben, begründen, abändern oder "
+"zur Folge haben, werden durch den Studierendenrat mit absoluter Mehrheit "
+"getroffen. Der Studierendenrat kann mit gleicher Mehrheit abweichende "
+"Regelungen für Beträge bis einschließlich 300 EUR treffen. Zahlungen "
+"dürfen nur vorgenommen werden, wenn ein Beschluss des Studierendenrates "
+"vorliegt."
+msgstr ""
+"Decisions which cancel, establish, modify or result in payment "
+"obligations of the student body or towards the student body are made by "
+"the student council with an absolute majority. The Student Council can "
+"make deviating regulations with the same majority for amounts up to and "
+"including 300 EUR. Payments may only be made if a resolution of the "
+"Student Council has been passed."
+
+#: ../../source/satzung/finanzordnung.rst:155
+msgid ""
+"Ausgaben für Verbrauchsmaterial von jeweils bis zu 150,- EUR können "
+"abweichend von Absatz 2 ohne gesonderten Beschluss durch den "
+"Haushaltsverantwortlichen bzw. die Haushaltsverantwortliche getätigt "
+"werden, sofern diese im Haushaltsplan vorgesehen sind. Über derartige "
+"Ausgaben ist auf der nächsten ordentlichen Sitzung des Studierendenrates "
+"zu berichten."
+msgstr ""
+"Expenditures for consumables of up to EUR 150 each may be made by the "
+"budget officer without a separate resolution, in deviation from paragraph"
+" 2, provided that they are provided for in the budget. Such expenditures "
+"are to be reported at the next regular meeting of the Student Council."
+
+#: ../../source/satzung/finanzordnung.rst:157
+msgid ""
+"Alle Buchungen müssen durch Quittungen und Belege belegt werden. "
+"Quittungen und Belege sind fortlaufend zu nummerieren, näheres regelt "
+"|studfvo-12|."
+msgstr ""
+"All bookings must be supported by receipts and vouchers. Receipts and "
+"vouchers are to be numbered consecutively, further details are regulated "
+"by |studfvo-12|."
+
+#: ../../source/satzung/finanzordnung.rst:162
+msgid "§ 12 -- Buchführung, Kassenbuch und Monatsabschlüsse"
+msgstr "§ 12 -- Accounting, cash book and monthly financial statements"
+
+#: ../../source/satzung/finanzordnung.rst:164
+msgid ""
+"Über die Zahlungen ist in zeitlicher Reihenfolge Buch zu führen "
+"(Kassenbuch). Der Nachweis der Zahlungen nach Titeln ist im Kassenbuch "
+"durch Bilden von Monatssummen je Titel zu führen."
+msgstr ""
+"Payments must be recorded in chronological order (cash book). Proof of "
+"payments by title shall be kept in the cash book by forming monthly "
+"totals for each title."
+
+#: ../../source/satzung/finanzordnung.rst:166
+msgid ""
+"Alle Zahlungen sind nach Haushaltsjahren getrennt und für das "
+"Haushaltsjahr zu buchen, in dem sie eingegangen oder geleistet worden "
+"sind."
+msgstr ""
+"All payments shall be recorded separately by financial year and for the "
+"financial year in which they were received or made."
+
+#: ../../source/satzung/finanzordnung.rst:168
+msgid ""
+"In das Kassenbuch sind alle Zahlungen, getrennt nach Einnahmen und "
+"Ausgaben, täglich einzutragen. Näheres regelt |studfvo-14|."
+msgstr ""
+"All payments are to be entered daily in the cash book, separated "
+"according to income and expenditure. Further details are regulated by "
+"|studfvo-14|."
+
+#: ../../source/satzung/finanzordnung.rst:170
+msgid ""
+"Unrichtige Eintragungen im Kassenbuch sind zu streichen und unter neuer "
+"laufender Nummer zu berichtigen."
+msgstr ""
+"Incorrect entries in the cash book must be deleted and corrected under a "
+"new sequential number."
+
+#: ../../source/satzung/finanzordnung.rst:172
+msgid ""
+"Der Kassenverantwortliche führt das Kassenbuch. Er stellt in der Regel "
+"monatlich anhand des Kassenbuchs die Summe der Einnahmen und Ausgaben "
+"fest. Die Differenz zwischen Einnahmen und Ausgaben ergeben den Kassen-"
+"Sollbestand. Der Kassen-Sollbestand soll monatlich mit dem Kassen-"
+"Istbestand, der sich aus dem Guthaben der Girokonten und dem "
+"Bargeldbestand aus der Bargeldkasse sowie unter Berücksichtigung der "
+"Rücklagen ergibt, abgestimmt werden."
+msgstr ""
+"The cashier in charge keeps the cash book. As a rule, he or she "
+"determines the sum of income and expenditure on the basis of the cash "
+"book on a monthly basis. The difference between receipts and expenditures"
+" results in the cash target balance. The cash target balance should be "
+"reconciled monthly with the cash actual balance, which results from the "
+"credit balance of the current accounts and the cash balance from the cash"
+" box, as well as taking into account the reserves."
+
+#: ../../source/satzung/finanzordnung.rst:174
+msgid ""
+"Unstimmigkeiten sind vom Referat Finanzen sofort aufzuklären; dem "
+"Studierendenrat ist darüber ein Sachstandsbericht vorzulegen."
+msgstr ""
+"Discrepancies are to be clarified immediately by the Finance Department; "
+"a status report is to be submitted to the Student Council."
+
+#: ../../source/satzung/finanzordnung.rst:176
+msgid ""
+"Die Verwendung einer elektronischen Buchhaltung ist zulässig, sofern "
+"weiterhin eine vollständige handschriftliche fortlaufende "
+"Zahlungsvorgangsliste für alle Bargeldbestände geführt wird. Die "
+"Zahlungsvorgangsliste beinhaltet wenigstens das Datum der Ein- oder "
+"Auszahlung, den Betrag, den Empfänger und den Verwendungszweck. Absatz 4 "
+"findet sinngemäß Anwendung auf die Zahlungsvorgangsliste. Das Kassenbuch "
+"ist in der Regel monatlich auszudrucken und durch den "
+"Kassenverantwortlichen oder die Kassenverantwortliche abzuzeichnen."
+msgstr ""
+"The use of electronic accounting is permitted, provided that a complete "
+"handwritten consecutive payment transaction list is still maintained for "
+"all cash. The payment transaction list shall include at least the date of"
+" the deposit or withdrawal, the amount, the recipient and the purpose of "
+"the payment. Paragraph 4 shall apply mutatis mutandis to the payment "
+"transaction list. As a rule, the cash book is to be printed out monthly "
+"and signed off by the cash officer or the cash manager."
+
+#: ../../source/satzung/finanzordnung.rst:178
+msgid ""
+"Die bzw. der Haushaltsverantwortliche kann für Abrechnungen Dritter "
+"(beispw. aus Fehlbedarfsfinanzierungen) Formvorschriften verbindlich "
+"vorgeben. Dabei kann zusätzlich auch die elektronische Einreichung von "
+"Belegen gefordert werden."
+msgstr ""
+"The person responsible for the budget can stipulate binding formal "
+"requirements for third-party settlements (e.g. from shortfall financing)."
+" In addition, the electronic submission of documents may be required."
+
+#: ../../source/satzung/finanzordnung.rst:183
+msgid "§ 13 -- Konten und Bargeld"
+msgstr "§ 13 -- Accounts and cash"
+
+#: ../../source/satzung/finanzordnung.rst:185
+msgid ""
+"Der Zahlungsverkehr zur Durchführung der Haushaltspläne der "
+"Studierendenschaft wird in der Regel über ein einziges Konto abgewickelt."
+" Weitere Konten können aus besonderem Anlass auf Grund eines Beschlusses "
+"mit Zweidrittelmehrheit vom Studierendenrat eröffnet und geschlossen "
+"werden."
+msgstr ""
+"Payment transactions for the implementation of the student body's budgets"
+" are generally handled through a single account. Additional accounts may "
+"be opened and closed for special reasons based on a resolution passed by "
+"a two-thirds majority of the Student Council."
+
+#: ../../source/satzung/finanzordnung.rst:187
+msgid "Es wird eine Bargeldkasse geführt."
+msgstr "A cash fund is maintained."
+
+#: ../../source/satzung/finanzordnung.rst:191
+msgid ""
+"Für die maximale Höhe der Bargeldmittel (1000 €, Stand: 29.11.2022) in "
+"der Bargeldkasse siehe |studfvo-12| Abs. 7 Satz 5."
+msgstr ""
+"For the maximum amount of cash (1000 €, as of 29.11.2022) in the cash "
+"fund, see |studfvo-12| para. 7 sentence 5."
+
+#: ../../source/satzung/finanzordnung.rst:196
+msgid "§ 14 -- Finanzausschuss"
+msgstr "§ 14 -- Finance Committee"
+
+#: ../../source/satzung/finanzordnung.rst:198
+msgid ""
+"Der Finanzausschuss besteht aus drei Mitgliedern der Studierendenschaft, "
+"welche keine stimmberechtigten Mitglieder des Studierenderates sind."
+msgstr ""
+"The Finance Committee consists of three members of the student body who "
+"are not voting members of the Student Council."
+
+#: ../../source/satzung/finanzordnung.rst:200
+msgid ""
+"Der Finanzausschuss wird vom Studierendenrat mit einfacher Mehrheit zu "
+"Beginn des Haushaltsjahres für die Dauer eines Haushaltsjahres bestimmt."
+msgstr ""
+"The Finance Committee shall be appointed by the Student Council by simple"
+" majority vote at the beginning of the fiscal year for the duration of "
+"one fiscal year."
+
+#: ../../source/satzung/finanzordnung.rst:202
+msgid ""
+"Der Finanzausschuss ist arbeitsfähig, wenn mindestens zwei seiner "
+"Mitglieder anwesend sind."
+msgstr ""
+"The Finance Committee is operational when at least two of its members are"
+" present."
+
+#: ../../source/satzung/finanzordnung.rst:204
+msgid ""
+"Die Aufgaben des Finanzausschusses sind die Prüfung des aktuellen "
+"Jahresabschlusses sowie regelmäßige Kassenprüfungen im laufenden "
+"Haushaltsjahr. Er gibt dem bzw. der Haushaltsverantwortlichen "
+"Empfehlungen bezüglich der Kassenführung oder des Jahresabschlusses."
+msgstr ""
+"The tasks of the Finance Committee are to audit the current annual "
+"financial statements and to conduct regular cash audits during the "
+"current financial year. It makes recommendations to the person "
+"responsible for the budget regarding cash management or the annual "
+"financial statements."
+
+#: ../../source/satzung/finanzordnung.rst:206
+msgid ""
+"Ist der Finanzausschuss nicht besetzt, werden die Aufgaben nicht "
+"wahrgenommen."
+msgstr "If the Finance Committee is not staffed, the duties are not performed."
+
+#: ../../source/satzung/finanzordnung.rst:211
+msgid "§ 15 -- Jahresabschluss"
+msgstr "§ 15 -- Annual financial statements"
+
+#: ../../source/satzung/finanzordnung.rst:213
+msgid ""
+"Der Haushaltsabschluss ist dem Studierendenrat zur Beschlussfassung "
+"vorzulegen."
+msgstr ""
+"The budget financial statements shall be submitted to the Student Council"
+" for resolution."
+
+#: ../../source/satzung/finanzordnung.rst:215
+msgid "Die Form des Jahresabschlussberichtes regelt |studfvo-15|."
+msgstr "The form of the annual report is regulated by |studfvo-15|."
+
+#: ../../source/satzung/finanzordnung.rst:217
+msgid ""
+"Die zu führenden Bestandsnachweise des Sachvermögens sind gemäß "
+"|studfvo-7| als Anlage dem Jahresabschluss anzufügen."
+msgstr ""
+"Pursuant to |studfvo-7|, the inventory of tangible assets to be "
+"maintained must be attached to the annual financial statements as an "
+"annex."
+
+#: ../../source/satzung/finanzordnung.rst:219
+msgid ""
+"Rechtzeitig vor Ablauf der Amtsperiode des Studierendenrates ist für das "
+"laufende Haushaltsjahr unter Berücksichtigung des Ergebnisses der letzten"
+" Kassenprüfung eine Zwischenabrechnung zu erstellen und vom "
+"Studierendenrat zu beschließen."
+msgstr ""
+"In due time before the end of the term of office of the Student Council, "
+"an interim financial statement shall be prepared for the current "
+"financial year, taking into account the result of the last cash audit, "
+"and shall be adopted by the Student Council."
+
+#: ../../source/satzung/finanzordnung.rst:223
+msgid "zu Fristen und Beschlussfassung siehe |studfvo-15| Abs. 1"
+msgstr "For deadlines and decision-making see |studfvo-15| para. 1"
+
+#: ../../source/satzung/finanzordnung.rst:228
+msgid "§ 16 -- Rechnungsprüfung"
+msgstr "§ 16 -- Audit"
+
+#: ../../source/satzung/finanzordnung.rst:230
+msgid ""
+"Der Jahresabschluss wird vom Finanzausschuss des Studierendenrats und "
+"durch die Hochschulverwaltung der Technischen Universität Ilmenau "
+"geprüft. Kommt der Finanzausschuss seiner Aufgabe innerhalb von 2 Wochen "
+"nicht nach, findet seine Prüfung keine weitere Berücksichtigung."
+msgstr ""
+"The annual financial statement is examined by the Finance Committee of "
+"the Student Council and by the University Administration of the Ilmenau "
+"University of Technology. If the finance committee does not fulfill its "
+"task within 2 weeks, its examination will not be considered further."
+
+#: ../../source/satzung/finanzordnung.rst:232
+msgid "Die Rechnungslegung und -prüfung wird in |studfvo-16| geregelt."
+msgstr "Accounting and auditing is regulated in |studfvo-16|."
+
+#: ../../source/satzung/finanzordnung.rst:237
+msgid "§ 17 -- Entlastung"
+msgstr "§ 17 -- Discharge"
+
+#: ../../source/satzung/finanzordnung.rst:239
+msgid ""
+"Die Entlastung des bzw. der Haushaltsverantwortlichen erteilt der "
+"Studierendenrat unter der Berücksichtigung der Berichte der "
+"Hochschulverwaltung und des Finanzausschusses und der Stellungnahme des "
+"bzw. der Haushaltsverantwortlichen."
+msgstr ""
+"Die Entlastung des bzw. der Haushaltsverantwortlichen erteilt der "
+"Studierendenrat unter der Berücksichtigung der Berichte der "
+"Hochschulverwaltung und des Finanzausschusses und der Stellungnahme des "
+"bzw. der Haushaltsverantwortlichen."
+
+#: ../../source/satzung/finanzordnung.rst:243
+msgid ""
+"Der Beschluss des Studierendenrates über die Entlastung bedarf der "
+"Genehmigung durch den Präsidenten der TU Ilmenau. Der Beschluss ist mit "
+"dem Jahresabschluss sowie den Berichten von Hochschulverwaltung und "
+"Finanzausschuss und der Stellungnahme des bzw. der "
+"Haushaltsverantwortlichen unverzüglich vorzulegen. (vgl. |studfvo-17|)"
+msgstr ""
+"The resolution of the Student Council on the discharge requires the "
+"approval of the President of the TU Ilmenau. The resolution is to be "
+"submitted immediately with the annual financial statements as well as the"
+" reports of the university administration and the finance committee and "
+"the statement of the person(s) responsible for the budget. (cf. "
+"|studfvo-17|)"
+
+#: ../../source/satzung/finanzordnung.rst:248
+msgid "§ 18 -- Veräußerungen von Vermögensgegenständen"
+msgstr "§ 18 -- Disposals of assets"
+
+#: ../../source/satzung/finanzordnung.rst:250
+msgid ""
+"Die Veräußerung von Vermögensgegenständen des Studentenrates erfolgt auf "
+"Beschluss des Studierendenrates."
+msgstr ""
+"Disposition of Student Council assets shall be by resolution of the "
+"Student Council."
+
+#: ../../source/satzung/finanzordnung.rst:252
+msgid "Das Inventar ist dabei entsprechend zu aktualisieren."
+msgstr "The inventory must be updated accordingly."
+
+#: ../../source/satzung/finanzordnung.rst:254
+msgid "Die Bestimmungen der ThürLHO §§8 und 63 finden entsprechend Anwendung."
+msgstr "The provisions of ThürLHO §§8 and 63 apply accordingly."
+
+#: ../../source/satzung/finanzordnung.rst:259
+msgid "§ 19 -- Aufbewahrungsbestimmungen"
+msgstr "§ 19 -- Retention provisions"
+
+#: ../../source/satzung/finanzordnung.rst:261
+msgid ""
+"Alle Bücher, Belege und Vertragsunterlagen sind sicher und geordnet zehn "
+"Jahre nach Genehmigung der Entlastung aufzubewahren."
+msgstr ""
+"All books, vouchers, and contract documents shall be kept in a safe and "
+"orderly manner for ten years after approval of the discharge."
+
+#: ../../source/satzung/finanzordnung.rst:265
+msgid "siehe |studfvo-18|"
+msgstr "see |studfvo-18|"
+
+#: ../../source/satzung/finanzordnung.rst:270
+msgid "§ 20 -- Inkrafttreten"
+msgstr "§ 20 -- Entry into force"
+
+#: ../../source/satzung/finanzordnung.rst:272
+msgid ""
+"Die dritte Änderungssatzung zur Finanzordnung der Studierendenschaft der "
+"Technischen Universität Ilmenau tritt am Tag nach ihrer Veröffentlichung "
+"im Verkündungsblatt der Universität in Kraft. Für die Übergangszeit vom "
+"1. Januar 2022 bis 31. März 2022 ist das Haushaltsjahr 2021 durch "
+"Aufstellung eines Nachtragshaushaltsplans 2021 nach :ref:`§ 5 "
+"<finanzordnung-p5>` sowie |studfvo-5| zu verlängern."
+msgstr ""
+"The third amendment statute to the financial regulations of the student "
+"body of Ilmenau University of Technology comes into force on the day "
+"after its publication in the university's gazette. For the transitional "
+"period from January 1, 2022 to March 31, 2022, the financial year 2021 "
+"shall be extended by drawing up a supplementary budget 2021 according to "
+":ref:`§ 5 <finanzordnung-p5>` as well as |studfvo-5|."

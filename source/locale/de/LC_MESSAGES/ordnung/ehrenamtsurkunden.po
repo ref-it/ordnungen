@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-25 13:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:2
+msgid "Richtlinien zur Vergabe der Ehrenamtsurkunden"
+msgstr ""
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here <https://ordnungen.stura.eu/en/ordnung/ehrenamtsurkunden.html>`_."
+msgstr ""
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:8
+msgid ""
+"Diese Richtlinie gibt vor, wie und in welcher Form die Ehrenamtsurkunden "
+"durch den Studierendenrat vergeben werden."
+msgstr ""
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:12
+msgid "Motivation der Richtlinie"
+msgstr ""
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:14
+msgid ""
+"Die Verleihung von Ehrenamtsurkunden auf den Absolventenfeiern würdigt "
+"ehrenamtliches Engagement unserer Studierenden. Da wir in der glücklichen"
+" Position sind, dass es eine große Vielfalt an ehrenamtlichem Engagement "
+"auf unserem Campus gibt, sind häufig sehr viele der Absolventinnen und "
+"Absolventen in irgendeiner Weise während ihres Studiums ehrenamtlich "
+"aktiv gewesen. Die Ehrung all dieser ehrenamtlich Aktiven würde den "
+"Rahmen der Absolventenfeier überdehnen und den Wert des Auszeichnung "
+"deutlich mindern. Um die Anzahl der zu verleihenden Ehrenamtsurkunden auf"
+" ein angemessenes Maß zu reduzieren, wurde, nach vorheriger Abstimmung "
+"mit den Ilmenauer Vereinen, die vorliegende Richtlinie beschlossen."
+msgstr ""
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:17
+msgid "Ausstellung der Urkunden"
+msgstr ""
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:19
+msgid ""
+"Für alle Studierenden der TU Ilmenau, die sich ehrenamtlich engagiert "
+"haben, besteht grundsätzlich die Möglichkeit eine Ehrenamtsurkunde zu "
+"erhalten. Der Prozess der Erstellung einer Ehrenamtsurkunde wird durch "
+"den jeweiligen Vorstand der beteiligten Organisation (Verein/Gremium) "
+"angestoßen. Die Erstellung übernimmt das Referat Ehrenamt in "
+"Zusammenarbeit mit dem/der studentischen Konsul/in und den betroffenen "
+"Organisationen (Vereinen/Gremien)."
+msgstr ""
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:22
+msgid "Übergabe der Urkunden"
+msgstr ""
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:24
+msgid "Die Urkunde wird durch das Referat Ehrenamt ausgestellt."
+msgstr ""
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:26
+msgid ""
+"Studierende, die sich \"in besonders herausragendem Maße\" ehrenamtlich "
+"engagiert haben, können ihre Urkunde auf ihrer Absolventenfeier durch das"
+" Referat Ehrenamt erhalten. Diese Personen werden auf ihrer "
+"Absolventenfeier namentlich aufgerufen und bekommen ihre Urkunde vom "
+"Referat Ehrenamt überreicht. Studierende, die kein \"Engagement in "
+"besonders herausragendem Maße\" vorweisen können, können ihre Urkunde "
+"zugeschickt bekommen oder im StuRa-Büro abholen."
+msgstr ""
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:28
+msgid "\"Engagement in besonders herausragendem Maße\" wird wie folgt definiert:"
+msgstr ""
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:30
+msgid ""
+"Die Person muss namentlich für ein festes Leitungsamt/eine feste "
+"Verantwortungsposition gewählt bzw. vom Vorstand ernannt gewesen sein. "
+"\"Einfaches\" aktives Engagement reicht folglich nicht."
+msgstr ""
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:31
+msgid ""
+"Im Falle einer sehr zeitaufwendingen Führungs- bzw. Vorstandsposition auf"
+" höchster Ebene der jeweiligen Organisation muss die Person mindestens "
+"eine Legislatur in diesem Amt tätig gewesen sein. Im Falle von "
+"Gremienengagement gehören hierzu gewählte StuRäte, gewählte "
+"Fachschaftsräte oder die EWO-Leitung."
+msgstr ""
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:32
+msgid ""
+"Im Falle eines Leitungsamtes mit etwas geringerer Verantwortung und "
+"weniger Zeitaufwand muss diese Person mindestens zwei Legislaturen tätig "
+"gewesen sein. Über die zwei Legislaturen hinweg können sich die Ämter "
+"unterscheiden. In diese Kategorie fallen z.B. Referatsleiter kleinerer "
+"Referate oder Projektverantwortliche in Vereinen. Nicht in diese "
+"Kategorie fallen z.B. Mitglieder in Studiengangkommissionen, "
+"Prüfungsausschüssen oder Berufungskommissionen."
+msgstr ""
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:35
+msgid "In-Kraft-Treten"
+msgstr ""
+
+#: ../../source/ordnung/ehrenamtsurkunden.rst:37
+msgid ""
+"Diese Richtlinie tritt mit Beschluss des Studierendenrates der TU Ilmenau"
+" vom |beschluss| in Kraft."
+msgstr ""
+
+#~ msgid ""
+#~ "Dies ist die rechtlich bindende deutsche"
+#~ " Version dieser Ordnung. Eine "
+#~ "unverbindliche englischsprachige Übersetzung ist "
+#~ "`hier "
+#~ "<https://ordnungen.stura.eu/en/ordnung/ehrenamtsurkunden.html>`_ "
+#~ "zu finden."
+#~ msgstr ""
+

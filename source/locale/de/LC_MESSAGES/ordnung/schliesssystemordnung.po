@@ -1,0 +1,974 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-15 00:00+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:2
+msgid "Schließsystemordnung"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here "
+"<https://ordnungen.stura.eu/en/ordnung/schliesssystemordnung.html>`_."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:8
+msgid ""
+"Der Studierendenrat der TU Ilmenau (StuRa) verwendet verschiedene "
+"Schließsysteme, mit denen der Zugang zu den Räumlichkeiten des StuRa an "
+"den unterschiedlichen Stellen am Campus und einiger anderer Räume im "
+"A-Keller geregelt wird. Die Schließsysteme dienen dem Zweck, allen "
+"Berechtigten Zugang zu den ihnen zugeordneten Räumen zu gewähren und den "
+"Zugang durch Unberechtigte zu verhindern. Um diesen Zweck zu erreichen, "
+"vergibt der StuRa verschiedene Identifikationsmedien an dazu berechtigte "
+"Personen. Diese Ordnung soll die Vergabe der technischen "
+"Zugangsmöglichkeiten, Identifikationsmedien und die Wartung der "
+"Schließsysteme des StuRa sowie die Berechtigungen regeln."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:13
+msgid "§ 1 -- Anwendungsbereich und Verantwortliche"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:15
+msgid ""
+"Die Schließsystemordnung gilt für alle Türen und Räume mit elektronischem"
+" Schließsystem, die durch den StuRa verwaltet werden. Dazu gehören:"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:17
+msgid "der Keller von Haus A,"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:18
+msgid "der Interclub,"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:19
+msgid "die Räume des Co-Working-Spaces,"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:20
+msgid "Lagerräume."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:22
+msgid ""
+"Die Verwaltung physischer Schlüssel für spezifische StuRa-Tätigkeiten "
+"wird selbstständig durchgeführt und fällt nicht in den Anwendungsbereich "
+"dieser Ordnung. Schlüsselübergabeprotokolle sind zu verwenden."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:23
+msgid ""
+"Die Referate IT und Finanzen des StuRa sind für den Betrieb und die "
+"Wartung des elektronischen Schließsystems nach den Maßgaben dieser "
+"Ordnung verantwortlich. Sie benennen für Aufgaben dieser Ordnung jeweils "
+"eine verantwortliche Person."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:24
+msgid ""
+"Durch diese Referate können Ansprechpartner:innen "
+"(Schließsystembeauftragte) vorgeschlagen werden. Die "
+"Schließsystembeauftragten werden vom StuRa in diese Rolle gewählt und "
+"gelten damit als aktiv im Referat IT. Für kurzfristige Projekte dürfen "
+"durch das Referat IT und das Referat Finanzen für einen begrenzten "
+"Zeitraum weitere Schließsystembeauftragte benannt werden."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:25
+msgid ""
+"An die Schließsystembeauftragten können alle notwendigen Maßnahmen dieser"
+" Ordnung übertragen werden. Insbesondere stellen Sie die technische "
+"Vergabe der Zugänge sicher und dienen als Ansprechpartner:innen innerhalb"
+" des StuRa zu Fragen bezüglich der Schließsysteme."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:30
+msgid ""
+"§ 2 -- Rechte und Pflichten der zuständigen Referate, Verantwortlichen "
+"und Ansprechpartner"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:32
+msgid ""
+"Das Referat IT verantwortet die technische Umsetzung der Schließsysteme. "
+"Dazu gehören"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:34
+msgid ""
+"die Programmierung, Ausgestaltung des Schließsystems und die Auswahl der "
+"zu beschaffenden Identifikationsmedien,"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:35
+msgid ""
+"die Administration der beschlossenen Zutrittsrechte zu den einzelnen "
+"Räumen. Insbesondere ist die Aktivierung und Deaktivierung der jeweiligen"
+" Zugangsberechtigungen bei der Konstituierung neuer Gremien zu beachten "
+"und innerhalb einer Woche umzusetzen."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:36
+msgid "die Bearbeitung der Anträge von Nicht-StuRa-Mitgliedern,"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:37
+msgid ""
+"die Aufstellung einer Liste mit den Ansprechpartner:innen der externen "
+"Organisationen, die an das Schließsystem des StuRa gebunden sind."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:39
+msgid ""
+"Das Referat Finanzen verantwortet die logistische und finanzielle "
+"Umsetzung der Schließsysteme. Dazu gehören"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:41
+msgid ""
+"die Ausgabe und das Einziehen der verwendeten Identifikationsmedien sowie"
+" die Auswahl des geeigneten Identifikationsmediums in vorliegenden "
+"Fällen,"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:42
+msgid ""
+"die Protokollierung des Ein- und Ausgangs sowie des aktuellen Verbleibs "
+"aller Identifikationsmedien,"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:43
+msgid "die Verwaltung aller anfallenden Kautionen."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:45
+msgid ""
+"Die Schließsystembeauftragten sind dazu berechtigt, Identifikationsmedien"
+" einzuziehen und Zugangsrechte zu verwehren oder zu widerrufen, sofern "
+"Identifikationsmedien nicht gemäß dem Zweck ihrer Herausgabe verwendet "
+"werden oder gegen diese Ordnung verstoßen wird. Sie erstatten dem StuRa "
+"über den Vorgang unverzüglich Meldung."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:46
+msgid ""
+"Bei der Nichtwiederbesetzung oder Abschaffung des Referats IT gehen alle "
+"Aufgaben und Rechte vollständig auf das Referat Finanzen über, bis die "
+"Aufgabentrennung wiederhergestellt werden kann."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:47
+msgid ""
+"Die Verantwortlichen haben Aufsicht über die Aufzeichnungen der "
+"Schließsysteme und sind in der Lage Schließbewegungen und verwendete "
+"Identifikationsmedien auszulesen. So soll Diebstahl und unberechtigter "
+"Zugang vermieden werden. Bei Vorliegen einer Strafanzeige kann gegenüber "
+"den Ermittlungsbehörden Auskunft über die Schließbewegungen gegeben "
+"werden."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:52
+msgid "§ 3 -- Berechtigung zum Besitz eines Identifikationsmediums"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:54
+msgid ""
+"Jedes gewählte StuRa-Mitglied ist während seiner Amtszeit berechtigt ein "
+"geeignetes Identifikationsmedium zu besitzen. Nach Ende der Amtszeit "
+"erlischt die Berechtigung zum Besitz eines Identifikationsmediums "
+"automatisch."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:55
+msgid ""
+"StuRa-Angestellte, der:die amtierende studentische Konsul:in, Mitglieder "
+"aller StuRa-Unterorganisationen und Nicht-StuRa-Mitglieder, die als "
+"Referatsleiter:innen oder stellvertretende Referatsleiter:innen gewählt "
+"wurden, haben die Berechtigung ein Identifikationsmedium zu erhalten. "
+"Nach Ende der Amtszeit erlischt die Berechtigung zum Besitz eines "
+"Identifikationsmediums automatisch."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:56
+msgid ""
+"Weitere Organisationen oder Personen können durch Beschluss die "
+"Berechtigung zum Besitz eines Identifikationsmediums erhalten. Folgende "
+"Bestimmungen sind dabei zu beachten:"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:58
+msgid ""
+"Der:die Antragsteller:in muss einen textlichen Antrag beim Referat IT mit"
+" Begründung der Notwendigkeit einer Berechtigung und Dauer dieser "
+"stellen."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:59
+msgid ""
+"Der Antrag soll binnen zwei Wochen durch das Referat IT bearbeitet und "
+"dem StuRa zum Beschluss vorgelegt werden."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:60
+msgid ""
+"Kann der Beschluss der Berechtigung nicht rechtzeitig durch den StuRa "
+"getroffen werden, darf das Referat IT in Rücksprache mit dem Referat "
+"Finanzen vorläufig ein Identifikationsmedium freigeben. Ein auf diesem "
+"Weg vorläufig freigegebenes Identifikationsmedium muss jederzeit und "
+"unverzüglich zurückgerufen oder deaktiviert werden können. Über die "
+"Vergabe des vorläufig freigegebenen Identifikationsmediums muss der StuRa"
+" nächstmöglich einen Beschluss fassen."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:62
+msgid ""
+"In besonderen Fällen regeln die Nutzungsordnungen der jeweiligen Räume "
+"die Zugangsvoraussetzungen, -berechtigungen und -möglichkeiten sowie den "
+"Vergabeprozess der Identifikationsmedien zu diesen. In diesen Fällen "
+"gelten die spezifischen Vorgaben dieser Ordnungen."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:63
+msgid ""
+"Mitglieder externer Organisationen, die an das Schließsystem des StuRa "
+"angebunden sind, können notwendige Identifikationsmedien von ihren "
+"jeweiligen Organisationen erhalten. Voraussetzungen regelt der § 4."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:64
+msgid "Die Berechtigung ist zwischen Personen nicht übertragbar."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:69
+msgid "§ 4 -- Externe Organisationen"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:71
+msgid ""
+"An externe Organisationen, die an das Schließsystem des StuRa angebunden "
+"sind, können eigene Identifikationsmedien mit entsprechenden Zugängen "
+"ausgegeben werden."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:72
+msgid ""
+"Zugangsberechtigungen zu den Räumlichkeiten der externen Organisationen "
+"sind einvernehmlich zwischen der externen Organisation und Referat IT zu "
+"vergeben."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:73
+msgid ""
+"Sie verwalten die an sie ausgegebenen Identifikationsmedien "
+"eigenverantwortlich, sofern diese keinen Zugang zu den Büros des StuRa "
+"ermöglichen."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:74
+msgid ""
+"Davon bleiben die Aufgaben der Verantwortlichen nach § 2 unberührt. Die "
+"Aufzeichnungspflichten nach § 2, Abs. 4 sind sinngemäß auf die externen "
+"Organisationen anzuwenden."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:75
+msgid ""
+"Die externen Organisationen benennen jeweils eine:n Ansprechpartner:in "
+"mit Namen und Anschrift für die Verantwortlichen des StuRa. Im Falle des "
+"Wechsels des:der Ansprechpartner:in ist dies zeitnah dem StuRa "
+"mitzuteilen."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:80
+msgid "§ 5 -- Rechte und Pflichten"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:82
+msgid ""
+"Ein Identifikationsmedium berechtigt zum Zugang zu den zugeordneten "
+"Räumen."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:83
+msgid ""
+"Grundsätzlich ist jedes Identifikationsmedium personengebunden und nicht "
+"übertragbar."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:84
+msgid ""
+"Der:die Besitzer:in eines Identifikationsmediums ist verpflichtet im "
+"Falle von Verlust oder Zerstörung des Identifikationsmediums unverzüglich"
+" das Referat IT zu benachrichtigen. Die zugehörigen Zugänge werden "
+"unverzüglich vom Referat IT deaktiviert."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:85
+msgid ""
+"Der:die Besitzer:in eines Identifikationsmediums muss innerhalb von zwei "
+"Wochen nach Ablauf des vereinbarten Berechtigungszeitraums dem Referat "
+"Finanzen einen Termin zur Rückgabe des Mediums vorschlagen."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:90
+msgid "§ 6 -- Kaution"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:92
+msgid ""
+"Die Übergabe eines Identifikationsmediums darf erst nach der Zahlung "
+"einer Kaution erfolgen."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:93
+msgid ""
+"Die Kaution orientiert sich an der Höhe des Einkaufspreises des "
+"jeweiligen Identifikationsmediums und wird in einer eigenen Kautionsliste"
+" durch das Referat Finanzen dokumentiert."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:94
+msgid ""
+"Die Kaution kann bei Verlust oder Zerstörung des Identifikationsmediums "
+"einbehalten werden."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:95
+msgid ""
+"Bei Rückgabe des unbeschädigten Identifikationsmediums wird die Kaution "
+"ausbezahlt."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:101
+msgid "§ 7 -- Datenschutz"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:103
+msgid ""
+"Die im Zusammenhang mit der Anwendung dieser Ordnung erhobenen "
+"personenbezogenen Daten werden lediglich zum Zweck der Verwaltung der "
+"Zugangsberechtigungen und der in dieser Ordnung definierten Prozesse, wie"
+" Vergabe der Identifikationsmedien verwendet. Grundlage der Verarbeitung "
+"bildet diese Ordnung."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:104
+msgid "Die Schließbewegungen werden maximal ein Jahr lang verarbeitet."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:105
+msgid ""
+"Die Zugangsberechtigungen zu Räumen werden während und bis maximal ein "
+"Jahr nach dem Berechtigungszeitraum verarbeitet. Die "
+"Zugangsberechtigungen von Schließmedien werden Personen zugeordnet."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:106
+msgid ""
+"Für rechnungslegende verarbeitende Tätigkeiten gelten die "
+"Aufbewahrungsfristen der Thüringer Studierendenschaftsfinanzverordnung "
+"(ThürStudFVO)."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:107
+msgid ""
+"Nach Ablauf der Aufbewahrungsfrist werden die gespeicherten Daten DSGVO-"
+"konform vernichtet."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:112
+msgid "§ 8 -- Inkrefttreten"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:114
+msgid ""
+"Diese Ordnung wurde am 23.06.2010 dem StuRa zur Beschlussfassung "
+"vorgelegt und tritt vorbehaltlich redaktioneller Änderungen am 24.06.2010"
+" in Kraft."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:115
+msgid ""
+"Die erste Änderung dieser Ordnung wurde am 16.07.2014 durch den StuRa "
+"beschlossen und tritt am darauffolgenden Tage in Kraft."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:116
+msgid ""
+"Die zweite Änderung dieser Ordnung wurde am 14.02.2024 durch den StuRa "
+"beschlossen und tritt am darauffolgenden Tage in Kraft."
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:121
+msgid "§ 9 -- Anlagen"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:123
+msgid ""
+"Die in dieser Ordnung definierten Anhänge und ergänzende Dokumente sind "
+"zu beachten. Dazu gehören unter anderen:"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:125
+msgid "Schlüsselübergabeprotokoll"
+msgstr ""
+
+#: ../../source/ordnung/schliesssystemordnung.rst:126
+msgid "`Kautionsliste <https://cloud.stura-ilmenau.de/s/bfmwkK5Lbj4RpQ6>`_"
+msgstr ""
+
+#~ msgid ""
+#~ "Mit dem Schließsystem wird der Zugang"
+#~ " zu den Räumlichkeiten des StuRa und"
+#~ " weiterer Räume im A-Keller geregelt. "
+#~ "Sie dient ausschließlich dem Zweck, "
+#~ "allen Berechtigten Zugang zu den "
+#~ "jeweiligen Räumen zu gewähren, Diebstahl "
+#~ "und unberechtigten Zugang zu vermeiden "
+#~ "und bei Vorliegen einer Stafanzeige "
+#~ "gegenüber den Ermittlungsbehörden Auskunft "
+#~ "über die Schließbewegungen geben zu "
+#~ "können."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Dies ist die rechtlich bindende deutsche"
+#~ " Version dieser Ordnung. Eine "
+#~ "unverbindliche englischsprachige Übersetzung ist "
+#~ "`hier "
+#~ "<https://ordnungen.stura.eu/en/ordnung/schliesssystemordnung.html>`_"
+#~ " zu finden."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Mit dem Schließsystem wird der Zugang"
+#~ " zu den Räumlichkeiten des StuRa und"
+#~ " weiterer Räume im A-Keller geregelt. "
+#~ "Sie dient ausschließlich dem Zweck, "
+#~ "allen Berechtigten Zugang zu den "
+#~ "jeweiligen Räumen zu gewähren, Diebstahl "
+#~ "und unberechtigten Zugang zu vermeiden "
+#~ "und bei Vorliegen einer Strafanzeige "
+#~ "gegenüber den Ermittlungsbehörden Auskunft "
+#~ "über die Schließbewegungen geben zu "
+#~ "können."
+#~ msgstr ""
+
+#~ msgid "§ 0 -- Anwendungsbereich"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Diese Ordnung regelt die Aufgaben der"
+#~ " Vergabe der Zugangsbrechtigung und der "
+#~ "Wartung für das Schließsystem des "
+#~ "Studierendenrates der Technischen Universität "
+#~ "Ilmenau auf dem Campus im Haus A."
+#~ " Sie ist Bestandteil der Geschäftsordnung"
+#~ " des StuRa und wird auf Grundlage "
+#~ "der :ref:`Satzung § 9 Abs. 5 "
+#~ "<satzung-studi-p9>` erlassen."
+#~ msgstr ""
+
+#~ msgid "§ 1 -- Verantwortliche"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Das `Referat IT <https://stura.tu-ilmenau.de"
+#~ "/studentische-gremien/referate/it>`_ des "
+#~ "Studierendenrates der Technischen Universität "
+#~ "Ilmenau (StuRa TU Ilmenau) und das "
+#~ "`Referat Finanzen <https://stura.tu-ilmenau.de"
+#~ "/studentische-gremien/referate/finanzen>`_ des StuRa"
+#~ " TU Ilmenau sind für den Betrieb "
+#~ "des Schließsystems nach den Maßgaben "
+#~ "dieser Ordnung verantwortlich."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Sie schlagen jeweils einen Ansprechpartner "
+#~ "vor, der sich um die Aufgaben nach"
+#~ " :ref:`§ 2 <schliesssystemordnung-p2>` kümmert."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Die Ansprechpartner werden dem StuRa "
+#~ "vorgeschlagen und vom StuRa gewählt."
+#~ msgstr ""
+
+#~ msgid "§ 2 -- Rechte und Aufgaben der Verantwortlichen"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Das Referat IT des StuRa TU "
+#~ "Ilmenau hat sich um die Programmierung"
+#~ " und Ausgestaltung des Schließsystems zu"
+#~ " kümmern und administriert nach den "
+#~ "Maßgaben dieser Ordnung die Zutrittsrechte "
+#~ "zu den einzelnen Räumen. Es nimmt "
+#~ "die Anträge von Nicht-StuRa-Mitgliedern"
+#~ " entgegen und bearbeitet diese nach "
+#~ "Maßgabe des :ref:`§ 5 "
+#~ "<schliesssystemordnung-p5>`. Außerdem führt es "
+#~ "eine Liste mit den Ansprechpartnern der"
+#~ " externen Institutionen, die an das "
+#~ "Schließsystem gebunden sind."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Die Ausgabe und das Einziehen der "
+#~ "Transponder wird nach den Maßgaben "
+#~ "dieser Ordnung durch das Referat "
+#~ "Finanzen des StuRa TU Ilmenau "
+#~ "durchgeführt. Es zeichnet den Eingang "
+#~ "und Ausgang sowie den aktuellen Verbleib"
+#~ " von allen Transponder auf und "
+#~ "verwaltet die anfallenden Kautionen. Alle "
+#~ "Unterlagen über den Eingang und Ausgang"
+#~ " von Transponder sowie Kautionen sind "
+#~ "wenigstens bis ein Jahr nach der "
+#~ "Transponderrückgabe aufzubewahren."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Beide Referate sind dazu berechtigt, den"
+#~ " Transponder einzuziehen und Zugangsrechte "
+#~ "zu verwehren, sofern der Transponder "
+#~ "nicht entsprechend den Bestimmungen dieser "
+#~ "Ordnung verwendet wird. Sie erstatten "
+#~ "dem Studierendenrat über den Vorgang "
+#~ "unverzüglich Meldung."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "§ 3 -- Wegfall/Nichtwiederbesetzung des "
+#~ "Referats IT des StuRa TU Ilmenau"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Bei der Nichtwiederbesetzung oder Abschaffung"
+#~ " des Referats IT des StuRa TU "
+#~ "Ilmenau gehen alle Aufgaben und Rechte"
+#~ " nach :ref:`§ 2 <schliesssystemordnung-p2>` "
+#~ "vollständig auf das Referat Finanzen des"
+#~ " StuRa TU Ilmenau über."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Bei Wiederbesetzung oder –einrichtung des "
+#~ "Referats IT des StuRa TU Ilmenau "
+#~ "tritt die Aufgabentrennung nach :ref:`§ "
+#~ "2 <schliesssystemordnung-p2>` wieder in Kraft."
+#~ msgstr ""
+
+#~ msgid "§ 4 -- Externe Institutionen, die an das Schließsystem gebunden sind"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Externe Institutionen, die an das "
+#~ "Schließsystem gebunden sind, verwalten die "
+#~ "an sie ausgegebenen Transponder "
+#~ "eigenverantwortlich. Davon bleiben die "
+#~ "Aufgaben der Verantwortlichen nach :ref:`§ "
+#~ "2 <schliesssystemordnung-p2>` unberührt.  Die "
+#~ "Aufzeichnungspflichten nach :ref:`§ 2 "
+#~ "<schliesssystemordnung-p2>` Abs. 2 sind "
+#~ "sinngemäß auf die externen Institutionen "
+#~ "anzuwenden und sie über die Bestimmungen"
+#~ " zu belehren."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Die externen Institutionen benennen jeweils"
+#~ " einen Ansprechpartner für die "
+#~ "Verantwortlichen des StuRa TU Ilmenau. "
+#~ "Der Ansprechpartner ist dem StuRa mit"
+#~ " Name und Anschrift mitzuteilen. Ebenso "
+#~ "ist auch der Wechsel des "
+#~ "Ansprechpartners zeitnahe dem StuRa "
+#~ "mitzuteilen."
+#~ msgstr ""
+
+#~ msgid "§ 5 -- Transponderberechtigte"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Jedes gewählte StuRa-Mitglied hat "
+#~ "während seiner Amtszeit Anrecht auf "
+#~ "einen Transponder."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Ebenso haben feste StuRa-Angestellte, "
+#~ "der/die amtierende studentische KonsulIn und"
+#~ " Nicht-StuRa-Mitglieder, die als "
+#~ "ReferatsleiterIn oder stellvertretendeR "
+#~ "ReferatsleiterIn gewählt wurden, das Recht "
+#~ "einen Transponder zu erhalten."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Nicht-StuRa-Mitglieder können auf Antrag"
+#~ " einen Transponder erhalten. Näheres dazu"
+#~ " regelt :ref:`§ 6 <schliesssystemordnung-p6>`."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Mitglieder externer Institutionen, die an "
+#~ "das Schließsystem gebunden sind, erhalten "
+#~ ":ref:`§ 4 <schliesssystemordnung-p4>` folgend "
+#~ "ihre Transponder von ihren jeweiligen "
+#~ "Institutionen."
+#~ msgstr ""
+
+#~ msgid "Die Transponderberechtigung ist nicht übertagbar."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "§ 6 -- Verfahren zur Erlangung "
+#~ "eines Transponders für Nicht-StuRa-"
+#~ "Mitglieder"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Der Antragsteller muss einen formellen "
+#~ "schriftlichen Antrag beim Refrat IT mit"
+#~ " Begründung der Notwendigkeit und Dauer "
+#~ "der Nutzung stellen."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Der Antrag wird innerhalb von zwei "
+#~ "Wochen vom Refrat IT bearbeitet und "
+#~ "vom StuRa abgestimmt."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Kann die Zustimmung des StuRa nicht "
+#~ "rechzeitig geholt werden um dem Zweck"
+#~ " der Ausgabe zu erfüllen und liegen"
+#~ " dem Referat IT keine Hinweise darauf"
+#~ " vor, dass die Ausgabe des "
+#~ "Transponders im StuRa umstritten sein "
+#~ "wird, kann das Referat IT ausnahmsweise"
+#~ " einen Transponder freischalten, ohne die"
+#~ " vorherige Zustimmung des StuRas eingeholt"
+#~ " zu haben. Unabhängig davon muss der"
+#~ " Antrag eingereicht werden und bei "
+#~ "der ersten darauffolgenden StuRa Sitzung "
+#~ "abgestimmt werden. Geschieht dies nicht, "
+#~ "muss der Transponder bis zu eine "
+#~ "abschließenden Entscheidung des StuRa "
+#~ "unverzüglich deaktiviert werden."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Wir der Antrag abgelehnt, muss das "
+#~ "Referat IT den Transponder innerhalb von"
+#~ " 24 Stunden deaktivieren."
+#~ msgstr ""
+
+#~ msgid "§ 7 -- Rechte und Pflichten der Transponderbesitzenden"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Der Transponder berechtigt zum Zugang "
+#~ "zum StuRa-Büro, zum A-Keller "
+#~ "(Feuerschutztüren links und rechts von "
+#~ "der Treppe) und zum Kopierraum/Toilette."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Darüber hinaus gehende Rechte sind "
+#~ "zwischen dem Referat IT und den "
+#~ "betroffenen Institutionen (we4you, ISWI e. "
+#~ "V., ILSC e. V.) einvernehmlich zu "
+#~ "klären."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Der Transponder ist personengebunden und "
+#~ "nicht übertragbar, es sei denn, diese"
+#~ " Ordnung bestimmt etwas anderes."
+#~ msgstr ""
+
+#~ msgid "§ 8 -- Kaution"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Die Übergabe erfolgt nach Zahlung einer"
+#~ " Kaution in Höhe von 30 Euro "
+#~ "beim Referat Finanzen."
+#~ msgstr ""
+
+#~ msgid "Bei Rückgabe des Transponders erhält der Besitzer die Kaution zurück."
+#~ msgstr ""
+
+#~ msgid "§ 9 -- Verlust/Zerstörung"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Der Besitzer eines Transponders ist "
+#~ "verpflichtet im Falle von Verlust oder"
+#~ " Zerstörung des Transponders unverzüglich "
+#~ "das Referat IT zu benachrichtigen. Die"
+#~ " zugehörige Transpondernummer muss muss "
+#~ "innerhalb eines Tages vom Refrat IT "
+#~ "deaktiviert werden."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Die Rückgabe der Kaution ist bei "
+#~ "Verlust oder Zerstörung des Transponders  "
+#~ "nicht möglich. Die Kaution wird nicht"
+#~ " zurückerstattet."
+#~ msgstr ""
+
+#~ msgid "§ 10 -- Maximallaufzeit"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Der Besitzer eines Transponders ist "
+#~ "verplichtet, den Transponder innerhalb von "
+#~ "zwei Wochen nach Ablauf der vereinbarten"
+#~ " Zeit abzugeben."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Die vereinbarte Zeit der StuRa "
+#~ "Mitglieder geht mit dem Ausscheiden aus"
+#~ " dem StuRa zu Ende."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Das Referat IT muss innerhalb einer "
+#~ "Woche nach der Konstituierung der neue"
+#~ " Gremien die nicht mehr gültigen "
+#~ "Transpondernummern deaktivieren."
+#~ msgstr ""
+
+#~ msgid "§ 11 -- Schlussbestimmungen"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Diese Ordnung wurde am 23.06.2010 dem"
+#~ " StuRa zur Beschlussfassung vorgelegt und"
+#~ " tritt vorbehaltlich redaktionieller Änderungen"
+#~ " am 24.06.2010 in Kraft."
+#~ msgstr ""
+
+#~ msgid "Geänderte Fassung durch StuRa-Beschluss vom |beschluss|."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Der Studierendenrat der TU Ilmenau "
+#~ "(StuRa) verwendet verschiedene Schließsysteme, "
+#~ "mit denen der Zugang zu den "
+#~ "Räumlichkeiten des StuRas an den "
+#~ "unterschiedlichen Stellen am Campus und "
+#~ "einiger anderer Räume im A-Keller "
+#~ "geregelt wird. Die Schließsysteme dienen "
+#~ "dem Zweck, allen Berechtigten Zugang zu"
+#~ " den ihnen zugeordneten Räumen zu "
+#~ "gewähren und den Zugang durch "
+#~ "Unberechtigte zu verhindern. Um diesen "
+#~ "Zweck zu erreichen, vergibt der StuRa"
+#~ " verschiedene Identifikationsmedien an dazu "
+#~ "berechtigte Personen. Verwendet werden aktuell"
+#~ " verschiedene Schließ- und Identifikationsmedien"
+#~ " der Firma SimonsVoss. Diese Ordnung "
+#~ "soll die Vergabe der technischen "
+#~ "Zugangsmöglichkeiten, Identifikationsmedien und die"
+#~ " Wartung der Schließsysteme des StuRas "
+#~ "sowie die Berechtigungen regeln."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Der Studierendenrat der TU Ilmenau "
+#~ "(StuRa) verwendet verschiedene Schließsysteme, "
+#~ "mit denen der Zugang zu den "
+#~ "Räumlichkeiten des StuRas an den "
+#~ "unterschiedlichen Stellen am Campus und "
+#~ "einiger anderer Räume im A-Keller "
+#~ "geregelt wird. Die Schließsysteme dienen "
+#~ "dem Zweck, allen Berechtigten Zugang zu"
+#~ " den ihnen zugeordneten Räumen zu "
+#~ "gewähren und den Zugang durch "
+#~ "Unberechtigte zu verhindern. Um diesen "
+#~ "Zweck zu erreichen, vergibt der StuRa"
+#~ " verschiedene Identifikationsmedien an dazu "
+#~ "berechtigte Personen. Diese Ordnung soll "
+#~ "die Vergabe der technischen "
+#~ "Zugangsmöglichkeiten, Identifikationsmedien und die"
+#~ " Wartung der Schließsysteme des StuRas "
+#~ "sowie die Berechtigungen regeln."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Das Referat IT des StuRas und das"
+#~ " Referat Finanzen des StuRas sind für"
+#~ " den Betrieb und die Wartung des "
+#~ "elektronischen Schließsystems nach den "
+#~ "Maßgaben dieser Ordnung verantwortlich. Sie"
+#~ " benennen für Aufgaben dieser Ordnung "
+#~ "jeweils eine verantwortliche Person."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "An die Schließsystembeauftragten können alle"
+#~ " notwendigen Maßnahmen dieser Ordnung "
+#~ "übertragen werden. Insbesondere stellen Sie"
+#~ " die technische Vergabe der Zugänge "
+#~ "sicher und dienen als Ansprechpartner:innen"
+#~ " innerhalb des StuRas zu Fragen "
+#~ "bezüglich der Schließsysteme."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "die Aufstellung einer Liste mit den "
+#~ "Ansprechpartner:innen der externen Organisationen,"
+#~ " die an das Schließsystem des StuRas"
+#~ " gebunden sind."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Mitglieder externer Organisationen, die an "
+#~ "das Schließsystem des StuRas angebunden "
+#~ "sind, können notwendige Identifikationsmedien "
+#~ "von ihren jeweiligen Organisationen erhalten."
+#~ " Voraussetzungen regelt der § 4."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "An externe Organisationen, die an das"
+#~ " Schließsystem des StuRas angebunden sind,"
+#~ " können eigene Identifikationsmedien mit "
+#~ "entsprechenden Zugängen ausgegeben werden."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Sie verwalten die an sie ausgegebenen"
+#~ " Identifikationsmedien eigenverantwortlich, sofern "
+#~ "diese keinen Zugang zu den Büros "
+#~ "des StuRas ermöglichen."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Die externen Organisationen benennen jeweils"
+#~ " einen Ansprechpartner mit Namen und "
+#~ "Anschrift für die Verantwortlichen des "
+#~ "StuRas. Im Falle des Wechsels des "
+#~ "Ansprechpartners ist dies zeitnah dem "
+#~ "StuRa mitzuteilen."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Durch diese Referate können Ansprechpartner"
+#~ " (Schließsystembeauftragte) vorgeschlagen werden. "
+#~ "Die Schließsystembeauftragten werden vom StuRa"
+#~ " in diese Rolle gewählt und gelten"
+#~ " damit als aktiv im Referat IT. "
+#~ "Für kurzfristige Projekte dürfen durch "
+#~ "das Referat IT und das Referat "
+#~ "Finanzen für einen begrenzten Zeitraum "
+#~ "weitere Schlüsselverantwortliche benannt werden."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "StuRa-Angestellte, der amtierende studentische"
+#~ " Konsul, Mitglieder aller StuRa-"
+#~ "Unterorganisationen und Nicht-StuRa-"
+#~ "Mitglieder, die als Referatsleiter oder "
+#~ "stellvertretende Referatsleiter gewählt wurden, "
+#~ "haben die Berechtigung ein "
+#~ "Identifikationsmedium zu erhalten. Nach Ende"
+#~ " der Amtszeit erlischt die Berechtigung "
+#~ "zum Besitz eines Identifikationsmediums "
+#~ "automatisch."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Der Antragsteller muss einen textlichen "
+#~ "Antrag beim Referat IT mit Begründung"
+#~ " der Notwendigkeit einer Berechtigung und"
+#~ " Dauer dieser stellen."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Die externen Organisationen benennen jeweils"
+#~ " einen Ansprechpartner mit Namen und "
+#~ "Anschrift für die Verantwortlichen des "
+#~ "StuRa. Im Falle des Wechsels des "
+#~ "Ansprechpartners ist dies zeitnah dem "
+#~ "StuRa mitzuteilen."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Der Besitzer eines Identifikationsmediums ist"
+#~ " verpflichtet im Falle von Verlust "
+#~ "oder Zerstörung des Identifikationsmediums "
+#~ "unverzüglich das Referat IT zu "
+#~ "benachrichtigen. Die zugehörigen Zugänge "
+#~ "werden unverzüglich vom Referat IT "
+#~ "deaktiviert."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Der Besitzer eines Identifikationsmediums muss"
+#~ " innerhalb von zwei Wochen nach "
+#~ "Ablauf des vereinbarten Berechtigungszeitraums "
+#~ "dem Referat Finanzen einen Termin zur"
+#~ " Rückgabe des Mediums vorschlagen."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Das Referat IT des StuRa und das"
+#~ " Referat Finanzen des StuRa sind für"
+#~ " den Betrieb und die Wartung des "
+#~ "elektronischen Schließsystems nach den "
+#~ "Maßgaben dieser Ordnung verantwortlich. Sie"
+#~ " benennen für Aufgaben dieser Ordnung "
+#~ "jeweils eine verantwortliche Person."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Alle Unterlagen über den Ein- und "
+#~ "Ausgang von Identifikationsmedien sowie "
+#~ "Kautionen sind bis mindestens ein Jahr"
+#~ " nach der Rückgabe aufzubewahren."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "StuRa-Angestellte, der amtierende studentische"
+#~ " Konsul, Mitglieder aller StuRa-"
+#~ "Unterorganisationen und Nicht-StuRa-"
+#~ "Mitglieder, die als Referatsleiter:innen oder"
+#~ " stellvertretende Referatsleiter:innen gewählt "
+#~ "wurden, haben die Berechtigung ein "
+#~ "Identifikationsmedium zu erhalten. Nach Ende"
+#~ " der Amtszeit erlischt die Berechtigung "
+#~ "zum Besitz eines Identifikationsmediums "
+#~ "automatisch."
+#~ msgstr ""
+

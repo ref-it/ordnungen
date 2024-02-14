@@ -1,0 +1,212 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-25 13:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:2
+msgid "Interclub-Projektbeschreibung"
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here <https://ordnungen.stura.eu/en/ordnung/interclub-"
+"projektbeschreibung.html>`_."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:8
+msgid "Die Projektbeschreibung hat Satzungscharakter."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:11
+msgid "§ 1 -- Träger des Projekts"
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:13
+msgid ""
+"Der Studentenrat der TU Ilmenau (StuRa) trägt den Interclub in den "
+"Räumlichkeiten des Studentenwerkes Erfurt-Ilmenau im Max-Planck-Ring 6c /"
+" L2x."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:14
+msgid ""
+"Der Interclub wird von verschiedenen studentischen Gruppen regelmäßig zu "
+"öffentlichen, halböffentlichen oder geschlossenen Veranstaltungen "
+"genutzt. Diese Gruppen bilden den Kreis der Aktiven,"
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:15
+msgid ""
+"Nichtstudenten können zu Ehrenaktiven ernannt werden, denen in allen "
+"projektbezogenen Fragen Mitspracherecht eingeräumt wird."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:18
+msgid "§ 2 -- Ziele des Projekts"
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:20
+msgid ""
+"Oberstes Anliegen ist Gewaltfreiheit und Toleranz untereinander und allen"
+" gegenüber, die sich ebenfalls diesen Sittengesetzen verpflichtet fühlen."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:21
+msgid ""
+"Die Räumlichkeiten sollen eine zwanglose interkulturelle Begegnungsstätte"
+" bieten. Der Interclub kann nicht sinnvoll eine Club- oder "
+"Vereinsstruktur im engeren Sinne haben, sondern will ein offener Verband "
+"für Aktivitäten sein. Kommerzielle Ziele werden nicht verfolgt. Ziele der"
+" persönlichen finanziellen Bereicherung dürfen nicht verfolgt werden."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:22
+msgid ""
+"Der Interclub soll bewusst einen Ort bieten, wo sich Interessierte "
+"treffen können, denen das aufgrund spezifischer kultureller Anforderungen"
+" oder aufgrund der Wohnsituation in anderen Räumlichkeiten nicht möglich "
+"ist."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:23
+msgid ""
+"Das Projekt will die Universität in ihrem Ziel, die Anzahl ausländischer "
+"Studierender zu erhöhen, auf der studentenkulturellen Seite unterstützen."
+" Eine Zusammenarbeit mit dem Studentenwerk Erfurt-Ilmenau, der KuKo e. "
+"V., ISWI e. V. und dem Studentenclub e. V. wird angestrebt. Einer "
+"Zusammenarbeit mit den örtlichen Schulen, der Volkshochschule sowie der "
+"Stadt Ilmenau gegenüber steht es offen, wenn die Aktiven diese im "
+"Einzelfall mittragen wollen."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:24
+msgid ""
+"Das Projekt ist abgeschlossen, wenn sich für länger als ein Semester "
+"keine Aktiven mehr finden, die es eigenständig beleben wollen oder "
+"können."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:27
+msgid "§ 3 -- Inhalte"
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:29
+msgid ""
+"Der Interclub hat keine regelmäßige eigenständige Öffnung. Den Aktiven "
+"steht der Club zur Nutzung für ihre Aktivitäten grundsätzlich immer zur "
+"Verfügung."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:30
+msgid "Es sollen Länderabende mit spezifischer kultureller Prägung stattfinden."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:31
+msgid ""
+"Es sollen Sprachkreise zwischen fremdsprachigen und muttersprachlichen "
+"Studierenden stattfinden."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:32
+msgid ""
+"Die Räume stehen für Vorträge, Diskussionsrunden oder Videoabende "
+"interkultureller oder gemeinschaftsbildender Natur offen."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:33
+msgid ""
+"Bei Bedarf stehen die Räume für Beratungsrunden und formlosen Treffen "
+"gemäß § 2 Absatz 3 offen."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:34
+msgid ""
+"In Ausnahmefällen werden die Räume für Privatveranstaltungen zur "
+"Verfügung gestellt. Darüber entscheidet der StuRa oder die aktiven "
+"Gruppen."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:37
+msgid "§ 4 -- Durchführungsbestimmungen"
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:39
+msgid ""
+"Aktive Gruppen und benannte Hauptansprechpartner werden vom StuRa auf "
+"formlosen Antrag mit einfacher Mehrheit bestätigt. Die "
+"Hauptansprechpartner stellen ihren Antrag dem StuRa auf einer "
+"ordentlichen Sitzung persönlich vor. Sie berichten dem StuRa und sind ihm"
+" grundsätzlich rechenschaftspflichtig. Kommt es zu begründeten "
+"Beschwerden, kann das Nutzungsrecht auf Antrag vorübergehend oder "
+"dauerhaft entzogen werden."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:40
+msgid ""
+"Die benannten Hauptansprechpartner der aktiven Gruppen müssen zu Beginn "
+"jedes Semesters bestätigt werden. Dazu wird eine gesonderte Sitzung "
+"einberufen. Diese soll auch Arbeitsgruppen aus dem Kreis der Aktiven zur "
+"längerfristigen Planung von Aktivitäten einschließlich "
+"Renovierungsvorhaben sowie zur Öffentlichkeitsarbeit bezogen auf die "
+"Marke Interclub installieren."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:41
+msgid ""
+"Die Geschäftsführung des StuRa verwaltet einen Terminplan sowie die "
+"zeitweise Übertragung des Hausrechts, insbesondere auch die Vergabe von "
+"Schlüsseln."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:42
+msgid "In Streitfällen vermittelt der StuRa."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:43
+msgid ""
+"Der StuRa verwaltet und trägt die Mittel zur Kommunikation des "
+"Interclubs. Dazu gehört eine Mailingliste für die interne Kommunikation "
+"sowie direkte oder gelinkte Präsenz der aktiven Gruppen im WWW-Angebot "
+"des StuRa."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:44
+msgid "Für das Projekt Interclub wird eine eigene Kostenstelle geführt."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:45
+msgid ""
+"Näheres wird durch die :doc:`Nutzungsordnung <interclub-nutzungsordnung>`"
+" festgelegt."
+msgstr ""
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:49
+msgid "Beschlossen vom Studentenrat der TU Ilmenau am 22.11.2000"
+msgstr ""
+
+#~ msgid ""
+#~ "Dies ist die rechtlich bindende deutsche"
+#~ " Version dieser Ordnung. Eine "
+#~ "unverbindliche englischsprachige Übersetzung ist "
+#~ "`hier <https://ordnungen.stura.eu/en/ordnung/interclub-"
+#~ "projektbeschreibung.html>`_ zu finden."
+#~ msgstr ""
+

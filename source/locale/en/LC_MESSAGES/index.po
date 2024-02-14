@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-25 13:44+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/index.rst:8
+msgid "Satzung der Studierendenschaft"
+msgstr "Statutes of the Student Body"
+
+#: ../../source/index.rst:17
+msgid "Weitere Satzungen"
+msgstr "Other Statutes"
+
+#: ../../source/index.rst:24
+msgid "StuRa-Ordnungen"
+msgstr "StuRa Regulations"
+
+#: ../../source/index.rst:33
+msgid "Ehrenamt"
+msgstr "Voluntary Work"
+
+#: ../../source/index.rst:40
+msgid "Finanzen"
+msgstr "Finance"
+
+#: ../../source/index.rst:48
+msgid "Interclub"
+msgstr ""
+
+#: ../../source/index.rst:2
+msgid "Ordnungen"
+msgstr "Regulations"
+
+#: ../../source/index.rst:4
+msgid "|german| |nbsp| |nbsp| |middot| |nbsp| |nbsp| |english|"
+msgstr ""
+
+#: ../../source/index.rst:6
+msgid ""
+"Auf dieser Website werden die Satzung der Studierendenschaft der "
+"Technischen Universität Ilmenau und die Ordnungen des Studierendenrates "
+"veröffentlicht."
+msgstr ""
+"The statutes of the student body of the Ilmenau University of Technology "
+"and the regulations of the student council are published on this website."
+
+#~ msgid ""
+#~ "`DE <https://ordnungen.stura.eu/>`_ |nbsp| |nbsp|"
+#~ " |middot| |nbsp| |nbsp| `EN "
+#~ "<https://ordnungen.stura.eu/en/>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`|german| <https://ordnungen.stura.eu/>`_ |nbsp| "
+#~ "|nbsp| |middot| |nbsp| |nbsp| `|english| "
+#~ "<https://ordnungen.stura.eu/en/>`_"
+#~ msgstr ""
+
+#~ msgid "|german||nbsp| |nbsp| |middot| |nbsp| |nbsp| |english|"
+#~ msgstr ""
+

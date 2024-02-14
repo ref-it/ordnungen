@@ -1,0 +1,491 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-02-15 00:00+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:2
+msgid "Schließsystemordnung"
+msgstr "Locking System Regulations"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here "
+"<https://ordnungen.stura.eu/en/ordnung/schliesssystemordnung.html>`_."
+msgstr "This is a translation of the original text. Only the `German version of this regulation <https://ordnungen.stura.eu/ordnung/schliesssystemordnung.html>`_ is legally binding."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:8
+msgid ""
+"Der Studierendenrat der TU Ilmenau (StuRa) verwendet verschiedene "
+"Schließsysteme, mit denen der Zugang zu den Räumlichkeiten des StuRa an "
+"den unterschiedlichen Stellen am Campus und einiger anderer Räume im "
+"A-Keller geregelt wird. Die Schließsysteme dienen dem Zweck, allen "
+"Berechtigten Zugang zu den ihnen zugeordneten Räumen zu gewähren und den "
+"Zugang durch Unberechtigte zu verhindern. Um diesen Zweck zu erreichen, "
+"vergibt der StuRa verschiedene Identifikationsmedien an dazu berechtigte "
+"Personen. Diese Ordnung soll die Vergabe der technischen "
+"Zugangsmöglichkeiten, Identifikationsmedien und die Wartung der "
+"Schließsysteme des StuRa sowie die Berechtigungen regeln."
+msgstr "The TU Ilmenau Student Council (StuRa) uses various locking systems to control access to the StuRa premises at various locations on campus and some other rooms in the A basement. The purpose of the locking systems is to grant all authorized persons access to the rooms assigned to them and to prevent access by unauthorized persons. In order to achieve this purpose, the StuRa assigns various identification media to authorized persons. These regulations are intended to regulate the allocation of technical access options, identification media and the maintenance of the StuRa locking systems as well as the authorizations."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:13
+msgid "§ 1 -- Anwendungsbereich und Verantwortliche"
+msgstr "§ 1 -- Scope of application and responsible parties"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:15
+msgid ""
+"Die Schließsystemordnung gilt für alle Türen und Räume mit elektronischem"
+" Schließsystem, die durch den StuRa verwaltet werden. Dazu gehören:"
+msgstr ""
+"The locking system regulations apply to all doors and rooms with an "
+"electronic locking system that are managed by the StuRa. This includes"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:17
+msgid "der Keller von Haus A,"
+msgstr "the cellar of house A,"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:18
+msgid "der Interclub,"
+msgstr "the Interclub,"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:19
+msgid "die Räume des Co-Working-Spaces,"
+msgstr "the rooms of the co-working space,"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:20
+msgid "Lagerräume."
+msgstr "storage rooms"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:22
+msgid ""
+"Die Verwaltung physischer Schlüssel für spezifische StuRa-Tätigkeiten "
+"wird selbstständig durchgeführt und fällt nicht in den Anwendungsbereich "
+"dieser Ordnung. Schlüsselübergabeprotokolle sind zu verwenden."
+msgstr ""
+"The administration of physical keys for specific StuRa activities is "
+"carried out independently and does not fall within the scope of these "
+"regulations. Key handover protocols are to be used."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:23
+msgid ""
+"Die Referate IT und Finanzen des StuRa sind für den Betrieb und die "
+"Wartung des elektronischen Schließsystems nach den Maßgaben dieser "
+"Ordnung verantwortlich. Sie benennen für Aufgaben dieser Ordnung jeweils "
+"eine verantwortliche Person."
+msgstr ""
+"The IT and Finance departments of the StuRa are responsible for the "
+"operation and maintenance of the electronic locking system in accordance "
+"with the provisions of these regulations. They each appoint a person "
+"responsible for the tasks in these regulations."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:24
+msgid ""
+"Durch diese Referate können Ansprechpartner:innen "
+"(Schließsystembeauftragte) vorgeschlagen werden. Die "
+"Schließsystembeauftragten werden vom StuRa in diese Rolle gewählt und "
+"gelten damit als aktiv im Referat IT. Für kurzfristige Projekte dürfen "
+"durch das Referat IT und das Referat Finanzen für einen begrenzten "
+"Zeitraum weitere Schließsystembeauftragte benannt werden."
+msgstr ""
+"Contact persons (locking system representatives) can be proposed by these"
+" departments. The locking system representatives are elected to this role"
+" by the StuRa and are therefore considered active in the IT department. "
+"For short-term projects, the IT department and the Finance department may"
+" nominate additional locking system representatives for a limited period "
+"of time."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:25
+msgid ""
+"An die Schließsystembeauftragten können alle notwendigen Maßnahmen dieser"
+" Ordnung übertragen werden. Insbesondere stellen Sie die technische "
+"Vergabe der Zugänge sicher und dienen als Ansprechpartner:innen innerhalb"
+" des StuRa zu Fragen bezüglich der Schließsysteme."
+msgstr ""
+"All necessary measures of these regulations can be transferred to the "
+"locking system officers. In particular, they ensure the technical "
+"allocation of access and serve as contact persons within the StuRa for "
+"questions regarding the locking systems."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:30
+msgid ""
+"§ 2 -- Rechte und Pflichten der zuständigen Referate, Verantwortlichen "
+"und Ansprechpartner"
+msgstr ""
+"§ 2 -- Rights and duties of the responsible departments, managers and "
+"contact persons"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:32
+msgid ""
+"Das Referat IT verantwortet die technische Umsetzung der Schließsysteme. "
+"Dazu gehören"
+msgstr ""
+"The IT department is responsible for the technical implementation of the "
+"locking systems. This includes"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:34
+msgid ""
+"die Programmierung, Ausgestaltung des Schließsystems und die Auswahl der "
+"zu beschaffenden Identifikationsmedien,"
+msgstr ""
+"the programming and design of the locking system and the selection of the"
+" identification media to be procured,"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:35
+msgid ""
+"die Administration der beschlossenen Zutrittsrechte zu den einzelnen "
+"Räumen. Insbesondere ist die Aktivierung und Deaktivierung der jeweiligen"
+" Zugangsberechtigungen bei der Konstituierung neuer Gremien zu beachten "
+"und innerhalb einer Woche umzusetzen."
+msgstr ""
+"the administration of the agreed access rights to the individual rooms. "
+"In particular, the activation and deactivation of the respective access "
+"authorizations must be observed when constituting new committees and "
+"implemented within one week."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:36
+msgid "die Bearbeitung der Anträge von Nicht-StuRa-Mitgliedern,"
+msgstr "the processing of applications from non-StuRa members,"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:37
+msgid ""
+"die Aufstellung einer Liste mit den Ansprechpartner:innen der externen "
+"Organisationen, die an das Schließsystem des StuRa gebunden sind."
+msgstr ""
+"the compilation of a list with the contact persons of the external "
+"organizations that are bound to the StuRa locking system."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:39
+msgid ""
+"Das Referat Finanzen verantwortet die logistische und finanzielle "
+"Umsetzung der Schließsysteme. Dazu gehören"
+msgstr ""
+"The Finance department is responsible for the logistical and financial "
+"implementation of the locking systems. This includes"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:41
+msgid ""
+"die Ausgabe und das Einziehen der verwendeten Identifikationsmedien sowie"
+" die Auswahl des geeigneten Identifikationsmediums in vorliegenden "
+"Fällen,"
+msgstr ""
+"the issue and collection of the identification media used and the "
+"selection of the appropriate identification medium in existing cases,"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:42
+msgid ""
+"die Protokollierung des Ein- und Ausgangs sowie des aktuellen Verbleibs "
+"aller Identifikationsmedien,"
+msgstr ""
+"the logging of incoming and outgoing goods as well as the current "
+"whereabouts of all identification media,"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:43
+msgid "die Verwaltung aller anfallenden Kautionen."
+msgstr "the administration of all deposits."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:45
+msgid ""
+"Die Schließsystembeauftragten sind dazu berechtigt, Identifikationsmedien"
+" einzuziehen und Zugangsrechte zu verwehren oder zu widerrufen, sofern "
+"Identifikationsmedien nicht gemäß dem Zweck ihrer Herausgabe verwendet "
+"werden oder gegen diese Ordnung verstoßen wird. Sie erstatten dem StuRa "
+"über den Vorgang unverzüglich Meldung."
+msgstr ""
+"The locking system officers are authorized to confiscate identification "
+"media and to deny or revoke access rights if identification media are not"
+" used in accordance with the purpose for which they were issued or if "
+"these regulations are violated. They must report the incident to the "
+"StuRa immediately."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:46
+msgid ""
+"Bei der Nichtwiederbesetzung oder Abschaffung des Referats IT gehen alle "
+"Aufgaben und Rechte vollständig auf das Referat Finanzen über, bis die "
+"Aufgabentrennung wiederhergestellt werden kann."
+msgstr ""
+"If the IT unit is not reappointed or is abolished, all duties and rights "
+"are transferred in full to the Finance unit until the separation of "
+"duties can be restored."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:47
+msgid ""
+"Die Verantwortlichen haben Aufsicht über die Aufzeichnungen der "
+"Schließsysteme und sind in der Lage Schließbewegungen und verwendete "
+"Identifikationsmedien auszulesen. So soll Diebstahl und unberechtigter "
+"Zugang vermieden werden. Bei Vorliegen einer Strafanzeige kann gegenüber "
+"den Ermittlungsbehörden Auskunft über die Schließbewegungen gegeben "
+"werden."
+msgstr ""
+"The persons responsible monitor the locking system records and are able "
+"to read locking movements and the identification media used. This is to "
+"prevent theft and unauthorized access. In the event of a criminal "
+"complaint, information about the locking movements can be provided to the"
+" investigating authorities."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:52
+msgid "§ 3 -- Berechtigung zum Besitz eines Identifikationsmediums"
+msgstr "§ 3 -- Authorization to possess an identification medium"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:54
+msgid ""
+"Jedes gewählte StuRa-Mitglied ist während seiner Amtszeit berechtigt ein "
+"geeignetes Identifikationsmedium zu besitzen. Nach Ende der Amtszeit "
+"erlischt die Berechtigung zum Besitz eines Identifikationsmediums "
+"automatisch."
+msgstr ""
+"Every elected StuRa member is entitled to possess a suitable "
+"identification medium during their term of office. After the end of the "
+"term of office, the authorization to possess an identification medium "
+"expires automatically."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:55
+msgid ""
+"StuRa-Angestellte, der:die amtierende studentische Konsul:in, Mitglieder "
+"aller StuRa-Unterorganisationen und Nicht-StuRa-Mitglieder, die als "
+"Referatsleiter:innen oder stellvertretende Referatsleiter:innen gewählt "
+"wurden, haben die Berechtigung ein Identifikationsmedium zu erhalten. "
+"Nach Ende der Amtszeit erlischt die Berechtigung zum Besitz eines "
+"Identifikationsmediums automatisch."
+msgstr "StuRa employees, the current student consul, members of all StuRa sub-organizations and non-StuRa members who have been elected as heads of unit or deputy heads of unit are entitled to receive an identification medium. After the end of the term of office, the authorization to possess an identification medium expires automatically."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:56
+msgid ""
+"Weitere Organisationen oder Personen können durch Beschluss die "
+"Berechtigung zum Besitz eines Identifikationsmediums erhalten. Folgende "
+"Bestimmungen sind dabei zu beachten:"
+msgstr "Other organizations or persons may be authorized to possess an identification medium by resolution. The following provisions must be observed:"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:58
+msgid ""
+"Der:die Antragsteller:in muss einen textlichen Antrag beim Referat IT mit"
+" Begründung der Notwendigkeit einer Berechtigung und Dauer dieser "
+"stellen."
+msgstr "The applicant must submit a written application to the IT department stating the need for authorization and its duration."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:59
+msgid ""
+"Der Antrag soll binnen zwei Wochen durch das Referat IT bearbeitet und "
+"dem StuRa zum Beschluss vorgelegt werden."
+msgstr "The application should be processed by the IT department within two weeks and submitted to the StuRa for a decision."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:60
+msgid ""
+"Kann der Beschluss der Berechtigung nicht rechtzeitig durch den StuRa "
+"getroffen werden, darf das Referat IT in Rücksprache mit dem Referat "
+"Finanzen vorläufig ein Identifikationsmedium freigeben. Ein auf diesem "
+"Weg vorläufig freigegebenes Identifikationsmedium muss jederzeit und "
+"unverzüglich zurückgerufen oder deaktiviert werden können. Über die "
+"Vergabe des vorläufig freigegebenen Identifikationsmediums muss der StuRa"
+" nächstmöglich einen Beschluss fassen."
+msgstr "If the StuRa cannot decide on the authorization in time, the IT department may provisionally release an identification medium in consultation with the Finance department. It must be possible to recall or deactivate an identification medium that has been provisionally released in this way at any time and without delay. The StuRa must pass a resolution on the allocation of the provisionally released identification medium as soon as possible."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:62
+msgid ""
+"In besonderen Fällen regeln die Nutzungsordnungen der jeweiligen Räume "
+"die Zugangsvoraussetzungen, -berechtigungen und -möglichkeiten sowie den "
+"Vergabeprozess der Identifikationsmedien zu diesen. In diesen Fällen "
+"gelten die spezifischen Vorgaben dieser Ordnungen."
+msgstr "In special cases, the usage regulations of the respective rooms regulate the access requirements, authorizations and possibilities as well as the allocation process of the identification media for these. In these cases, the specific requirements of these regulations apply."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:63
+msgid ""
+"Mitglieder externer Organisationen, die an das Schließsystem des StuRa "
+"angebunden sind, können notwendige Identifikationsmedien von ihren "
+"jeweiligen Organisationen erhalten. Voraussetzungen regelt der § 4."
+msgstr "Members of external organizations that are connected to the StuRa locking system can receive the necessary identification media from their respective organizations. Requirements are regulated in § 4."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:64
+msgid "Die Berechtigung ist zwischen Personen nicht übertragbar."
+msgstr "The authorization is not transferable between persons."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:69
+msgid "§ 4 -- Externe Organisationen"
+msgstr "§ 4 -- External organizations"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:71
+msgid ""
+"An externe Organisationen, die an das Schließsystem des StuRa angebunden "
+"sind, können eigene Identifikationsmedien mit entsprechenden Zugängen "
+"ausgegeben werden."
+msgstr "External organizations that are connected to the StuRa locking system can be issued their own identification media with corresponding accesses."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:72
+msgid ""
+"Zugangsberechtigungen zu den Räumlichkeiten der externen Organisationen "
+"sind einvernehmlich zwischen der externen Organisation und Referat IT zu "
+"vergeben."
+msgstr "Access rights to the premises of external organizations must be assigned by mutual agreement between the external organization and the IT department."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:73
+msgid ""
+"Sie verwalten die an sie ausgegebenen Identifikationsmedien "
+"eigenverantwortlich, sofern diese keinen Zugang zu den Büros des StuRa "
+"ermöglichen."
+msgstr "They are responsible for managing the identification media issued to them, unless they allow access to the StuRa offices."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:74
+msgid ""
+"Davon bleiben die Aufgaben der Verantwortlichen nach § 2 unberührt. Die "
+"Aufzeichnungspflichten nach § 2, Abs. 4 sind sinngemäß auf die externen "
+"Organisationen anzuwenden."
+msgstr "This does not affect the duties of the responsible persons in accordance with § 2. The recording obligations pursuant to § 2, para. 4 shall apply mutatis mutandis to the external organizations."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:75
+msgid ""
+"Die externen Organisationen benennen jeweils eine:n Ansprechpartner:in "
+"mit Namen und Anschrift für die Verantwortlichen des StuRa. Im Falle des "
+"Wechsels des:der Ansprechpartner:in ist dies zeitnah dem StuRa "
+"mitzuteilen."
+msgstr "The external organizations each appoint a contact person with name and address for those responsible at StuRa. In the event of a change of contact person, the StuRa must be informed promptly."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:80
+msgid "§ 5 -- Rechte und Pflichten"
+msgstr "§ 5 -- Rights and obligations"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:82
+msgid ""
+"Ein Identifikationsmedium berechtigt zum Zugang zu den zugeordneten "
+"Räumen."
+msgstr "An identification medium authorizes access to the assigned rooms."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:83
+msgid ""
+"Grundsätzlich ist jedes Identifikationsmedium personengebunden und nicht "
+"übertragbar."
+msgstr "In principle, every identification medium is personal and non-transferable."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:84
+msgid ""
+"Der:die Besitzer:in eines Identifikationsmediums ist verpflichtet im "
+"Falle von Verlust oder Zerstörung des Identifikationsmediums unverzüglich"
+" das Referat IT zu benachrichtigen. Die zugehörigen Zugänge werden "
+"unverzüglich vom Referat IT deaktiviert."
+msgstr "The owner of an identification medium is obliged to inform the IT department immediately in the event of loss or destruction of the identification medium. The corresponding accesses will be deactivated immediately by the IT department."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:85
+msgid ""
+"Der:die Besitzer:in eines Identifikationsmediums muss innerhalb von zwei "
+"Wochen nach Ablauf des vereinbarten Berechtigungszeitraums dem Referat "
+"Finanzen einen Termin zur Rückgabe des Mediums vorschlagen."
+msgstr "The owner of an identification medium must propose a date for the return of the medium to the Finance Department within two weeks of the expiry of the agreed authorization period."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:90
+msgid "§ 6 -- Kaution"
+msgstr "§ 6 -- Deposit"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:92
+msgid ""
+"Die Übergabe eines Identifikationsmediums darf erst nach der Zahlung "
+"einer Kaution erfolgen."
+msgstr "An identification medium may only be handed over after a deposit has been paid."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:93
+msgid ""
+"Die Kaution orientiert sich an der Höhe des Einkaufspreises des "
+"jeweiligen Identifikationsmediums und wird in einer eigenen Kautionsliste"
+" durch das Referat Finanzen dokumentiert."
+msgstr "The deposit is based on the purchase price of the respective identification medium and is documented in a separate deposit list by the Finance Department."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:94
+msgid ""
+"Die Kaution kann bei Verlust oder Zerstörung des Identifikationsmediums "
+"einbehalten werden."
+msgstr "The deposit may be retained if the identification medium is lost or destroyed."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:95
+msgid ""
+"Bei Rückgabe des unbeschädigten Identifikationsmediums wird die Kaution "
+"ausbezahlt."
+msgstr "The deposit will be refunded upon return of the undamaged identification medium."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:101
+msgid "§ 7 -- Datenschutz"
+msgstr "§ 7 -- Data protection"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:103
+msgid ""
+"Die im Zusammenhang mit der Anwendung dieser Ordnung erhobenen "
+"personenbezogenen Daten werden lediglich zum Zweck der Verwaltung der "
+"Zugangsberechtigungen und der in dieser Ordnung definierten Prozesse, wie"
+" Vergabe der Identifikationsmedien verwendet. Grundlage der Verarbeitung "
+"bildet diese Ordnung."
+msgstr "The personal data collected in connection with the application of these regulations is used solely for the purpose of managing access authorizations and the processes defined in these regulations, such as the allocation of identification media. Processing is based on these regulations."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:104
+msgid "Die Schließbewegungen werden maximal ein Jahr lang verarbeitet."
+msgstr "The closing movements are processed for a maximum of one year."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:105
+msgid ""
+"Die Zugangsberechtigungen zu Räumen werden während und bis maximal ein "
+"Jahr nach dem Berechtigungszeitraum verarbeitet. Die "
+"Zugangsberechtigungen von Schließmedien werden Personen zugeordnet."
+msgstr "Access authorizations to rooms are processed during and up to a maximum of one year after the authorization period. Access authorizations for locking media are assigned to persons."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:106
+msgid ""
+"Für rechnungslegende verarbeitende Tätigkeiten gelten die "
+"Aufbewahrungsfristen der Thüringer Studierendenschaftsfinanzverordnung "
+"(ThürStudFVO)."
+msgstr "The retention periods of the Thüringer Studierendenschaftsfinanzverordnung (ThürStudFVO) apply to accounting processing activities."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:107
+msgid ""
+"Nach Ablauf der Aufbewahrungsfrist werden die gespeicherten Daten DSGVO-"
+"konform vernichtet."
+msgstr "After the retention period has expired, the stored data is destroyed in accordance with the GDPR."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:112
+msgid "§ 8 -- Inkrefttreten"
+msgstr "§ 8 -- Entry into force"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:114
+msgid ""
+"Diese Ordnung wurde am 23.06.2010 dem StuRa zur Beschlussfassung "
+"vorgelegt und tritt vorbehaltlich redaktioneller Änderungen am 24.06.2010"
+" in Kraft."
+msgstr "These regulations were submitted to the StuRa for approval on June 23, 2010 and will enter into force on June 24, 2010, subject to editorial changes."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:115
+msgid ""
+"Die erste Änderung dieser Ordnung wurde am 16.07.2014 durch den StuRa "
+"beschlossen und tritt am darauffolgenden Tage in Kraft."
+msgstr "The first amendment to these regulations was adopted by the StuRa on July 16, 2014 and comes into force on the following day."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:116
+msgid ""
+"Die zweite Änderung dieser Ordnung wurde am 14.02.2024 durch den StuRa "
+"beschlossen und tritt am darauffolgenden Tage in Kraft."
+msgstr "The second amendment to these regulations was adopted by the StuRa on February 14, 2024 and comes into force on the following day."
+
+#: ../../source/ordnung/schliesssystemordnung.rst:121
+msgid "§ 9 -- Anlagen"
+msgstr "§ 9 -- Attachments"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:123
+msgid ""
+"Die in dieser Ordnung definierten Anhänge und ergänzende Dokumente sind "
+"zu beachten. Dazu gehören unter anderen:"
+msgstr "The annexes and supplementary documents defined in these regulations must be observed. These include, among others:"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:125
+msgid "Schlüsselübergabeprotokoll"
+msgstr "Key handover protocol"
+
+#: ../../source/ordnung/schliesssystemordnung.rst:126
+msgid "`Kautionsliste <https://cloud.stura-ilmenau.de/s/bfmwkK5Lbj4RpQ6>`_"
+msgstr "`Deposit list <https://cloud.stura-ilmenau.de/s/bfmwkK5Lbj4RpQ6>`_"

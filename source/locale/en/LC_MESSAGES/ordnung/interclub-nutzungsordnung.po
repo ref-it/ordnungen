@@ -1,0 +1,543 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-31 15:06+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:2
+msgid "Nutzungsordnung für den Interclub"
+msgstr "Regulations for the Use of the Interclub"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here <https://ordnungen.stura.eu/en/ordnung/interclub-"
+"nutzungsordnung.html>`_."
+msgstr ""
+"This is a translation of the original text. Only the `German version of "
+"this regulation <https://ordnungen.stura.eu/ordnung/interclub-"
+"nutzungsordnung.html>`_ is legally binding."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:8
+msgid ""
+"Der Interclub ist kein Club im eigentlichen Sinne. Es sind Räumlichkeiten"
+" im Keller des Hauses L, die für verschiedene Veranstaltungen genutzt "
+"werden können. Ziel des Projekts \"Interclub\" ist es, eine "
+"interkulturelle Begegnungsstätte für Veranstaltungen von und mit "
+"internationalen Studendierenden zu bieten sowie als Treffpunkt von "
+"studentischen Initiativen zu dienen. Die vorliegende Nutzungsordnung soll"
+" auf Basis des Mietvertrags, der Hausordnung des Studierendenwerkes und "
+"der Satzung des Projektes „Interclub“ des Studierendenrates an der TU "
+"Ilmenau (StuRa) die richtige Vergabe des Nutzungsrechtes der "
+"Räumlichkeiten und die damit verbundenen Rechte und Pflichten regeln. Der"
+" StuRa tritt als Träger des Projekts \"Interclub\" auf."
+msgstr ""
+"The Interclub is not a club in the true sense of the word. It is space in"
+" the basement of House L that can be used for various events. The aim of "
+"the \"Interclub\" project is to provide an intercultural meeting place "
+"for events by and with international students as well as to serve as a "
+"meeting place for student initiatives. Based on the rental contract, the "
+"house rules of the Studierendenwerk and the statutes of the project "
+"\"Interclub\" of the student council at the TU Ilmenau (StuRa), the "
+"present rules of use shall regulate the proper allocation of the right to"
+" use the premises and the associated rights and obligations. The StuRa "
+"acts as the sponsor of the project \"Interclub\"."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:11
+msgid "§ 1 -- Nutzungsberechtigte"
+msgstr "§ 1 -- Authorized users"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:13
+msgid "Zur Nutzung des Interclubs berechtigt sind:"
+msgstr "Entitled to use the Interclub are:"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:15
+msgid "alle Teile und Unter-Organisationen des Studierendenrates der TU Ilmenau"
+msgstr "all parts and sub-organizations of the student council of the TU Ilmenau"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:16
+msgid "vom Studierendenrat der TU Ilmenau anerkannte studentische Initiativen"
+msgstr "student initiatives recognized by the Student Council of the TU Ilmenau"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:18
+msgid ""
+"Weitere Organisationen und Personen können durch Beschluss des Referats "
+"Interclub des StuRa zur Nutzung berechtigt werden. Ist das Referat "
+"Interclub nicht beschlussfähig, beschließt der StuRa stellvertretend."
+msgstr ""
+"Other organizations and persons can be authorized for use by resolution "
+"of the Interclub Department of the StuRa. If the Interclub Unit does not "
+"have a quorum, the StuRa decides by proxy."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:19
+msgid ""
+"Bei wiederholtem Verstoß gegen die Nutzungsordnung oder zugehörige "
+"Abmachungen, kann das Referat Interclub selbstständig entscheiden, den "
+"betreffenden Nutzer von weiteren Nutzungen auszuschließen. Widerspruch "
+"gegen den Ausschluss kann beim Studierendenrat der TU Ilmenau eingereicht"
+" werden."
+msgstr ""
+"In the event of repeated violations of the rules of use or related "
+"agreements, the Interclub department may decide independently to exclude "
+"the user in question from further use. An objection against the exclusion"
+" can be submitted to the Student Council of the TU Ilmenau."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:20
+msgid ""
+"Der Status der Berechtigung begründet keinen Anspruch auf Genehmigung "
+"einer Nutzung."
+msgstr ""
+"The status of authorization does not establish a right to approval of a "
+"use."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:23
+msgid "§ 2 -- Anforderungen an satzungsgerechte Nutzungen"
+msgstr "§ 2 -- Requirements for uses in compliance with the statutes."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:25
+msgid ""
+"Alle Nutzungen müssen dem Zweck und insbesondere den Zielen der "
+"Projektbeschreibung entsprechen."
+msgstr ""
+"All uses must be consistent with the purpose and specifically the goals "
+"of the project description."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:26
+msgid ""
+"Näheres regelt die Projektbeschreibung des Interclubs in einem separaten "
+"Dokument."
+msgstr ""
+"Details are regulated by the project description of the Interclub in a "
+"separate document."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:29
+msgid "§ 3 -- Vergabe des Nutzungsrechts"
+msgstr "§ 3 -- Granting of the right of use"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:31
+msgid ""
+"Die Vergabe des Nutzungsrechts an Berechtigte für satzungsgerechte "
+"Nutzungen erfolgt durch das Referat Interclub für den jeweiligen Zweck."
+msgstr ""
+"The allocation of the right of use to authorized persons for uses in "
+"accordance with the statutes is carried out by the Interclub Unit for the"
+" respective purpose."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:32
+msgid ""
+"Die Vergabe der Nutzungsrechte soll nach einer Priorisierung erfolgen. "
+"Dabei wird zwischen den folgenden Arten von Nutzungen unterschieden. "
+"Diese sollen absteigend priorisiert werden:"
+msgstr ""
+"The allocation of usage rights is to be carried out according to "
+"prioritization. A distinction is made between the following types of use."
+" These are to be prioritized in descending order:"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:34
+msgid ""
+"Sitzungen und Nutzungen aller Teile und Unter-Organisationen des "
+"Studierendenrates der TU Ilmenau."
+msgstr ""
+"Meetings and uses of all parts and sub-organizations of the Student "
+"Council of the TU Ilmenau."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:35
+msgid "Nutzungen, die über mehrere Tage am Stück durchgeführt werden."
+msgstr "Uses that are carried out over several days at a time."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:36
+msgid "Eintägige und kürzere Nutzungen, die regelmäßig stattfinden."
+msgstr "One-day and shorter uses that occur on a regular basis."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:37
+msgid "Alleinstehende und Einzel-Nutzungen."
+msgstr "Stand-alone and single-use."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:39
+msgid ""
+"Die Nutzung des Interclubs wird durch vollständiges Ausfüllen und "
+"Versenden des Antragsformulars beantragt. Durch das Formular werden alle "
+"Details der Nutzung dokumentiert. Das Antragsformular kann unabhängig von"
+" der Nutzungsordnung aktualisiert werden."
+msgstr ""
+"The use of the Interclub is requested by completely filling out and "
+"sending the application form. Through the form all details of the use are"
+" documented. The application form can be updated independently of the "
+"rules of use."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:40
+msgid ""
+"Das Referat Interclub stellt zur Vergabe des Nutzungsrechts und während "
+"der Dauer der Nutzung einen Ansprechpartner zur Verfügung. Als "
+"Kommunikationsweg dienen E-Mail- und Telefon-Kontakt."
+msgstr ""
+"The Interclub Unit provides a contact person for the allocation of the "
+"right of use and for the duration of the use. E-mail and telephone "
+"contact serve as the communication channel."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:41
+msgid ""
+"Der Nutzer stellt zur Vergabe des Nutzungsrechts und während der Dauer "
+"der Nutzung einen Ansprechpartner für das Referat Interclub zur "
+"Verfügung. Dieser soll für Themen in Vor- und Nachbereitung der Nutzung "
+"sowie bei Fragen während der Nutzung dauerhaft erreichbar sein. Als "
+"Kommunikationsweg dienen E-Mail- und Telefon-Kontakt."
+msgstr ""
+"The user shall provide a contact person for the Interclub Unit for the "
+"purpose of granting the right of use and for the duration of the use. "
+"This contact person should be permanently available for topics in "
+"preparation and follow-up of the use as well as for questions during the "
+"use. E-mail and telephone contact shall serve as the communication "
+"channel."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:42
+msgid ""
+"Bei der Werbung für Veranstaltungen im Interclub ist unter Rücksichtnahme"
+" der externen Förderrichtlinie des StuRa der StuRa als Träger wirksam "
+"aufzuführen."
+msgstr ""
+"When advertising events at the Interclub, the StuRa is to be effectively "
+"listed as the sponsor, taking into account the StuRa's external funding "
+"guidelines."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:43
+msgid ""
+"Zum Erhalt des Nutzungsrechtes müssen alle Kautionen und Gebühren "
+"vollständig vor Beginn der Nutzung beglichen werden. Details dazu regelt "
+"§4."
+msgstr ""
+"To obtain the right of use, all deposits and fees must be paid in full "
+"before the start of use. Details are regulated by §4."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:46
+msgid "§ 4 -- Kaution und Gebühren"
+msgstr "§ 4 -- Deposit and fees"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:48
+msgid ""
+"Für die Nutzung des Interclubs ist eine Kaution an den Studierendenrat "
+"der TU Ilmenau zu entrichten. Die Höhe der Kaution wird durch das Referat"
+" Finanzen festgelegt."
+msgstr ""
+"For the use of the Interclub a deposit has to be paid to the Student "
+"Council of the TU Ilmenau. The amount of the deposit is determined by the"
+" Finance Department."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:50
+msgid ""
+"Für alle Teile und Unter-Organisationen des Studierendenrates der TU "
+"Ilmenau entfällt die Kaution vollständig."
+msgstr ""
+"For all parts and sub-organizations of the Student Council of the TU "
+"Ilmenau the deposit is completely waived."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:51
+msgid ""
+"Für sonstige Nutzungen wird eine Kaution verlangt. Die Höhe der Kaution "
+"wird in einer separaten Kautionsliste festgelegt. Die Kautionsliste kann "
+"unabhängig von dieser Nutzungsordnung durch das Referat Finanzen "
+"aktualisiert werden und muss nach Änderungen dem Studierendenrat der TU "
+"Ilmenau verkündet werden."
+msgstr ""
+"A deposit is required for other uses. The amount of the deposit is "
+"determined in a separate deposit list. The deposit list can be updated "
+"independently of these usage regulations by the Finance Department and "
+"must be announced to the Ilmenau University Student Council after "
+"changes."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:52
+msgid ""
+"Für einzelne Nutzer kann eine von (b) abweichende Kaution unter Vorlage "
+"einer Begründung durch das Referat Finanzen festgelegt werden."
+msgstr ""
+"For individual users, a deposit deviating from (b) may be set by the "
+"Finance Unit upon submission of a justification."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:53
+msgid ""
+"Pro nutzungsberechtigter Initiative nach § 1, Abs. 1 (b) kann die Kaution"
+" einmalig pro Semester hinterlegt werden. Wurde die Kautionshöhe nicht "
+"geändert, kann nach Rücksprache der Hinterlegungszeitraum verlängert "
+"werden."
+msgstr ""
+"The deposit can be made once per semester for each initiative entitled to"
+" use according to § 1, para. 1 (b). If the deposit amount has not been "
+"changed, the deposit period can be extended after consultation."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:55
+msgid ""
+"Für die Nutzung des Interclubs ist eine Gebühr an den Studierendenrat der"
+" TU Ilmenau zu entrichten. Die Höhe der Gebühr wird durch das Referat "
+"Finanzen festgelegt."
+msgstr ""
+"For the use of the Interclub a fee has to be paid to the Student Council "
+"of the TU Ilmenau. The amount of the fee is determined by the Finance "
+"Department."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:57
+msgid ""
+"Für alle Teile und Unter-Organisationen des Studierendenrates der TU "
+"Ilmenau entfällt die Gebühr vollständig."
+msgstr ""
+"For all parts and sub-organizations of the Student Council of the TU "
+"Ilmenau the fee is waived completely."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:58
+msgid ""
+"Für sonstige Nutzungen kann eine Gebühr verlangt werden. Die Höhe der "
+"Gebühr wird in einer separaten Liste festgelegt. Diese kann unabhängig "
+"von dieser Nutzungsordnung durch das Referat Finanzen aktualisiert werden"
+" und muss nach Änderungen dem Studierendenrat der TU Ilmenau verkündet "
+"werden."
+msgstr ""
+"A fee may be charged for other uses. The amount of the fee is determined "
+"in a separate list. This can be updated independently of these usage "
+"regulations by the Finance Department and must be announced to the "
+"Student Council of the TU Ilmenau after changes."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:59
+msgid ""
+"Für einzelne Nutzer kann eine von (b) abweichende Gebühr unter Vorlage "
+"einer Begründung durch das Referat Finanzen festgelegt werden."
+msgstr ""
+"For individual users, a fee deviating from (b) may be established by the "
+"Finance Unit upon submission of a justification."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:62
+msgid "§ 5 -- Übergabe und Regeln der Nutzung"
+msgstr "§ 5 -- Transfer and rules of use"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:64
+msgid ""
+"Die Übergabe erfolgt durch ein Mitglied des Referats Interclub an den "
+"festgelegten Ansprechpartner des Nutzers."
+msgstr ""
+"The transfer will be made by a member of the Interclub Unit to the user's"
+" designated contact person."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:65
+msgid ""
+"Das Referat Interclub stellt den Zugang zum Interclub für den Nutzer "
+"sicher:"
+msgstr "The Interclub Unit provides access to the Interclub for the user:"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:67
+msgid "Für den Zugang zum Interclub dient standardmäßig der \"Ausleihtoken\"."
+msgstr "For access to the Interclub, the \"borrow token\" is used by default."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:68
+msgid ""
+"Bei regelmäßigen Nutzungen kann das Referat Interclub die Freigabe eines "
+"persönlichen Tokens des Nutzers für den Interclub beschließen."
+msgstr ""
+"In case of regular use, the Interclub Unit may decide to release a "
+"personal token of the user for the Interclub."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:70
+msgid ""
+"Die Übergabe wird anhand einer Checkliste durchgeführt. Auch wird der "
+"Zustand und die Vollständigkeit des Inventars des Interclubs untersucht."
+msgstr ""
+"The handover is carried out on the basis of a checklist. Also, the "
+"condition and completeness of the inventory of the interclub is examined."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:71
+msgid ""
+"Bei jeder Nutzung ist das Nutzungsbuch durch den Nutzer auszufüllen. Bei "
+"einmaligen Nutzungen kann das Ausfüllen durch einen Vertreter des "
+"Referats Interclub übernommen werden."
+msgstr ""
+"The user must fill in the user book for each use. In the case of one-time"
+" use, a representative of the Interclub Unit may complete the book."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:72
+msgid ""
+"Der Interclub muss pfleglich behandelt werden. Die Hausordnung des "
+"Studierendenwerks muss eingehalten werden."
+msgstr ""
+"The Interclub must be treated with care. The house rules of the Student "
+"Union must be observed."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:73
+msgid ""
+"Es ist gewünscht, dass Nutzungen auf den Korkplatten im Gemeinschaftsraum"
+" des Interclub verewigt werden. Verwendet werden können z.B. Sticker, "
+"Anstecknadeln, Bilder oder ähnliches. Andere Flächen im Interclub stehen "
+"dafür nicht zur Verfügung."
+msgstr ""
+"It is desired that uses are immortalized on the cork boards in the common"
+" room of the Interclub. Stickers, pins, pictures or similar can be used. "
+"Other areas in the Interclub are not available for this purpose."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:76
+msgid "§ 6 -- Rückgabe und Schäden"
+msgstr "§ 6 -- Return and damage"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:78
+msgid ""
+"Die Rückgabe und Abnahme erfolgt durch ein Mitglied des Referats "
+"Interclub und den festgelegten Ansprechpartner des Nutzers. Die Rückgabe "
+"erfolgt nach Absprache mit dem Ansprechpartner des Referats Interclub zum"
+" frühstmöglichen Zeitpunkt nach Abschluss der Nutzung und spätestens vor "
+"Beginn der nächsten Nutzung."
+msgstr ""
+"The return and acceptance is carried out by a member of the Interclub "
+"Unit and the user's specified contact person. The return takes place "
+"after consultation with the contact person of the Interclub Unit at the "
+"earliest possible time after completion of the use and at the latest "
+"before the start of the next use."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:79
+msgid ""
+"Die Rückgabe wird anhand einer Checkliste durchgeführt. Auch wird der "
+"Zustand und die Vollständigkeit des Inventars des Interclubs untersucht. "
+"Darüber hinaus ist der Stellplan des Interclubs zu beachten. Verwendete "
+"Verbrauchsgegenstände müssen durch den Nutzer nach Rücksprache aufgefüllt"
+" werden. Alle Böden und Oberflächen sind zu reinigen."
+msgstr ""
+"The return is carried out on the basis of a checklist. Also, the "
+"condition and completeness of the inventory of the interclub will be "
+"examined. In addition, the layout plan of the Interclub must be observed."
+" Used consumables must be replenished by the user after consultation. All"
+" floors and surfaces are to be cleaned."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:81
+msgid ""
+"Werden Schäden festgestellt, wird die Höhe der Schäden in Rechnung "
+"gestellt. Dabei kann ein Teil oder die gesamte Kaution einbehalten "
+"werden."
+msgstr ""
+"If damage is found, the amount of the damage will be charged. In this "
+"case, part or all of the deposit may be retained."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:82
+msgid ""
+"Sind die Schäden durch normale Abnutzung zu begründen, kann auf die "
+"Rechnungstellung verzichtet werden."
+msgstr "If the damage is due to normal wear and tear, the invoice may be waived."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:83
+msgid ""
+"Werden keine Schäden festgestellt, kann die gesamte Kaution zurückgezahlt"
+" werden."
+msgstr "If no damage is found, the entire deposit may be returned."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:84
+msgid ""
+"Wird zu einem späteren Zeitpunkt ein Schaden festgestellt, kann die Höhe "
+"des Schadens nachträglich in Rechnung gestellt werden."
+msgstr ""
+"If damage is discovered at a later date, the amount of the damage may be "
+"charged retroactively."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:86
+msgid ""
+"Bei regelmäßigen Nutzungen wird der Interclub stichprobenartig durch "
+"einen Vertreter des Referat Interclub überprüft. Es kann auf eine "
+"regelmäßige Rückgabe verzichtet werden."
+msgstr ""
+"For regular use, the Interclub will be randomly checked by a "
+"representative of the Interclub Unit. Regular returns may be waived."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:87
+msgid ""
+"Bei Verlust von Inventar des Interclubs können über die Höhe der Kaution "
+"hinausgehende Wiederanschaffungskosten in Rechnung gestellt werden."
+msgstr ""
+"In the event of loss of Interclub inventory, replacement costs in excess "
+"of the amount of the deposit may be charged."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:88
+msgid ""
+"Aufgrund eines verursachten Schadens ab einem Wert von 250,00 € oder "
+"unsachgemäßer Nutzung kann eine Nutzungssperre durch das Referat "
+"Interclub für die Dauer von bis zu 6 Monaten gegen den Nutzer verhängt "
+"werden. Widerspruch gegen die Nutzungssperre kann beim Studierendenrat "
+"der TU Ilmenau eingereicht werden."
+msgstr ""
+"Due to a caused damage from a value of 250,00 € or improper use, a usage "
+"block can be imposed against the user by the department Interclub for a "
+"period of up to 6 months. An objection against the blocking of use can be"
+" submitted to the Student Council of the TU Ilmenau."
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:91
+msgid "§ 7 -- Anhänge"
+msgstr "§ 7 -- Appendices"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:93
+msgid ""
+"Die in dieser Ordnung definierten Anhänge und ergänzende Dokumente sind "
+"zu beachten. Dazu gehören unter anderen:"
+msgstr ""
+"The annexes and supplementary documents defined in these Regulations "
+"shall be observed. These include, among others:"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:95
+msgid ""
+":doc:`Satzung und Projektbeschreibung des Interclubs <interclub-"
+"projektbeschreibung>`"
+msgstr ""
+":doc:`Statute and project description of the Interclub <interclub-"
+"projektbeschreibung>`"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:96
+msgid "Antragsformular für den Interclub"
+msgstr "Interclub application form"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:97
+msgid ""
+"`Kautions- und Gebührentabelle <https://cloud.stura-"
+"ilmenau.de/s/nceBTCcme3m3rN7>`_"
+msgstr ""
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:98
+msgid "Checkliste zur Übergabe und Inventarliste des Interclubs"
+msgstr "Interclub handover checklist and inventory list"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:99
+msgid "Stellplan des Interclubs"
+msgstr "Position plan of the interclub"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:100
+msgid ""
+"`Hausordnung des Studierendenwerks <https://www.stw-"
+"thueringen.de/assets/public/Dokumente/wohnen/Hausordnung_allgemein.pdf>`_"
+msgstr ""
+"`House Rules of the Studierendenwerk <https://www.stw-"
+"thueringen.de/assets/public/Dokumente/wohnen/Hausordnung_allgemein.pdf>`_"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:103
+msgid "§ 8 -- Inkrafttreten"
+msgstr "§ 8 -- Entry into force"
+
+#: ../../source/ordnung/interclub-nutzungsordnung.rst:105
+msgid ""
+"Diese Nutzungsordnung tritt mit Beschluss 32/25-O02 des StuRa vom "
+"12.12.2022 in Kraft."
+msgstr ""
+"These usage regulations come into force with resolution 32/25-O02 of the "
+"StuRa of 12.12.2022."
+
+#~ msgid ""
+#~ ":download:`Kautions- und Gebührentabelle "
+#~ "<../_static/files/gebuehrentabelle_interclub.pdf>`"
+#~ msgstr ""
+#~ ":download:`Deposit and fee table "
+#~ "<../_static/files/gebuehrentabelle_interclub.pdf>`"
+

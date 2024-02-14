@@ -1,0 +1,265 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-25 13:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:2
+msgid "Interclub-Projektbeschreibung"
+msgstr "Interclub Project Description"
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:6
+msgid ""
+"A legally non-binding English translation of this regulation can be found"
+" `here <https://ordnungen.stura.eu/en/ordnung/interclub-"
+"projektbeschreibung.html>`_."
+msgstr ""
+"This is a translation of the "
+"original text. Only the `German version"
+" of this regulation "
+"<https://ordnungen.stura.eu/ordnung/interclub-"
+"projektbeschreibung.html>`_ is legally binding."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:8
+msgid "Die Projektbeschreibung hat Satzungscharakter."
+msgstr "The project description has the character of a statute."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:11
+msgid "§ 1 -- Träger des Projekts"
+msgstr "§ 1 -- Project sponsor"
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:13
+msgid ""
+"Der Studentenrat der TU Ilmenau (StuRa) trägt den Interclub in den "
+"Räumlichkeiten des Studentenwerkes Erfurt-Ilmenau im Max-Planck-Ring 6c /"
+" L2x."
+msgstr ""
+"The Student Council of the TU Ilmenau (StuRa) carries the Interclub in "
+"the premises of the Studentenwerk Erfurt-Ilmenau in Max-Planck-Ring 6c / "
+"L2x."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:14
+msgid ""
+"Der Interclub wird von verschiedenen studentischen Gruppen regelmäßig zu "
+"öffentlichen, halböffentlichen oder geschlossenen Veranstaltungen "
+"genutzt. Diese Gruppen bilden den Kreis der Aktiven,"
+msgstr ""
+"The Interclub is regularly used by various student groups for public, "
+"semi-public or closed events. These groups form the active circle,"
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:15
+msgid ""
+"Nichtstudenten können zu Ehrenaktiven ernannt werden, denen in allen "
+"projektbezogenen Fragen Mitspracherecht eingeräumt wird."
+msgstr ""
+"Non-students may be appointed Honorary Actives, who will be given a voice"
+" in all project-related matters."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:18
+msgid "§ 2 -- Ziele des Projekts"
+msgstr "§ 2 -- Aims of the project"
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:20
+msgid ""
+"Oberstes Anliegen ist Gewaltfreiheit und Toleranz untereinander und allen"
+" gegenüber, die sich ebenfalls diesen Sittengesetzen verpflichtet fühlen."
+msgstr ""
+"The highest concern is non-violence and tolerance towards each other and "
+"towards all those who are also committed to these moral laws."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:21
+msgid ""
+"Die Räumlichkeiten sollen eine zwanglose interkulturelle Begegnungsstätte"
+" bieten. Der Interclub kann nicht sinnvoll eine Club- oder "
+"Vereinsstruktur im engeren Sinne haben, sondern will ein offener Verband "
+"für Aktivitäten sein. Kommerzielle Ziele werden nicht verfolgt. Ziele der"
+" persönlichen finanziellen Bereicherung dürfen nicht verfolgt werden."
+msgstr ""
+"The premises are intended to provide an informal intercultural meeting "
+"place. The Interclub cannot reasonably have a club or association "
+"structure in the strict sense, but wants to be an open association for "
+"activities. Commercial goals are not pursued. Goals of personal financial"
+" enrichment may not be pursued."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:22
+msgid ""
+"Der Interclub soll bewusst einen Ort bieten, wo sich Interessierte "
+"treffen können, denen das aufgrund spezifischer kultureller Anforderungen"
+" oder aufgrund der Wohnsituation in anderen Räumlichkeiten nicht möglich "
+"ist."
+msgstr ""
+"The Interclub is deliberately intended to provide a place where "
+"interested people can meet who are unable to do so in other venues due to"
+" specific cultural requirements or housing situations."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:23
+msgid ""
+"Das Projekt will die Universität in ihrem Ziel, die Anzahl ausländischer "
+"Studierender zu erhöhen, auf der studentenkulturellen Seite unterstützen."
+" Eine Zusammenarbeit mit dem Studentenwerk Erfurt-Ilmenau, der KuKo e. "
+"V., ISWI e. V. und dem Studentenclub e. V. wird angestrebt. Einer "
+"Zusammenarbeit mit den örtlichen Schulen, der Volkshochschule sowie der "
+"Stadt Ilmenau gegenüber steht es offen, wenn die Aktiven diese im "
+"Einzelfall mittragen wollen."
+msgstr ""
+"The project aims to support the university in its goal of increasing the "
+"number of foreign students on the student cultural side. A cooperation "
+"with the Studentenwerk Erfurt-Ilmenau, the KuKo e. V., ISWI e. V. and the"
+" Studentenclub e. V. is aspired. A cooperation with the local schools, "
+"the adult education center as well as the city of Ilmenau is open, if the"
+" active people want to support this in individual cases."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:24
+msgid ""
+"Das Projekt ist abgeschlossen, wenn sich für länger als ein Semester "
+"keine Aktiven mehr finden, die es eigenständig beleben wollen oder "
+"können."
+msgstr ""
+"The project is finished when there are no more active people who want to "
+"or can revive it independently for longer than one semester."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:27
+msgid "§ 3 -- Inhalte"
+msgstr "§ 3 -- Contents"
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:29
+msgid ""
+"Der Interclub hat keine regelmäßige eigenständige Öffnung. Den Aktiven "
+"steht der Club zur Nutzung für ihre Aktivitäten grundsätzlich immer zur "
+"Verfügung."
+msgstr ""
+"The Interclub has no regular independent opening. In principle, the club "
+"is always available to the active members for use in their activities."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:30
+msgid "Es sollen Länderabende mit spezifischer kultureller Prägung stattfinden."
+msgstr "Country evenings with specific cultural character are to be held."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:31
+msgid ""
+"Es sollen Sprachkreise zwischen fremdsprachigen und muttersprachlichen "
+"Studierenden stattfinden."
+msgstr ""
+"There should be language circles between foreign language and native "
+"language students."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:32
+msgid ""
+"Die Räume stehen für Vorträge, Diskussionsrunden oder Videoabende "
+"interkultureller oder gemeinschaftsbildender Natur offen."
+msgstr ""
+"The rooms are open for lectures, discussion groups or video evenings of "
+"an intercultural or community-building nature."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:33
+msgid ""
+"Bei Bedarf stehen die Räume für Beratungsrunden und formlosen Treffen "
+"gemäß § 2 Absatz 3 offen."
+msgstr ""
+"If necessary, the rooms are open for consultation rounds and informal "
+"meetings according to § 2 paragraph 3."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:34
+msgid ""
+"In Ausnahmefällen werden die Räume für Privatveranstaltungen zur "
+"Verfügung gestellt. Darüber entscheidet der StuRa oder die aktiven "
+"Gruppen."
+msgstr ""
+"In exceptional cases, the rooms are made available for private events. "
+"The StuRa or the active groups decide on this."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:37
+msgid "§ 4 -- Durchführungsbestimmungen"
+msgstr "§ 4 -- Implementation rules"
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:39
+msgid ""
+"Aktive Gruppen und benannte Hauptansprechpartner werden vom StuRa auf "
+"formlosen Antrag mit einfacher Mehrheit bestätigt. Die "
+"Hauptansprechpartner stellen ihren Antrag dem StuRa auf einer "
+"ordentlichen Sitzung persönlich vor. Sie berichten dem StuRa und sind ihm"
+" grundsätzlich rechenschaftspflichtig. Kommt es zu begründeten "
+"Beschwerden, kann das Nutzungsrecht auf Antrag vorübergehend oder "
+"dauerhaft entzogen werden."
+msgstr ""
+"Active groups and named main contact persons are confirmed by the StuRa "
+"upon informal application with a simple majority. The main contact "
+"persons present their application to the StuRa in person at a regular "
+"meeting. They report to the StuRa and are generally accountable to it. If"
+" there are justified complaints, the right of use can be withdrawn "
+"temporarily or permanently upon request."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:40
+msgid ""
+"Die benannten Hauptansprechpartner der aktiven Gruppen müssen zu Beginn "
+"jedes Semesters bestätigt werden. Dazu wird eine gesonderte Sitzung "
+"einberufen. Diese soll auch Arbeitsgruppen aus dem Kreis der Aktiven zur "
+"längerfristigen Planung von Aktivitäten einschließlich "
+"Renovierungsvorhaben sowie zur Öffentlichkeitsarbeit bezogen auf die "
+"Marke Interclub installieren."
+msgstr ""
+"The designated main contact persons of the active groups must be "
+"confirmed at the beginning of each semester. A separate meeting will be "
+"convened for this purpose. This shall also install working groups from "
+"among the active groups for longer-term planning of activities including "
+"renovation projects as well as public relations related to the Interclub "
+"brand."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:41
+msgid ""
+"Die Geschäftsführung des StuRa verwaltet einen Terminplan sowie die "
+"zeitweise Übertragung des Hausrechts, insbesondere auch die Vergabe von "
+"Schlüsseln."
+msgstr ""
+"The management of the StuRa manages a schedule as well as the temporary "
+"transfer of domiciliary rights, in particular also the allocation of "
+"keys."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:42
+msgid "In Streitfällen vermittelt der StuRa."
+msgstr "In cases of dispute, the StuRa will mediate."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:43
+msgid ""
+"Der StuRa verwaltet und trägt die Mittel zur Kommunikation des "
+"Interclubs. Dazu gehört eine Mailingliste für die interne Kommunikation "
+"sowie direkte oder gelinkte Präsenz der aktiven Gruppen im WWW-Angebot "
+"des StuRa."
+msgstr ""
+"The StuRa manages and carries the means of communication of the "
+"Interclub. This includes a mailing list for internal communication as "
+"well as direct or linked presence of the active groups in the StuRa's WWW"
+" offer."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:44
+msgid "Für das Projekt Interclub wird eine eigene Kostenstelle geführt."
+msgstr "A separate cost center is maintained for the Interclub project."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:45
+msgid ""
+"Näheres wird durch die :doc:`Nutzungsordnung <interclub-nutzungsordnung>`"
+" festgelegt."
+msgstr ""
+"Further details are determined by the :doc:`usage regulations <interclub-"
+"nutzungsordnung>`."
+
+#: ../../source/ordnung/interclub-projektbeschreibung.rst:49
+msgid "Beschlossen vom Studentenrat der TU Ilmenau am 22.11.2000"
+msgstr "Decided by the student council of the TU Ilmenau on 22.11.2000"
+
