@@ -1,0 +1,361 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Studierendenrat der TU Ilmenau
+# This file is distributed under the same license as the StuRa-Ordnungen
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StuRa-Ordnungen \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-16 13:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:2
+msgid "Nutzungsordnung für den Co-Working-Space"
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:4
+msgid ""
+"Der Co-Working-Space (CWS) des Studierendenrates der TU Ilmenau (StuRa) "
+"ist ein Raumverbund im Helmholtzbau. Dieser besteht aus Arbeitsräumen, "
+"zusammengesetzt aus zwei Räumen mit Shared-Desks und einem Konferenzraum."
+" Während die Arbeitsräume miteinander verbunden sind, ist der "
+"Konferenzraum separiert. Hier können ungestört private Meetings oder "
+"Telefonkonferenzen durchgeführt werden. In den Räumen gibt es ausreichend"
+" Arbeitsplätze für verschiedene Aufgaben und Organisationen. Ergänzt wird"
+" diese Raumgruppe durch ein Büro für Mitglieder des StuRa. Gegenüber ist "
+"eine Teeküche und ein großer, offener Aufenthaltsbereich zu finden."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:6
+msgid ""
+"Wir hoffen, dass durch dieses Projekt die Effizienz ehrenamtlicher "
+"Tätigkeit und der Zusammenhalt der studentischen Initiativen gesteigert "
+"wird. Es soll ein Treffpunkt für unsere Gemeinschaft entstehen."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:9
+msgid "§ 1 -- Ordnungsgerechte Nutzungen und Zuständigkeit"
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:11
+msgid ""
+"Der CWS und seine zugehörigen Räume wurden zur Förderung des Ehrenamts in"
+" den studentischen Initiativen und Gremien an der TU Ilmenau durch den "
+"StuRa eingerichtet. Alle Nutzungen der Arbeitsplätze oder des "
+"Konferenzraums sollen der Erfüllung dieser ehrenamtlichen Tätigkeiten und"
+" Aufgaben dienen."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:12
+msgid ""
+"Sofern ausreichend freie Arbeitsplätze zur Verfügung stehen, können diese"
+" für andere universitäre Zwecke genutzt werden."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:13
+msgid ""
+"Stellvertretend für den StuRa ist das Referat Ehrenamt zuständig für den "
+"CWS"
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:16
+msgid "§ 2 -- Nutzungsberechtigte"
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:18
+msgid "Zur Nutzung des CWS und seiner zugehörigen Räume berechtigt sind:"
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:20
+msgid "alle Teile und Unter-Organisationen des StuRa,"
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:21
+msgid "vom StuRa anerkannte studentische Initiativen,"
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:22
+msgid "Studierende der TU Ilmenau."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:24
+msgid ""
+"Weitere können durch Beschluss der Zuständigen zur Nutzung berechtigt "
+"werden."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:25
+msgid ""
+"Bei wiederholtem Verstoß gegen die Nutzungsordnung oder zugehörige "
+"Abmachungen können die Zuständigen selbstständig entscheiden, die "
+"betreffende Organisation oder Person(en) von weiteren Nutzungen "
+"auszuschließen. Widerspruch kann beim StuRa eingereicht werden."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:26
+msgid "Die Berechtigung begründet keinen Anspruch auf Genehmigung einer Nutzung."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:29
+msgid "§ 3 -- Vergabe des Nutzungsrechts"
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:31
+msgid ""
+"Die Vergabe des Nutzungsrechts an Berechtigte für ordnungsgerechte "
+"Nutzungen erfolgt durch die Zuständigen des StuRa."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:32
+msgid ""
+"Der Vergabeprozess soll einfach gehalten werden. Das Nutzungsrecht muss "
+"in Textform beantragt werden. Nach Rücksprache mit dem Antragssteller "
+"kann das Nutzungsrecht durch den Zuständigen des StuRa für den CWS "
+"textlich erteilt werden. Bei Bedarf kann die Leitung der studentischen "
+"Initiative oder des Gremiums in das Gespräch einbezogen werden."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:33
+msgid ""
+"Nutzungen werden einmal je Semester für die Dauer des laufenden Semesters"
+" genehmigt. Auf Anfrage kann die Dauer des Nutzungsrechts auf ein Jahr "
+"verlängert werden. Spätestens nach Ablauf eines Jahres muss das "
+"Nutzungsrecht neu beantragt werden."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:34
+msgid "Findet die Nutzung nicht mehr statt, ist dies durch den Nutzer abzumelden."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:35
+msgid ""
+"Zum Erhalt des Nutzungsrechtes müssen alle Kautionen und Gebühren "
+"vollständig vor Beginn der Nutzung beglichen werden. Details dazu regelt "
+"§ 4."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:38
+msgid "§ 4 -- Kaution und Gebühren"
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:40
+msgid ""
+"Für die Nutzung des CWS und seiner zugehörigen Räume ist eine Kaution an "
+"den StuRa zu entrichten."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:41
+msgid ""
+"Die Höhe der Kaution wird in einer separaten Kautionsliste durch das "
+"Referat Finanzen festgelegt. Die Kautionsliste kann unabhängig von dieser"
+" Nutzungsordnung durch das Referat Finanzen aktualisiert werden und muss "
+"nach Änderungen dem StuRa verkündet werden."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:43
+msgid ""
+"Für alle Teile und Unter-Organisationen des StuRa entfällt die Kaution "
+"vollständig."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:44
+msgid ""
+"Für alle vom StuRa anerkannte studentische Initiativen entfällt die "
+"Kaution vollständig."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:45
+msgid ""
+"Für einzelne Organisationen oder Personen kann eine abweichende Kaution "
+"unter Vorlage einer Begründung durch das Referat Finanzen festgelegt "
+"werden."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:47
+msgid ""
+"Für die Nutzung des CWS und seiner zugehörigen Räume ist eine Gebühr an "
+"den StuRa zu entrichten."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:49
+msgid ""
+"Für alle Teile und Unter-Organisationen des StuRa entfällt die Gebühr "
+"vollständig."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:50
+msgid ""
+"Für alle vom StuRa anerkannte studentische Initiativen entfällt die "
+"Gebühr vollständig."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:51
+msgid ""
+"Für einzelne Organisationen oder Personen kann eine abweichende Gebühr "
+"unter Vorlage einer Begründung durch das Referat Finanzen festgelegt "
+"werden."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:54
+msgid "§ 5 -- Zutritt und Regeln der Nutzung"
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:56
+msgid "Der Zutritt wird durch die Zuständigen des StuRa für den CWS gewährt."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:57
+msgid ""
+"Sofern genehmigt wird der selbstständige Zutritt zu den Räumen durch den "
+"Nutzer sichergestellt. Bei regelmäßigen Nutzungen können die Zuständigen "
+"des StuRa für den CWS die Freigabe eines persönlichen "
+"Identifikationsmediums des Nutzers beschließen. Näheres regelt die "
+"Schließsystemordnung."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:58
+msgid ""
+"Der CWS und seine zugehörigen Räume müssen pfleglich behandelt werden. "
+"Alle Nutzer sind für Ordnung und Sauberkeit an ihren Arbeitsplätzen "
+"verantwortlich. Schäden an der Einrichtung sind den Zuständigen des StuRa"
+" für den CWS zu melden. Ein Stellplan der Räumlichkeiten dient zur "
+"Orientierung."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:59
+msgid ""
+"Arbeitsplätze im CWS dürfen durch Nutzer im Sinne der Gemeinschaft nicht "
+"dauerhaft blockiert oder reserviert werden."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:60
+msgid ""
+"Die Zuständigen des StuRa für den CWS dürfen Lagerfläche in den Schränken"
+" den Nutzern exklusiv zuweisen. Regelmäßigen Nutzern darf außerdem ein "
+"abschließbarer Rollcontainer zugewiesen werden. In diesem Fall stehen "
+"solche Möbel den anderen Nutzern nicht mehr zur Verfügung. Zugewiesene "
+"Möbel dürfen personalisiert gestaltet werden, solange eine Beschädigung "
+"des Mobiliars ausgeschlossen ist und die Gestaltung rückstandslos "
+"entfernbar ist."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:61
+msgid ""
+"Der Konferenzraum und der Mac-Arbeitsplatz können für individuelle "
+"Termine reserviert werden. Sollen diese länger als üblich zu erwarten (z."
+" B. mehrtägig) andauern, sind die Zuständigen des StuRa für den CWS "
+"darüber zu informieren."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:64
+msgid "§ 6 -- Kontrolle und Schäden"
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:66
+msgid ""
+"Die Kontrolle der Räume erfolgt stichprobenartig, aber mindestens einmal "
+"pro Semester. Zu prüfen ist die Vollständigkeit der Einrichtung und "
+"Funktionsfähigkeit dieser."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:67
+msgid ""
+"Abhängig vom Ergebnis der Kontrolle stehen mehrere Vorgehensweisen zur "
+"Verfügung."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:69
+msgid ""
+"Werden Schäden und Verursacher festgestellt, wird die Höhe der Schäden in"
+" Rechnung gestellt. Wenn vorhanden kann ein Teil oder die gesamte Kaution"
+" einbehalten werden."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:70
+msgid ""
+"Sind die Schäden durch normale Abnutzung zu begründen, kann auf die "
+"Rechnungstellung verzichtet werden."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:71
+msgid ""
+"Werden keine Schäden festgestellt, kann die gesamte Kaution zurückgezahlt"
+" werden."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:72
+msgid ""
+"Wird zu einem späteren Zeitpunkt ein Schaden oder ein Verursacher "
+"festgestellt, kann die Höhe des Schadens nachträglich in Rechnung "
+"gestellt werden."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:74
+msgid ""
+"Bei Verlust oder irreparabler Zerstörung von Inventar können über die "
+"Höhe der Kaution hinausgehende Wiederanschaffungskosten in Rechnung "
+"gestellt werden"
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:77
+msgid "§ 7 -- Datenschutz"
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:79
+msgid ""
+"Die im Zusammenhang mit der Anwendung dieser Ordnung erhobenen "
+"personenbezogenen Daten dürfen lediglich zum Zweck der Verwaltung der "
+"Nutzungsberechtigungen, Nutzungsvergaben und der in dieser Ordnung "
+"definierten Prozesse verarbeitet werden. Grundlage der Verarbeitung "
+"bildet diese Ordnung."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:80
+msgid ""
+"#. Für die genannten personenbezogenen Daten gilt eine "
+"Mindestvorhaltefrist von einem Jahr. Es gilt eine maximale Vorhaltedauer "
+"von zwei Jahren. Nach Ablauf der Aufbewahrungsfrist werden die "
+"gespeicherten Daten DSGVO-konform vernichtet. Im Fall von nicht "
+"periodischen Nutzungen sind personenbezogene Daten nach Ende der Nutzung "
+"innerhalb von vier Wochen zu löschen."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:84
+msgid "§ 8 -- Inkrafttreten"
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:86
+msgid ""
+"Diese Ordnung wurde am 10.04.2024 durch den StuRa beschlossen und tritt "
+"vorbehaltlich redaktioneller Änderungen am folgenden Tage in Kraft."
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:89
+msgid "§ 9 -- Anhänge"
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:91
+msgid ""
+"Die in dieser Ordnung definierten Anhänge und ergänzende Dokumente sind "
+"zu beachten. Dazu gehören unter anderen:"
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:93
+msgid "Kautions- und Gebührentabelle für den CWS"
+msgstr ""
+
+#: ../../source/ordnung/cws-nutzungsordnung.rst:94
+msgid "Stellplan des CWS"
+msgstr ""
+

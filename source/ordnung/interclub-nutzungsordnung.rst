@@ -36,7 +36,8 @@ Der Interclub ist kein Club im eigentlichen Sinne. Es sind Räumlichkeiten im Ke
     - Eintägige und kürzere Nutzungen, die regelmäßig stattfinden.
     - Alleinstehende und Einzel-Nutzungen.
 
-#. Die Nutzung des Interclubs wird durch vollständiges Ausfüllen und Versenden des Antragsformulars beantragt. Durch das Formular werden alle Details der Nutzung dokumentiert. Das Antragsformular kann unabhängig von der Nutzungsordnung aktualisiert werden.
+#. Die Nutzung des Interclubs soll beantragt werden, indem das Antragsformular 14 Tage vor dem gewünschten Nutzungsbeginn ausgefüllt und abgeschickt wird. Durch das Formular werden alle Details der Nutzung dokumentiert. Das Antragsformular kann unabhängig von der Nutzungsordnung aktualisiert werden.
+#. Regelmäßige Nutzungen werden einmal je Semester für die Dauer des laufenden Semesters angemeldet. Findet die regelmäßige Nutzung nicht mehr statt, ist sie durch die veranstaltende Organisation abzumelden oder kann durch das Referat Interclub aus dem Nutzungsplan gestrichen werden.
 #. Das Referat Interclub stellt zur Vergabe des Nutzungsrechts und während der Dauer der Nutzung einen Ansprechpartner zur Verfügung. Als Kommunikationsweg dienen E-Mail- und Telefon-Kontakt.
 #. Der Nutzer stellt zur Vergabe des Nutzungsrechts und während der Dauer der Nutzung einen Ansprechpartner für das Referat Interclub zur Verfügung. Dieser soll für Themen in Vor- und Nachbereitung der Nutzung sowie bei Fragen während der Nutzung dauerhaft erreichbar sein. Als Kommunikationsweg dienen E-Mail- und Telefon-Kontakt.
 #. Bei der Werbung für Veranstaltungen im Interclub ist unter Rücksichtnahme der externen Förderrichtlinie des StuRa der StuRa als Träger wirksam aufzuführen.
@@ -70,7 +71,8 @@ Der Interclub ist kein Club im eigentlichen Sinne. Es sind Räumlichkeiten im Ke
 #. Die Übergabe wird anhand einer Checkliste durchgeführt. Auch wird der Zustand und die Vollständigkeit des Inventars des Interclubs untersucht.
 #. Bei jeder Nutzung ist das Nutzungsbuch durch den Nutzer auszufüllen. Bei einmaligen Nutzungen kann das Ausfüllen durch einen Vertreter des Referats Interclub übernommen werden.
 #. Der Interclub muss pfleglich behandelt werden. Die Hausordnung des Studierendenwerks muss eingehalten werden.
-#. Es ist gewünscht, dass Nutzungen auf den Korkplatten im Gemeinschaftsraum des Interclub verewigt werden. Verwendet werden können z.B. Sticker, Anstecknadeln, Bilder oder ähnliches. Andere Flächen im Interclub stehen dafür nicht zur Verfügung.
+#. Die im Seminarraum und Wohnzimmer/Küche verbaute Musikanlage darf über die zur Verfügung gestellten Schnittstellen verwendet werden. Die Voreinstellungen der Anlagen und die Position der Boxen dürfen nicht verändert werden. Vom StuRa zur Verfügung gestellte Control Panels dürfen verwendet werden. Die Subwoofer sind während der in der Hausordnung festgelegten Ruhezeiten auszuschalten.
+#. Es ist gewünscht, dass Nutzungen auf den Korkplatten im Gemeinschaftsraum des Interclub verewigt werden. Verwendet werden können z. B. Sticker, Anstecknadeln, Bilder oder ähnliches. Andere Flächen im Interclub stehen dafür nicht zur Verfügung.
 
 § 6 -- Rückgabe und Schäden
 ---------------------------
@@ -87,7 +89,19 @@ Der Interclub ist kein Club im eigentlichen Sinne. Es sind Räumlichkeiten im Ke
 #. Bei Verlust von Inventar des Interclubs können über die Höhe der Kaution hinausgehende Wiederanschaffungskosten in Rechnung gestellt werden.
 #. Aufgrund eines verursachten Schadens ab einem Wert von 250,00 € oder unsachgemäßer Nutzung kann eine Nutzungssperre durch das Referat Interclub für die Dauer von bis zu 6 Monaten gegen den Nutzer verhängt werden. Widerspruch gegen die Nutzungssperre kann beim Studierendenrat der TU Ilmenau eingereicht werden.
 
-§ 7 -- Anhänge
+§ 7 -- Datenschutz
+------------------
+
+#. Die im Zusammenhang mit der Anwendung dieser Ordnung erhobenen personenbezogenen Daten dürfen lediglich zum Zweck der Verwaltung der Nutzungsberechtigungen, Nutzungsvergaben und der in dieser Ordnung definierten Prozesse verarbeitet werden. Grundlage der Verarbeitung bildet diese Ordnung.
+#. Für die genannten personenbezogenen Daten gilt eine Mindestvorhaltefrist von einem Jahr. Es gilt eine maximale Vorhaltedauer von zwei Jahren. Nach Ablauf der Aufbewahrungsfrist werden die gespeicherten Daten DSGVO-konform vernichtet. Im Fall von nicht periodischen Nutzungen sind personenbezogene Daten nach Ende der Nutzung innerhalb von vier Wochen zu löschen.
+
+§ 8 -- Inkrafttreten
+--------------------
+
+#. Diese Nutzungsordnung tritt mit Beschluss 32/25-O02 des StuRa vom 12.12.2022 in Kraft.
+#. Die erste Änderung dieser Ordnung wurde am 10.04.2024 durch den StuRa beschlossen und tritt am darauffolgenden Tage in Kraft.
+
+§ 9 -- Anhänge
 --------------
 
 #. Die in dieser Ordnung definierten Anhänge und ergänzende Dokumente sind zu beachten. Dazu gehören unter anderen:
@@ -96,10 +110,4 @@ Der Interclub ist kein Club im eigentlichen Sinne. Es sind Räumlichkeiten im Ke
     #. Antragsformular für den Interclub
     #. `Kautions- und Gebührentabelle <https://cloud.stura-ilmenau.de/s/nceBTCcme3m3rN7>`_
     #. Checkliste zur Übergabe und Inventarliste des Interclubs
-    #. Stellplan des Interclubs
     #. `Hausordnung des Studierendenwerks <https://www.stw-thueringen.de/assets/public/Dokumente/wohnen/Hausordnung_allgemein.pdf>`_
-
-§ 8 -- Inkrafttreten
---------------------
-
-Diese Nutzungsordnung tritt mit Beschluss 32/25-O02 des StuRa vom 12.12.2022 in Kraft.

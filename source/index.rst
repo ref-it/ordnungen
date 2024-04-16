@@ -36,6 +36,7 @@ Auf dieser Website werden die Satzung der Studierendenschaft der Technischen Uni
 
    ordnung/studentische-initiativen
    ordnung/ehrenamtsurkunden
+   ordnung/cws-nutzungsordnung
 
 .. toctree::
    :maxdepth: 1
